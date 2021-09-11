@@ -1,6 +1,7 @@
 [
   {
     "name": "ナエトル",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 55,
@@ -32,6 +33,7 @@
   },
   {
     "name": "ハヤシガメ",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 75,
@@ -63,6 +65,7 @@
   },
   {
     "name": "ドダイトス",
+    "nameEn": "Monferno",
     "types": ["くさ", "じめん"],
     "baseStats": {
       "hitPoint": 95,
@@ -101,6 +104,7 @@
   },
   {
     "name": "ヒコザル",
+    "nameEn": "Monferno",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 44,
@@ -137,6 +141,7 @@
   },
   {
     "name": "モウカザル",
+    "nameEn": "Monferno",
     "types": ["ほのお", "かくとう"],
     "baseStats": {
       "hitPoint": 64,
@@ -176,6 +181,7 @@
   },
   {
     "name": "ゴウカザル",
+    "nameEn": "Monferno",
     "types": ["ほのお", "かくとう"],
     "baseStats": {
       "hitPoint": 76,
@@ -219,6 +225,7 @@
   },
   {
     "name": "ポッチャマ",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 53,
@@ -251,6 +258,7 @@
   },
   {
     "name": "ポッタイシ",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 64,
@@ -284,6 +292,7 @@
   },
   {
     "name": "エンペルト",
+    "nameEn": "Monferno",
     "types": ["みず", "はがね"],
     "baseStats": {
       "hitPoint": 84,
@@ -323,6 +332,7 @@
   },
   {
     "name": "ムックル",
+    "nameEn": "Monferno",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 40,
@@ -352,6 +362,7 @@
   },
   {
     "name": "ムクバード",
+    "nameEn": "Monferno",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 55,
@@ -382,6 +393,7 @@
   },
   {
     "name": "ムクホーク",
+    "nameEn": "Monferno",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 85,
@@ -414,6 +426,7 @@
   },
   {
     "name": "ビッパ",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 59,
@@ -443,6 +456,7 @@
   },
   {
     "name": "ビーダル",
+    "nameEn": "Monferno",
     "types": ["ノーマル", "みず"],
     "baseStats": {
       "hitPoint": 79,
@@ -480,6 +494,7 @@
   },
   {
     "name": "コロボーシ",
+    "nameEn": "Monferno",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 37,
@@ -495,6 +510,7 @@
   },
   {
     "name": "コロトック",
+    "nameEn": "Monferno",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 77,
@@ -524,6 +540,7 @@
   },
   {
     "name": "コリンク",
+    "nameEn": "Monferno",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 45,
@@ -560,6 +577,7 @@
   },
   {
     "name": "ルクシオ",
+    "nameEn": "Monferno",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 60,
@@ -596,6 +614,7 @@
   },
   {
     "name": "レントラー",
+    "nameEn": "Monferno",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 80,
@@ -635,6 +654,7 @@
   },
   {
     "name": "スボミー",
+    "nameEn": "Monferno",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 40,
@@ -676,6 +696,7 @@
   },
   {
     "name": "ロズレイド",
+    "nameEn": "Monferno",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -727,6 +748,7 @@
   },
   {
     "name": "ズガイドス",
+    "nameEn": "Monferno",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 67,
@@ -764,6 +786,7 @@
   },
   {
     "name": "ラムパルド",
+    "nameEn": "Monferno",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 97,
@@ -808,6 +831,7 @@
   },
   {
     "name": "タテトプス",
+    "nameEn": "Monferno",
     "types": ["いわ", "はがね"],
     "baseStats": {
       "hitPoint": 30,
@@ -840,6 +864,7 @@
   },
   {
     "name": "トリデプス",
+    "nameEn": "Monferno",
     "types": ["いわ", "はがね"],
     "baseStats": {
       "hitPoint": 60,
@@ -876,6 +901,7 @@
   },
   {
     "name": "ミノムッチ",
+    "nameEn": "Monferno",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 40,
@@ -891,6 +917,7 @@
   },
   {
     "name": "ミノムッチ-1",
+    "nameEn": "Monferno",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 40,
@@ -906,6 +933,7 @@
   },
   {
     "name": "ミノムッチ-2",
+    "nameEn": "Monferno",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 40,
@@ -921,6 +949,7 @@
   },
   {
     "name": "ミノマダム",
+    "nameEn": "Monferno",
     "types": ["むし", "くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -955,6 +984,7 @@
   },
   {
     "name": "ミノマダム-1",
+    "nameEn": "Monferno",
     "types": ["むし", "じめん"],
     "baseStats": {
       "hitPoint": 60,
@@ -992,6 +1022,7 @@
   },
   {
     "name": "ミノマダム-2",
+    "nameEn": "Monferno",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 60,
@@ -1025,6 +1056,7 @@
   },
   {
     "name": "ガーメイル",
+    "nameEn": "Monferno",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -1060,6 +1092,7 @@
   },
   {
     "name": "ガーメイル-1",
+    "nameEn": "Monferno",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -1095,6 +1128,7 @@
   },
   {
     "name": "ガーメイル-2",
+    "nameEn": "Monferno",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -1130,6 +1164,7 @@
   },
   {
     "name": "ミツハニー",
+    "nameEn": "Monferno",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 30,
@@ -1151,6 +1186,7 @@
   },
   {
     "name": "ビークイン",
+    "nameEn": "Monferno",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -1209,6 +1245,7 @@
   },
   {
     "name": "パチリス",
+    "nameEn": "Monferno",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 60,
@@ -1243,6 +1280,7 @@
   },
   {
     "name": "ブイゼル",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 55,
@@ -1278,6 +1316,7 @@
   },
   {
     "name": "フローゼル",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 85,
@@ -1317,6 +1356,7 @@
   },
   {
     "name": "チェリンボ",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 45,
@@ -1367,6 +1407,7 @@
   },
   {
     "name": "チェリム",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 70,
@@ -1412,6 +1453,7 @@
   },
   {
     "name": "チェリム-1",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 70,
@@ -1457,6 +1499,7 @@
   },
   {
     "name": "カラナクシ",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 76,
@@ -1507,6 +1550,7 @@
   },
   {
     "name": "カラナクシ-1",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 76,
@@ -1557,6 +1601,7 @@
   },
   {
     "name": "トリトドン",
+    "nameEn": "Monferno",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 111,
@@ -1606,6 +1651,7 @@
   },
   {
     "name": "トリトドン-1",
+    "nameEn": "Monferno",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 111,
@@ -1655,6 +1701,7 @@
   },
   {
     "name": "エテボース",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -1707,6 +1754,7 @@
   },
   {
     "name": "フワンテ",
+    "nameEn": "Monferno",
     "types": ["ゴースト", "ひこう"],
     "baseStats": {
       "hitPoint": 90,
@@ -1760,6 +1808,7 @@
   },
   {
     "name": "フワライド",
+    "nameEn": "Monferno",
     "types": ["ゴースト", "ひこう"],
     "baseStats": {
       "hitPoint": 150,
@@ -1813,6 +1862,7 @@
   },
   {
     "name": "ミミロル",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 55,
@@ -1856,6 +1906,7 @@
   },
   {
     "name": "ミミロップ",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 65,
@@ -1904,6 +1955,7 @@
   },
   {
     "name": "ミミロップ-1",
+    "nameEn": "Monferno",
     "types": ["ノーマル", "かくとう"],
     "baseStats": {
       "hitPoint": 65,
@@ -1943,6 +1995,7 @@
   },
   {
     "name": "ムウマージ",
+    "nameEn": "Monferno",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 60,
@@ -1984,6 +2037,7 @@
   },
   {
     "name": "ドンカラス",
+    "nameEn": "Monferno",
     "types": ["あく", "ひこう"],
     "baseStats": {
       "hitPoint": 100,
@@ -2024,6 +2078,7 @@
   },
   {
     "name": "ニャルマー",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 49,
@@ -2057,6 +2112,7 @@
   },
   {
     "name": "ブニャット",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 71,
@@ -2094,6 +2150,7 @@
   },
   {
     "name": "リーシャン",
+    "nameEn": "Monferno",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 45,
@@ -2125,6 +2182,7 @@
   },
   {
     "name": "スカンプー",
+    "nameEn": "Monferno",
     "types": ["どく", "あく"],
     "baseStats": {
       "hitPoint": 63,
@@ -2182,6 +2240,7 @@
   },
   {
     "name": "スカタンク",
+    "nameEn": "Monferno",
     "types": ["どく", "あく"],
     "baseStats": {
       "hitPoint": 103,
@@ -2237,6 +2296,7 @@
   },
   {
     "name": "ドーミラー",
+    "nameEn": "Monferno",
     "types": ["はがね", "エスパー"],
     "baseStats": {
       "hitPoint": 57,
@@ -2286,6 +2346,7 @@
   },
   {
     "name": "ドータクン",
+    "nameEn": "Monferno",
     "types": ["はがね", "エスパー"],
     "baseStats": {
       "hitPoint": 67,
@@ -2340,6 +2401,7 @@
   },
   {
     "name": "ウソハチ",
+    "nameEn": "Monferno",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 50,
@@ -2390,6 +2452,7 @@
   },
   {
     "name": "マネネ",
+    "nameEn": "Monferno",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 20,
@@ -2449,6 +2512,7 @@
   },
   {
     "name": "ピンプク",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 100,
@@ -2483,6 +2547,7 @@
   },
   {
     "name": "ペラップ",
+    "nameEn": "Monferno",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 76,
@@ -2511,6 +2576,7 @@
   },
   {
     "name": "ミカルゲ",
+    "nameEn": "Monferno",
     "types": ["ゴースト", "あく"],
     "baseStats": {
       "hitPoint": 50,
@@ -2547,6 +2613,7 @@
   },
   {
     "name": "フカマル",
+    "nameEn": "Monferno",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 58,
@@ -2581,6 +2648,7 @@
   },
   {
     "name": "ガバイト",
+    "nameEn": "Monferno",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 68,
@@ -2615,6 +2683,7 @@
   },
   {
     "name": "ガブリアス",
+    "nameEn": "Monferno",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 108,
@@ -2659,6 +2728,7 @@
   },
   {
     "name": "ガブリアス-1",
+    "nameEn": "Monferno",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 108,
@@ -2701,6 +2771,7 @@
   },
   {
     "name": "ゴンベ",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 135,
@@ -2764,6 +2835,7 @@
   },
   {
     "name": "リオル",
+    "nameEn": "Monferno",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 40,
@@ -2830,6 +2902,7 @@
   },
   {
     "name": "ルカリオ",
+    "nameEn": "Monferno",
     "types": ["かくとう", "はがね"],
     "baseStats": {
       "hitPoint": 70,
@@ -2902,6 +2975,7 @@
   },
   {
     "name": "ルカリオ-1",
+    "nameEn": "Monferno",
     "types": ["かくとう", "はがね"],
     "baseStats": {
       "hitPoint": 70,
@@ -2974,6 +3048,7 @@
   },
   {
     "name": "ヒポポタス",
+    "nameEn": "Monferno",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 68,
@@ -3023,6 +3098,7 @@
   },
   {
     "name": "カバルドン",
+    "nameEn": "Monferno",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 108,
@@ -3072,6 +3148,7 @@
   },
   {
     "name": "スコルピ",
+    "nameEn": "Monferno",
     "types": ["どく", "むし"],
     "baseStats": {
       "hitPoint": 40,
@@ -3127,6 +3204,7 @@
   },
   {
     "name": "ドラピオン",
+    "nameEn": "Monferno",
     "types": ["どく", "あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -3190,6 +3268,7 @@
   },
   {
     "name": "グレッグル",
+    "nameEn": "Monferno",
     "types": ["どく", "かくとう"],
     "baseStats": {
       "hitPoint": 48,
@@ -3257,6 +3336,7 @@
   },
   {
     "name": "ドクロッグ",
+    "nameEn": "Monferno",
     "types": ["どく", "かくとう"],
     "baseStats": {
       "hitPoint": 83,
@@ -3318,6 +3398,7 @@
   },
   {
     "name": "マスキッパ",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 74,
@@ -3350,6 +3431,7 @@
   },
   {
     "name": "ケイコウオ",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 49,
@@ -3383,6 +3465,7 @@
   },
   {
     "name": "ネオラント",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 69,
@@ -3418,6 +3501,7 @@
   },
   {
     "name": "タマンタ",
+    "nameEn": "Monferno",
     "types": ["みず", "ひこう"],
     "baseStats": {
       "hitPoint": 45,
@@ -3471,6 +3555,7 @@
   },
   {
     "name": "ユキカブリ",
+    "nameEn": "Monferno",
     "types": ["くさ", "こおり"],
     "baseStats": {
       "hitPoint": 60,
@@ -3522,6 +3607,7 @@
   },
   {
     "name": "ユキノオー",
+    "nameEn": "Monferno",
     "types": ["くさ", "こおり"],
     "baseStats": {
       "hitPoint": 90,
@@ -3579,6 +3665,7 @@
   },
   {
     "name": "ユキノオー-1",
+    "nameEn": "Monferno",
     "types": ["くさ", "こおり"],
     "baseStats": {
       "hitPoint": 90,
@@ -3637,6 +3724,7 @@
   },
   {
     "name": "マニューラ",
+    "nameEn": "Monferno",
     "types": ["あく", "こおり"],
     "baseStats": {
       "hitPoint": 70,
@@ -3702,6 +3790,7 @@
   },
   {
     "name": "ジバコイル",
+    "nameEn": "Monferno",
     "types": ["でんき", "はがね"],
     "baseStats": {
       "hitPoint": 70,
@@ -3736,6 +3825,7 @@
   },
   {
     "name": "ベロベルト",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 110,
@@ -3784,6 +3874,7 @@
   },
   {
     "name": "ドサイドン",
+    "nameEn": "Monferno",
     "types": ["じめん", "いわ"],
     "baseStats": {
       "hitPoint": 115,
@@ -3853,6 +3944,7 @@
   },
   {
     "name": "モジャンボ",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 100,
@@ -3894,6 +3986,7 @@
   },
   {
     "name": "エレキブル",
+    "nameEn": "Monferno",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 75,
@@ -3942,6 +4035,7 @@
   },
   {
     "name": "ブーバーン",
+    "nameEn": "Monferno",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 75,
@@ -3986,6 +4080,7 @@
   },
   {
     "name": "トゲキッス",
+    "nameEn": "Monferno",
     "types": ["フェアリー", "ひこう"],
     "baseStats": {
       "hitPoint": 85,
@@ -4052,6 +4147,7 @@
   },
   {
     "name": "メガヤンマ",
+    "nameEn": "Monferno",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 86,
@@ -4084,6 +4180,7 @@
   },
   {
     "name": "リーフィア",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 65,
@@ -4141,6 +4238,7 @@
   },
   {
     "name": "グレイシア",
+    "nameEn": "Monferno",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 65,
@@ -4197,6 +4295,7 @@
   },
   {
     "name": "グライオン",
+    "nameEn": "Monferno",
     "types": ["じめん", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -4247,6 +4346,7 @@
   },
   {
     "name": "マンムー",
+    "nameEn": "Monferno",
     "types": ["こおり", "じめん"],
     "baseStats": {
       "hitPoint": 110,
@@ -4303,6 +4403,7 @@
   },
   {
     "name": "ポリゴン-Z",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 85,
@@ -4340,6 +4441,7 @@
   },
   {
     "name": "エルレイド",
+    "nameEn": "Monferno",
     "types": ["エスパー", "かくとう"],
     "baseStats": {
       "hitPoint": 68,
@@ -4424,6 +4526,7 @@
   },
   {
     "name": "エルレイド-1",
+    "nameEn": "Monferno",
     "types": ["エスパー", "かくとう"],
     "baseStats": {
       "hitPoint": 68,
@@ -4508,6 +4611,7 @@
   },
   {
     "name": "ダイノーズ",
+    "nameEn": "Monferno",
     "types": ["いわ", "はがね"],
     "baseStats": {
       "hitPoint": 60,
@@ -4547,6 +4651,7 @@
   },
   {
     "name": "ヨノワール",
+    "nameEn": "Monferno",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 45,
@@ -4607,6 +4712,7 @@
   },
   {
     "name": "ユキメノコ",
+    "nameEn": "Monferno",
     "types": ["こおり", "ゴースト"],
     "baseStats": {
       "hitPoint": 70,
@@ -4665,6 +4771,7 @@
   },
   {
     "name": "ロトム",
+    "nameEn": "Monferno",
     "types": ["でんき", "ゴースト"],
     "baseStats": {
       "hitPoint": 50,
@@ -4711,6 +4818,7 @@
   },
   {
     "name": "ロトム-1",
+    "nameEn": "Monferno",
     "types": ["でんき", "ほのお"],
     "baseStats": {
       "hitPoint": 50,
@@ -4757,6 +4865,7 @@
   },
   {
     "name": "ロトム-2",
+    "nameEn": "Monferno",
     "types": ["でんき", "みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -4803,6 +4912,7 @@
   },
   {
     "name": "ロトム-3",
+    "nameEn": "Monferno",
     "types": ["でんき", "こおり"],
     "baseStats": {
       "hitPoint": 50,
@@ -4849,6 +4959,7 @@
   },
   {
     "name": "ロトム-4",
+    "nameEn": "Monferno",
     "types": ["でんき", "ひこう"],
     "baseStats": {
       "hitPoint": 50,
@@ -4895,6 +5006,7 @@
   },
   {
     "name": "ロトム-5",
+    "nameEn": "Monferno",
     "types": ["でんき", "くさ"],
     "baseStats": {
       "hitPoint": 50,
@@ -4941,6 +5053,7 @@
   },
   {
     "name": "ユクシー",
+    "nameEn": "Monferno",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 75,
@@ -4988,6 +5101,7 @@
   },
   {
     "name": "エムリット",
+    "nameEn": "Monferno",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -5034,6 +5148,7 @@
   },
   {
     "name": "アグノム",
+    "nameEn": "Monferno",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 75,
@@ -5082,6 +5197,7 @@
   },
   {
     "name": "ディアルガ",
+    "nameEn": "Monferno",
     "types": ["はがね", "ドラゴン"],
     "baseStats": {
       "hitPoint": 100,
@@ -5120,6 +5236,7 @@
   },
   {
     "name": "パルキア",
+    "nameEn": "Monferno",
     "types": ["みず", "ドラゴン"],
     "baseStats": {
       "hitPoint": 90,
@@ -5164,6 +5281,7 @@
   },
   {
     "name": "ヒードラン",
+    "nameEn": "Monferno",
     "types": ["ほのお", "はがね"],
     "baseStats": {
       "hitPoint": 91,
@@ -5201,6 +5319,7 @@
   },
   {
     "name": "レジギガス",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 110,
@@ -5245,6 +5364,7 @@
   },
   {
     "name": "ギラティナ",
+    "nameEn": "Monferno",
     "types": ["ゴースト", "ドラゴン"],
     "baseStats": {
       "hitPoint": 150,
@@ -5285,6 +5405,7 @@
   },
   {
     "name": "ギラティナ-1",
+    "nameEn": "Monferno",
     "types": ["ゴースト", "ドラゴン"],
     "baseStats": {
       "hitPoint": 150,
@@ -5325,6 +5446,7 @@
   },
   {
     "name": "クレセリア",
+    "nameEn": "Monferno",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 120,
@@ -5364,6 +5486,7 @@
   },
   {
     "name": "フィオネ",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 80,
@@ -5397,6 +5520,7 @@
   },
   {
     "name": "マナフィ",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 100,
@@ -5434,6 +5558,7 @@
   },
   {
     "name": "ダークライ",
+    "nameEn": "Monferno",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -5475,6 +5600,7 @@
   },
   {
     "name": "シェイミ",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 100,
@@ -5505,6 +5631,7 @@
   },
   {
     "name": "シェイミ-1",
+    "nameEn": "Monferno",
     "types": ["くさ", "ひこう"],
     "baseStats": {
       "hitPoint": 100,
@@ -5535,6 +5662,7 @@
   },
   {
     "name": "アルセウス",
+    "nameEn": "Monferno",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 120,
@@ -5585,6 +5713,7 @@
   },
   {
     "name": "アルセウス-1",
+    "nameEn": "Monferno",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 120,
@@ -5635,6 +5764,7 @@
   },
   {
     "name": "アルセウス-2",
+    "nameEn": "Monferno",
     "types": ["ひこう"],
     "baseStats": {
       "hitPoint": 120,
@@ -5685,6 +5815,7 @@
   },
   {
     "name": "アルセウス-3",
+    "nameEn": "Monferno",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 120,
@@ -5735,6 +5866,7 @@
   },
   {
     "name": "アルセウス-4",
+    "nameEn": "Monferno",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 120,
@@ -5785,6 +5917,7 @@
   },
   {
     "name": "アルセウス-5",
+    "nameEn": "Monferno",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 120,
@@ -5835,6 +5968,7 @@
   },
   {
     "name": "アルセウス-6",
+    "nameEn": "Monferno",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 120,
@@ -5885,6 +6019,7 @@
   },
   {
     "name": "アルセウス-7",
+    "nameEn": "Monferno",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 120,
@@ -5935,6 +6070,7 @@
   },
   {
     "name": "アルセウス-8",
+    "nameEn": "Monferno",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 120,
@@ -5985,6 +6121,7 @@
   },
   {
     "name": "アルセウス-9",
+    "nameEn": "Monferno",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 120,
@@ -6035,6 +6172,7 @@
   },
   {
     "name": "アルセウス-10",
+    "nameEn": "Monferno",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 120,
@@ -6085,6 +6223,7 @@
   },
   {
     "name": "アルセウス-11",
+    "nameEn": "Monferno",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 120,
@@ -6135,6 +6274,7 @@
   },
   {
     "name": "アルセウス-12",
+    "nameEn": "Monferno",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 120,
@@ -6185,6 +6325,7 @@
   },
   {
     "name": "アルセウス-13",
+    "nameEn": "Monferno",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 120,
@@ -6235,6 +6376,7 @@
   },
   {
     "name": "アルセウス-14",
+    "nameEn": "Monferno",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 120,
@@ -6285,6 +6427,7 @@
   },
   {
     "name": "アルセウス-15",
+    "nameEn": "Monferno",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 120,
@@ -6335,6 +6478,7 @@
   },
   {
     "name": "アルセウス-16",
+    "nameEn": "Monferno",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 120,
@@ -6385,6 +6529,7 @@
   },
   {
     "name": "アルセウス-17",
+    "nameEn": "Monferno",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 120,

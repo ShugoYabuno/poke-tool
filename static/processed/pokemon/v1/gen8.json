@@ -1,6 +1,7 @@
 [
   {
     "name": "メルタン",
+    "nameEn": "Sobble",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 46,
@@ -29,6 +30,7 @@
   },
   {
     "name": "メルメタル",
+    "nameEn": "Sobble",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 135,
@@ -74,6 +76,7 @@
   },
   {
     "name": "サルノリ",
+    "nameEn": "Sobble",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 50,
@@ -128,6 +131,7 @@
   },
   {
     "name": "バチンキー",
+    "nameEn": "Sobble",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 70,
@@ -176,6 +180,7 @@
   },
   {
     "name": "ゴリランダー",
+    "nameEn": "Sobble",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 100,
@@ -238,6 +243,7 @@
   },
   {
     "name": "ヒバニー",
+    "nameEn": "Sobble",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 50,
@@ -284,6 +290,7 @@
   },
   {
     "name": "ラビフット",
+    "nameEn": "Sobble",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 65,
@@ -326,6 +333,7 @@
   },
   {
     "name": "エースバーン",
+    "nameEn": "Sobble",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 80,
@@ -378,6 +386,7 @@
   },
   {
     "name": "メッソン",
+    "nameEn": "Sobble",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -427,6 +436,7 @@
   },
   {
     "name": "ジメレオン",
+    "nameEn": "Sobble",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 65,
@@ -470,6 +480,7 @@
   },
   {
     "name": "インテレオン",
+    "nameEn": "Sobble",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -522,6 +533,7 @@
   },
   {
     "name": "ホシガリス",
+    "nameEn": "Sobble",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 70,
@@ -568,6 +580,7 @@
   },
   {
     "name": "ヨクバリス",
+    "nameEn": "Sobble",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 120,
@@ -617,6 +630,7 @@
   },
   {
     "name": "ココガラ",
+    "nameEn": "Sobble",
     "types": ["ひこう"],
     "baseStats": {
       "hitPoint": 38,
@@ -667,6 +681,7 @@
   },
   {
     "name": "アオガラス",
+    "nameEn": "Sobble",
     "types": ["ひこう"],
     "baseStats": {
       "hitPoint": 68,
@@ -710,6 +725,7 @@
   },
   {
     "name": "アーマーガア",
+    "nameEn": "Sobble",
     "types": ["ひこう", "はがね"],
     "baseStats": {
       "hitPoint": 98,
@@ -761,6 +777,7 @@
   },
   {
     "name": "サッチムシ",
+    "nameEn": "Sobble",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 25,
@@ -783,6 +800,7 @@
   },
   {
     "name": "レドームシ",
+    "nameEn": "Sobble",
     "types": ["むし", "エスパー"],
     "baseStats": {
       "hitPoint": 50,
@@ -820,6 +838,7 @@
   },
   {
     "name": "イオルブ",
+    "nameEn": "Sobble",
     "types": ["むし", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -873,6 +892,7 @@
   },
   {
     "name": "クスネ",
+    "nameEn": "Sobble",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 40,
@@ -916,6 +936,7 @@
   },
   {
     "name": "フォクスライ",
+    "nameEn": "Sobble",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -964,6 +985,7 @@
   },
   {
     "name": "ヒメンカ",
+    "nameEn": "Sobble",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 40,
@@ -1011,6 +1033,7 @@
   },
   {
     "name": "ワタシラガ",
+    "nameEn": "Sobble",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -1057,6 +1080,7 @@
   },
   {
     "name": "ウールー",
+    "nameEn": "Sobble",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 42,
@@ -1096,6 +1120,7 @@
   },
   {
     "name": "バイウールー",
+    "nameEn": "Sobble",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 72,
@@ -1138,6 +1163,7 @@
   },
   {
     "name": "カムカメ",
+    "nameEn": "Sobble",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -1179,6 +1205,7 @@
   },
   {
     "name": "カジリガメ",
+    "nameEn": "Sobble",
     "types": ["みず", "いわ"],
     "baseStats": {
       "hitPoint": 90,
@@ -1234,6 +1261,7 @@
   },
   {
     "name": "ワンパチ",
+    "nameEn": "Sobble",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 59,
@@ -1280,6 +1308,7 @@
   },
   {
     "name": "パルスワン",
+    "nameEn": "Sobble",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 69,
@@ -1326,6 +1355,7 @@
   },
   {
     "name": "タンドン",
+    "nameEn": "Sobble",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 30,
@@ -1369,6 +1399,7 @@
   },
   {
     "name": "トロッゴン",
+    "nameEn": "Sobble",
     "types": ["いわ", "ほのお"],
     "baseStats": {
       "hitPoint": 80,
@@ -1412,6 +1443,7 @@
   },
   {
     "name": "セキタンザン",
+    "nameEn": "Sobble",
     "types": ["いわ", "ほのお"],
     "baseStats": {
       "hitPoint": 110,
@@ -1463,6 +1495,7 @@
   },
   {
     "name": "カジッチュ",
+    "nameEn": "Sobble",
     "types": ["くさ", "ドラゴン"],
     "baseStats": {
       "hitPoint": 40,
@@ -1486,6 +1519,7 @@
   },
   {
     "name": "アップリュー",
+    "nameEn": "Sobble",
     "types": ["くさ", "ドラゴン"],
     "baseStats": {
       "hitPoint": 70,
@@ -1533,6 +1567,7 @@
   },
   {
     "name": "タルップル",
+    "nameEn": "Sobble",
     "types": ["くさ", "ドラゴン"],
     "baseStats": {
       "hitPoint": 110,
@@ -1581,6 +1616,7 @@
   },
   {
     "name": "スナヘビ",
+    "nameEn": "Sobble",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 52,
@@ -1622,6 +1658,7 @@
   },
   {
     "name": "サダイジャ",
+    "nameEn": "Sobble",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 72,
@@ -1665,6 +1702,7 @@
   },
   {
     "name": "ウッウ",
+    "nameEn": "Sobble",
     "types": ["ひこう", "みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -1716,6 +1754,7 @@
   },
   {
     "name": "ウッウ-1",
+    "nameEn": "Sobble",
     "types": ["ひこう", "みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -1767,6 +1806,7 @@
   },
   {
     "name": "ウッウ-2",
+    "nameEn": "Sobble",
     "types": ["ひこう", "みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -1818,6 +1858,7 @@
   },
   {
     "name": "サシカマス",
+    "nameEn": "Sobble",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 41,
@@ -1861,6 +1902,7 @@
   },
   {
     "name": "カマスジョー",
+    "nameEn": "Sobble",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 61,
@@ -1904,6 +1946,7 @@
   },
   {
     "name": "エレズン",
+    "nameEn": "Sobble",
     "types": ["でんき", "どく"],
     "baseStats": {
       "hitPoint": 40,
@@ -1935,6 +1978,7 @@
   },
   {
     "name": "ストリンダー",
+    "nameEn": "Sobble",
     "types": ["でんき", "どく"],
     "baseStats": {
       "hitPoint": 75,
@@ -1996,6 +2040,7 @@
   },
   {
     "name": "ストリンダー-1",
+    "nameEn": "Sobble",
     "types": ["でんき", "どく"],
     "baseStats": {
       "hitPoint": 75,
@@ -2057,6 +2102,7 @@
   },
   {
     "name": "ヤクデ",
+    "nameEn": "Sobble",
     "types": ["ほのお", "むし"],
     "baseStats": {
       "hitPoint": 50,
@@ -2099,6 +2145,7 @@
   },
   {
     "name": "マルヤクデ",
+    "nameEn": "Sobble",
     "types": ["ほのお", "むし"],
     "baseStats": {
       "hitPoint": 100,
@@ -2145,6 +2192,7 @@
   },
   {
     "name": "タタッコ",
+    "nameEn": "Sobble",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 50,
@@ -2192,6 +2240,7 @@
   },
   {
     "name": "オトスパス",
+    "nameEn": "Sobble",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 80,
@@ -2244,6 +2293,7 @@
   },
   {
     "name": "ヤバチャ",
+    "nameEn": "Sobble",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 40,
@@ -2282,6 +2332,7 @@
   },
   {
     "name": "ヤバチャ-1",
+    "nameEn": "Sobble",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 40,
@@ -2320,6 +2371,7 @@
   },
   {
     "name": "ポットデス",
+    "nameEn": "Sobble",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 60,
@@ -2366,6 +2418,7 @@
   },
   {
     "name": "ポットデス-1",
+    "nameEn": "Sobble",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 60,
@@ -2412,6 +2465,7 @@
   },
   {
     "name": "ミブリム",
+    "nameEn": "Sobble",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 42,
@@ -2459,6 +2513,7 @@
   },
   {
     "name": "テブリム",
+    "nameEn": "Sobble",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 57,
@@ -2503,6 +2558,7 @@
   },
   {
     "name": "ブリムオン",
+    "nameEn": "Sobble",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 57,
@@ -2557,6 +2613,7 @@
   },
   {
     "name": "ベロバー",
+    "nameEn": "Sobble",
     "types": ["あく", "フェアリー"],
     "baseStats": {
       "hitPoint": 45,
@@ -2600,6 +2657,7 @@
   },
   {
     "name": "ギモー",
+    "nameEn": "Sobble",
     "types": ["あく", "フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -2647,6 +2705,7 @@
   },
   {
     "name": "オーロンゲ",
+    "nameEn": "Sobble",
     "types": ["あく", "フェアリー"],
     "baseStats": {
       "hitPoint": 95,
@@ -2709,6 +2768,7 @@
   },
   {
     "name": "タチフサグマ",
+    "nameEn": "Sobble",
     "types": ["あく", "ノーマル"],
     "baseStats": {
       "hitPoint": 93,
@@ -2779,6 +2839,7 @@
   },
   {
     "name": "ニャイキング",
+    "nameEn": "Sobble",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 70,
@@ -2829,6 +2890,7 @@
   },
   {
     "name": "サニゴーン",
+    "nameEn": "Sobble",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 60,
@@ -2890,6 +2952,7 @@
   },
   {
     "name": "ネギナガナイト",
+    "nameEn": "Sobble",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 62,
@@ -2937,6 +3000,7 @@
   },
   {
     "name": "バリコオル",
+    "nameEn": "Sobble",
     "types": ["こおり", "エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -3015,6 +3079,7 @@
   },
   {
     "name": "デスバーン",
+    "nameEn": "Sobble",
     "types": ["じめん", "ゴースト"],
     "baseStats": {
       "hitPoint": 58,
@@ -3075,6 +3140,7 @@
   },
   {
     "name": "マホミル",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 45,
@@ -3113,6 +3179,7 @@
   },
   {
     "name": "マホイップ",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3163,6 +3230,7 @@
   },
   {
     "name": "マホイップ-1",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3213,6 +3281,7 @@
   },
   {
     "name": "マホイップ-2",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3263,6 +3332,7 @@
   },
   {
     "name": "マホイップ-3",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3313,6 +3383,7 @@
   },
   {
     "name": "マホイップ-4",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3363,6 +3434,7 @@
   },
   {
     "name": "マホイップ-5",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3413,6 +3485,7 @@
   },
   {
     "name": "マホイップ-6",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3463,6 +3536,7 @@
   },
   {
     "name": "マホイップ-7",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3513,6 +3587,7 @@
   },
   {
     "name": "マホイップ-8",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -3563,6 +3638,7 @@
   },
   {
     "name": "タイレーツ",
+    "nameEn": "Sobble",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 65,
@@ -3611,6 +3687,7 @@
   },
   {
     "name": "バチンウニ",
+    "nameEn": "Sobble",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 48,
@@ -3658,6 +3735,7 @@
   },
   {
     "name": "ユキハミ",
+    "nameEn": "Sobble",
     "types": ["こおり", "むし"],
     "baseStats": {
       "hitPoint": 30,
@@ -3687,6 +3765,7 @@
   },
   {
     "name": "モスノウ",
+    "nameEn": "Sobble",
     "types": ["こおり", "むし"],
     "baseStats": {
       "hitPoint": 70,
@@ -3739,6 +3818,7 @@
   },
   {
     "name": "イシヘンジン",
+    "nameEn": "Sobble",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 100,
@@ -3789,6 +3869,7 @@
   },
   {
     "name": "コオリッポ",
+    "nameEn": "Sobble",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 75,
@@ -3836,6 +3917,7 @@
   },
   {
     "name": "コオリッポ-1",
+    "nameEn": "Sobble",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 75,
@@ -3883,6 +3965,7 @@
   },
   {
     "name": "イエッサン",
+    "nameEn": "Sobble",
     "types": ["エスパー", "ノーマル"],
     "baseStats": {
       "hitPoint": 60,
@@ -3932,6 +4015,7 @@
   },
   {
     "name": "イエッサン-1",
+    "nameEn": "Sobble",
     "types": ["エスパー", "ノーマル"],
     "baseStats": {
       "hitPoint": 70,
@@ -3982,6 +4066,7 @@
   },
   {
     "name": "モルペコ",
+    "nameEn": "Sobble",
     "types": ["でんき", "あく"],
     "baseStats": {
       "hitPoint": 58,
@@ -4045,6 +4130,7 @@
   },
   {
     "name": "モルペコ-1",
+    "nameEn": "Sobble",
     "types": ["でんき", "あく"],
     "baseStats": {
       "hitPoint": 58,
@@ -4108,6 +4194,7 @@
   },
   {
     "name": "ゾウドウ",
+    "nameEn": "Sobble",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 72,
@@ -4161,6 +4248,7 @@
   },
   {
     "name": "ダイオウドウ",
+    "nameEn": "Sobble",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 122,
@@ -4213,6 +4301,7 @@
   },
   {
     "name": "パッチラゴン",
+    "nameEn": "Sobble",
     "types": ["でんき", "ドラゴン"],
     "baseStats": {
       "hitPoint": 90,
@@ -4265,6 +4354,7 @@
   },
   {
     "name": "パッチルドン",
+    "nameEn": "Sobble",
     "types": ["でんき", "こおり"],
     "baseStats": {
       "hitPoint": 90,
@@ -4317,6 +4407,7 @@
   },
   {
     "name": "ウオノラゴン",
+    "nameEn": "Sobble",
     "types": ["みず", "ドラゴン"],
     "baseStats": {
       "hitPoint": 90,
@@ -4363,6 +4454,7 @@
   },
   {
     "name": "ウオチルドン",
+    "nameEn": "Sobble",
     "types": ["みず", "こおり"],
     "baseStats": {
       "hitPoint": 90,
@@ -4409,6 +4501,7 @@
   },
   {
     "name": "ジュラルドン",
+    "nameEn": "Sobble",
     "types": ["はがね", "ドラゴン"],
     "baseStats": {
       "hitPoint": 70,
@@ -4459,6 +4552,7 @@
   },
   {
     "name": "ドラメシヤ",
+    "nameEn": "Sobble",
     "types": ["ドラゴン", "ゴースト"],
     "baseStats": {
       "hitPoint": 28,
@@ -4495,6 +4589,7 @@
   },
   {
     "name": "ドロンチ",
+    "nameEn": "Sobble",
     "types": ["ドラゴン", "ゴースト"],
     "baseStats": {
       "hitPoint": 68,
@@ -4545,6 +4640,7 @@
   },
   {
     "name": "ドラパルト",
+    "nameEn": "Sobble",
     "types": ["ドラゴン", "ゴースト"],
     "baseStats": {
       "hitPoint": 88,
@@ -4603,6 +4699,7 @@
   },
   {
     "name": "ザシアン",
+    "nameEn": "Sobble",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 92,
@@ -4658,6 +4755,7 @@
   },
   {
     "name": "ザシアン-1",
+    "nameEn": "Sobble",
     "types": ["フェアリー", "はがね"],
     "baseStats": {
       "hitPoint": 92,
@@ -4713,6 +4811,7 @@
   },
   {
     "name": "ザマゼンタ",
+    "nameEn": "Sobble",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 92,
@@ -4768,6 +4867,7 @@
   },
   {
     "name": "ザマゼンタ-1",
+    "nameEn": "Sobble",
     "types": ["かくとう", "はがね"],
     "baseStats": {
       "hitPoint": 92,
@@ -4823,6 +4923,7 @@
   },
   {
     "name": "ムゲンダイナ",
+    "nameEn": "Sobble",
     "types": ["どく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 140,
@@ -4870,6 +4971,7 @@
   },
   {
     "name": "ムゲンダイナ-1",
+    "nameEn": "Sobble",
     "types": ["どく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 255,

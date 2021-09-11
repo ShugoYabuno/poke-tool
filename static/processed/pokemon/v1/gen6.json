@@ -1,6 +1,7 @@
 [
   {
     "name": "ハリマロン",
+    "nameEn": "Froakie",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 56,
@@ -44,6 +45,7 @@
   },
   {
     "name": "ハリボーグ",
+    "nameEn": "Froakie",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 61,
@@ -87,6 +89,7 @@
   },
   {
     "name": "ブリガロン",
+    "nameEn": "Froakie",
     "types": ["くさ", "かくとう"],
     "baseStats": {
       "hitPoint": 88,
@@ -132,6 +135,7 @@
   },
   {
     "name": "フォッコ",
+    "nameEn": "Froakie",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 40,
@@ -165,6 +169,7 @@
   },
   {
     "name": "テールナー",
+    "nameEn": "Froakie",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 59,
@@ -200,6 +205,7 @@
   },
   {
     "name": "マフォクシー",
+    "nameEn": "Froakie",
     "types": ["ほのお", "エスパー"],
     "baseStats": {
       "hitPoint": 75,
@@ -239,6 +245,7 @@
   },
   {
     "name": "ケロマツ",
+    "nameEn": "Froakie",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 41,
@@ -272,6 +279,7 @@
   },
   {
     "name": "ゲコガシラ",
+    "nameEn": "Froakie",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 54,
@@ -306,6 +314,7 @@
   },
   {
     "name": "ゲッコウガ",
+    "nameEn": "Froakie",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 72,
@@ -343,6 +352,7 @@
   },
   {
     "name": "ゲッコウガ-1",
+    "nameEn": "Froakie",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 72,
@@ -380,6 +390,7 @@
   },
   {
     "name": "ゲッコウガ-2",
+    "nameEn": "Froakie",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 72,
@@ -417,6 +428,7 @@
   },
   {
     "name": "ホルビー",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 38,
@@ -464,6 +476,7 @@
   },
   {
     "name": "ホルード",
+    "nameEn": "Froakie",
     "types": ["ノーマル", "じめん"],
     "baseStats": {
       "hitPoint": 85,
@@ -520,6 +533,7 @@
   },
   {
     "name": "ヤヤコマ",
+    "nameEn": "Froakie",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 45,
@@ -550,6 +564,7 @@
   },
   {
     "name": "ヒノヤコマ",
+    "nameEn": "Froakie",
     "types": ["ほのお", "ひこう"],
     "baseStats": {
       "hitPoint": 62,
@@ -581,6 +596,7 @@
   },
   {
     "name": "ファイアロー",
+    "nameEn": "Froakie",
     "types": ["ほのお", "ひこう"],
     "baseStats": {
       "hitPoint": 78,
@@ -615,6 +631,7 @@
   },
   {
     "name": "コフキムシ",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -630,6 +647,7 @@
   },
   {
     "name": "コフキムシ-1",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -645,6 +663,7 @@
   },
   {
     "name": "コフキムシ-2",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -660,6 +679,7 @@
   },
   {
     "name": "コフキムシ-3",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -675,6 +695,7 @@
   },
   {
     "name": "コフキムシ-4",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -690,6 +711,7 @@
   },
   {
     "name": "コフキムシ-5",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -705,6 +727,7 @@
   },
   {
     "name": "コフキムシ-6",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -720,6 +743,7 @@
   },
   {
     "name": "コフキムシ-7",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -735,6 +759,7 @@
   },
   {
     "name": "コフキムシ-8",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -750,6 +775,7 @@
   },
   {
     "name": "コフキムシ-9",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -765,6 +791,7 @@
   },
   {
     "name": "コフキムシ-10",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -780,6 +807,7 @@
   },
   {
     "name": "コフキムシ-11",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -795,6 +823,7 @@
   },
   {
     "name": "コフキムシ-12",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -810,6 +839,7 @@
   },
   {
     "name": "コフキムシ-13",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -825,6 +855,7 @@
   },
   {
     "name": "コフキムシ-14",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -840,6 +871,7 @@
   },
   {
     "name": "コフキムシ-15",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -855,6 +887,7 @@
   },
   {
     "name": "コフキムシ-16",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -870,6 +903,7 @@
   },
   {
     "name": "コフキムシ-17",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -885,6 +919,7 @@
   },
   {
     "name": "コフキムシ-18",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -900,6 +935,7 @@
   },
   {
     "name": "コフキムシ-19",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -915,6 +951,7 @@
   },
   {
     "name": "コフーライ",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -930,6 +967,7 @@
   },
   {
     "name": "コフーライ-1",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -945,6 +983,7 @@
   },
   {
     "name": "コフーライ-2",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -960,6 +999,7 @@
   },
   {
     "name": "コフーライ-3",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -975,6 +1015,7 @@
   },
   {
     "name": "コフーライ-4",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -990,6 +1031,7 @@
   },
   {
     "name": "コフーライ-5",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1005,6 +1047,7 @@
   },
   {
     "name": "コフーライ-6",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1020,6 +1063,7 @@
   },
   {
     "name": "コフーライ-7",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1035,6 +1079,7 @@
   },
   {
     "name": "コフーライ-8",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1050,6 +1095,7 @@
   },
   {
     "name": "コフーライ-9",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1065,6 +1111,7 @@
   },
   {
     "name": "コフーライ-10",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1080,6 +1127,7 @@
   },
   {
     "name": "コフーライ-11",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1095,6 +1143,7 @@
   },
   {
     "name": "コフーライ-12",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1110,6 +1159,7 @@
   },
   {
     "name": "コフーライ-13",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1125,6 +1175,7 @@
   },
   {
     "name": "コフーライ-14",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1140,6 +1191,7 @@
   },
   {
     "name": "コフーライ-15",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1155,6 +1207,7 @@
   },
   {
     "name": "コフーライ-16",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1170,6 +1223,7 @@
   },
   {
     "name": "コフーライ-17",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1185,6 +1239,7 @@
   },
   {
     "name": "コフーライ-18",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1200,6 +1255,7 @@
   },
   {
     "name": "コフーライ-19",
+    "nameEn": "Froakie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -1215,6 +1271,7 @@
   },
   {
     "name": "ビビヨン",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1250,6 +1307,7 @@
   },
   {
     "name": "ビビヨン-1",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1285,6 +1343,7 @@
   },
   {
     "name": "ビビヨン-2",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1320,6 +1379,7 @@
   },
   {
     "name": "ビビヨン-3",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1355,6 +1415,7 @@
   },
   {
     "name": "ビビヨン-4",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1390,6 +1451,7 @@
   },
   {
     "name": "ビビヨン-5",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1425,6 +1487,7 @@
   },
   {
     "name": "ビビヨン-6",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1460,6 +1523,7 @@
   },
   {
     "name": "ビビヨン-7",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1495,6 +1559,7 @@
   },
   {
     "name": "ビビヨン-8",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1530,6 +1595,7 @@
   },
   {
     "name": "ビビヨン-9",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1565,6 +1631,7 @@
   },
   {
     "name": "ビビヨン-10",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1600,6 +1667,7 @@
   },
   {
     "name": "ビビヨン-11",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1635,6 +1703,7 @@
   },
   {
     "name": "ビビヨン-12",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1670,6 +1739,7 @@
   },
   {
     "name": "ビビヨン-13",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1705,6 +1775,7 @@
   },
   {
     "name": "ビビヨン-14",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1740,6 +1811,7 @@
   },
   {
     "name": "ビビヨン-15",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1775,6 +1847,7 @@
   },
   {
     "name": "ビビヨン-16",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1810,6 +1883,7 @@
   },
   {
     "name": "ビビヨン-17",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1845,6 +1919,7 @@
   },
   {
     "name": "ビビヨン-18",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1880,6 +1955,7 @@
   },
   {
     "name": "ビビヨン-19",
+    "nameEn": "Froakie",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1915,6 +1991,7 @@
   },
   {
     "name": "シシコ",
+    "nameEn": "Froakie",
     "types": ["ほのお", "ノーマル"],
     "baseStats": {
       "hitPoint": 62,
@@ -1951,6 +2028,7 @@
   },
   {
     "name": "カエンジシ",
+    "nameEn": "Froakie",
     "types": ["ほのお", "ノーマル"],
     "baseStats": {
       "hitPoint": 86,
@@ -1989,6 +2067,7 @@
   },
   {
     "name": "フラベベ",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 44,
@@ -2020,6 +2099,7 @@
   },
   {
     "name": "フラベベ-1",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 44,
@@ -2051,6 +2131,7 @@
   },
   {
     "name": "フラベベ-2",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 44,
@@ -2082,6 +2163,7 @@
   },
   {
     "name": "フラベベ-3",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 44,
@@ -2113,6 +2195,7 @@
   },
   {
     "name": "フラベベ-4",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 44,
@@ -2144,6 +2227,7 @@
   },
   {
     "name": "フラエッテ",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 54,
@@ -2175,6 +2259,7 @@
   },
   {
     "name": "フラエッテ-1",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 54,
@@ -2206,6 +2291,7 @@
   },
   {
     "name": "フラエッテ-2",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 54,
@@ -2237,6 +2323,7 @@
   },
   {
     "name": "フラエッテ-3",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 54,
@@ -2268,6 +2355,7 @@
   },
   {
     "name": "フラエッテ-4",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 54,
@@ -2299,6 +2387,7 @@
   },
   {
     "name": "フラエッテ-5",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 74,
@@ -2330,6 +2419,7 @@
   },
   {
     "name": "フラージェス",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 78,
@@ -2364,6 +2454,7 @@
   },
   {
     "name": "フラージェス-1",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 78,
@@ -2398,6 +2489,7 @@
   },
   {
     "name": "フラージェス-2",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 78,
@@ -2432,6 +2524,7 @@
   },
   {
     "name": "フラージェス-3",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 78,
@@ -2466,6 +2559,7 @@
   },
   {
     "name": "フラージェス-4",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 78,
@@ -2500,6 +2594,7 @@
   },
   {
     "name": "メェークル",
+    "nameEn": "Froakie",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 66,
@@ -2533,6 +2628,7 @@
   },
   {
     "name": "ゴーゴート",
+    "nameEn": "Froakie",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 123,
@@ -2569,6 +2665,7 @@
   },
   {
     "name": "ヤンチャム",
+    "nameEn": "Froakie",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 67,
@@ -2628,6 +2725,7 @@
   },
   {
     "name": "ゴロンダ",
+    "nameEn": "Froakie",
     "types": ["かくとう", "あく"],
     "baseStats": {
       "hitPoint": 95,
@@ -2693,6 +2791,7 @@
   },
   {
     "name": "トリミアン",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2725,6 +2824,7 @@
   },
   {
     "name": "トリミアン-1",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2757,6 +2857,7 @@
   },
   {
     "name": "トリミアン-2",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2789,6 +2890,7 @@
   },
   {
     "name": "トリミアン-3",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2821,6 +2923,7 @@
   },
   {
     "name": "トリミアン-4",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2853,6 +2956,7 @@
   },
   {
     "name": "トリミアン-5",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2885,6 +2989,7 @@
   },
   {
     "name": "トリミアン-6",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2917,6 +3022,7 @@
   },
   {
     "name": "トリミアン-7",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2949,6 +3055,7 @@
   },
   {
     "name": "トリミアン-8",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -2981,6 +3088,7 @@
   },
   {
     "name": "トリミアン-9",
+    "nameEn": "Froakie",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -3013,6 +3121,7 @@
   },
   {
     "name": "ニャスパー",
+    "nameEn": "Froakie",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 62,
@@ -3059,6 +3168,7 @@
   },
   {
     "name": "ニャオニクス",
+    "nameEn": "Froakie",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 74,
@@ -3116,6 +3226,7 @@
   },
   {
     "name": "ニャオニクス-1",
+    "nameEn": "Froakie",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 74,
@@ -3175,6 +3286,7 @@
   },
   {
     "name": "ヒトツキ",
+    "nameEn": "Froakie",
     "types": ["はがね", "ゴースト"],
     "baseStats": {
       "hitPoint": 45,
@@ -3224,6 +3336,7 @@
   },
   {
     "name": "ニダンギル",
+    "nameEn": "Froakie",
     "types": ["はがね", "ゴースト"],
     "baseStats": {
       "hitPoint": 59,
@@ -3270,6 +3383,7 @@
   },
   {
     "name": "ギルガルド",
+    "nameEn": "Froakie",
     "types": ["はがね", "ゴースト"],
     "baseStats": {
       "hitPoint": 60,
@@ -3322,6 +3436,7 @@
   },
   {
     "name": "ギルガルド-1",
+    "nameEn": "Froakie",
     "types": ["はがね", "ゴースト"],
     "baseStats": {
       "hitPoint": 60,
@@ -3374,6 +3489,7 @@
   },
   {
     "name": "シュシュプ",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 78,
@@ -3419,6 +3535,7 @@
   },
   {
     "name": "フレフワン",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 101,
@@ -3468,6 +3585,7 @@
   },
   {
     "name": "ペロッパフ",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 62,
@@ -3515,6 +3633,7 @@
   },
   {
     "name": "ペロリーム",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 82,
@@ -3562,6 +3681,7 @@
   },
   {
     "name": "マーイーカ",
+    "nameEn": "Froakie",
     "types": ["あく", "エスパー"],
     "baseStats": {
       "hitPoint": 53,
@@ -3613,6 +3733,7 @@
   },
   {
     "name": "カラマネロ",
+    "nameEn": "Froakie",
     "types": ["あく", "エスパー"],
     "baseStats": {
       "hitPoint": 86,
@@ -3666,6 +3787,7 @@
   },
   {
     "name": "カメテテ",
+    "nameEn": "Froakie",
     "types": ["いわ", "みず"],
     "baseStats": {
       "hitPoint": 42,
@@ -3724,6 +3846,7 @@
   },
   {
     "name": "ガメノデス",
+    "nameEn": "Froakie",
     "types": ["いわ", "みず"],
     "baseStats": {
       "hitPoint": 72,
@@ -3786,6 +3909,7 @@
   },
   {
     "name": "クズモー",
+    "nameEn": "Froakie",
     "types": ["どく", "みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -3814,6 +3938,7 @@
   },
   {
     "name": "ドラミドロ",
+    "nameEn": "Froakie",
     "types": ["どく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 65,
@@ -3844,6 +3969,7 @@
   },
   {
     "name": "ウデッポウ",
+    "nameEn": "Froakie",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -3874,6 +4000,7 @@
   },
   {
     "name": "ブロスター",
+    "nameEn": "Froakie",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 71,
@@ -3906,6 +4033,7 @@
   },
   {
     "name": "エリキテル",
+    "nameEn": "Froakie",
     "types": ["でんき", "ノーマル"],
     "baseStats": {
       "hitPoint": 44,
@@ -3955,6 +4083,7 @@
   },
   {
     "name": "エレザード",
+    "nameEn": "Froakie",
     "types": ["でんき", "ノーマル"],
     "baseStats": {
       "hitPoint": 62,
@@ -4014,6 +4143,7 @@
   },
   {
     "name": "チゴラス",
+    "nameEn": "Froakie",
     "types": ["いわ", "ドラゴン"],
     "baseStats": {
       "hitPoint": 58,
@@ -4051,6 +4181,7 @@
   },
   {
     "name": "ガチゴラス",
+    "nameEn": "Froakie",
     "types": ["いわ", "ドラゴン"],
     "baseStats": {
       "hitPoint": 82,
@@ -4092,6 +4223,7 @@
   },
   {
     "name": "アマルス",
+    "nameEn": "Froakie",
     "types": ["いわ", "こおり"],
     "baseStats": {
       "hitPoint": 77,
@@ -4130,6 +4262,7 @@
   },
   {
     "name": "アマルルガ",
+    "nameEn": "Froakie",
     "types": ["いわ", "こおり"],
     "baseStats": {
       "hitPoint": 123,
@@ -4170,6 +4303,7 @@
   },
   {
     "name": "ニンフィア",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 95,
@@ -4228,6 +4362,7 @@
   },
   {
     "name": "ルチャブル",
+    "nameEn": "Froakie",
     "types": ["かくとう", "ひこう"],
     "baseStats": {
       "hitPoint": 78,
@@ -4297,6 +4432,7 @@
   },
   {
     "name": "デデンネ",
+    "nameEn": "Froakie",
     "types": ["でんき", "フェアリー"],
     "baseStats": {
       "hitPoint": 67,
@@ -4335,6 +4471,7 @@
   },
   {
     "name": "メレシー",
+    "nameEn": "Froakie",
     "types": ["いわ", "フェアリー"],
     "baseStats": {
       "hitPoint": 50,
@@ -4370,6 +4507,7 @@
   },
   {
     "name": "ヌメラ",
+    "nameEn": "Froakie",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 45,
@@ -4408,6 +4546,7 @@
   },
   {
     "name": "ヌメイル",
+    "nameEn": "Froakie",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 68,
@@ -4445,6 +4584,7 @@
   },
   {
     "name": "ヌメルゴン",
+    "nameEn": "Froakie",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 90,
@@ -4500,6 +4640,7 @@
   },
   {
     "name": "クレッフィ",
+    "nameEn": "Froakie",
     "types": ["はがね", "フェアリー"],
     "baseStats": {
       "hitPoint": 57,
@@ -4535,6 +4676,7 @@
   },
   {
     "name": "ボクレー",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 43,
@@ -4588,6 +4730,7 @@
   },
   {
     "name": "オーロット",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 85,
@@ -4642,6 +4785,7 @@
   },
   {
     "name": "バケッチャ",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 49,
@@ -4692,6 +4836,7 @@
   },
   {
     "name": "バケッチャ-1",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 44,
@@ -4742,6 +4887,7 @@
   },
   {
     "name": "バケッチャ-2",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 54,
@@ -4792,6 +4938,7 @@
   },
   {
     "name": "バケッチャ-3",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 59,
@@ -4842,6 +4989,7 @@
   },
   {
     "name": "パンプジン",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 65,
@@ -4895,6 +5043,7 @@
   },
   {
     "name": "パンプジン-1",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 55,
@@ -4948,6 +5097,7 @@
   },
   {
     "name": "パンプジン-2",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 75,
@@ -5001,6 +5151,7 @@
   },
   {
     "name": "パンプジン-3",
+    "nameEn": "Froakie",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 85,
@@ -5054,6 +5205,7 @@
   },
   {
     "name": "カチコール",
+    "nameEn": "Froakie",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 55,
@@ -5100,6 +5252,7 @@
   },
   {
     "name": "クレベース",
+    "nameEn": "Froakie",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 95,
@@ -5150,6 +5303,7 @@
   },
   {
     "name": "オンバット",
+    "nameEn": "Froakie",
     "types": ["ひこう", "ドラゴン"],
     "baseStats": {
       "hitPoint": 40,
@@ -5199,6 +5353,7 @@
   },
   {
     "name": "オンバーン",
+    "nameEn": "Froakie",
     "types": ["ひこう", "ドラゴン"],
     "baseStats": {
       "hitPoint": 85,
@@ -5251,6 +5406,7 @@
   },
   {
     "name": "ゼルネアス",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 126,
@@ -5286,6 +5442,7 @@
   },
   {
     "name": "ゼルネアス-1",
+    "nameEn": "Froakie",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 126,
@@ -5321,6 +5478,7 @@
   },
   {
     "name": "イベルタル",
+    "nameEn": "Froakie",
     "types": ["あく", "ひこう"],
     "baseStats": {
       "hitPoint": 126,
@@ -5358,6 +5516,7 @@
   },
   {
     "name": "ジガルデ",
+    "nameEn": "Froakie",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 108,
@@ -5393,6 +5552,7 @@
   },
   {
     "name": "ジガルデ-1",
+    "nameEn": "Froakie",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 54,
@@ -5428,6 +5588,7 @@
   },
   {
     "name": "ジガルデ-2",
+    "nameEn": "Froakie",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 54,
@@ -5463,6 +5624,7 @@
   },
   {
     "name": "ジガルデ-3",
+    "nameEn": "Froakie",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 108,
@@ -5498,6 +5660,7 @@
   },
   {
     "name": "ジガルデ-4",
+    "nameEn": "Froakie",
     "types": ["ドラゴン", "じめん"],
     "baseStats": {
       "hitPoint": 216,
@@ -5533,6 +5696,7 @@
   },
   {
     "name": "ディアンシー",
+    "nameEn": "Froakie",
     "types": ["いわ", "フェアリー"],
     "baseStats": {
       "hitPoint": 50,
@@ -5573,6 +5737,7 @@
   },
   {
     "name": "ディアンシー-1",
+    "nameEn": "Froakie",
     "types": ["いわ", "フェアリー"],
     "baseStats": {
       "hitPoint": 50,
@@ -5607,6 +5772,7 @@
   },
   {
     "name": "フーパ",
+    "nameEn": "Froakie",
     "types": ["エスパー", "ゴースト"],
     "baseStats": {
       "hitPoint": 80,
@@ -5648,6 +5814,7 @@
   },
   {
     "name": "フーパ-1",
+    "nameEn": "Froakie",
     "types": ["エスパー", "あく"],
     "baseStats": {
       "hitPoint": 80,
@@ -5689,6 +5856,7 @@
   },
   {
     "name": "ボルケニオン",
+    "nameEn": "Froakie",
     "types": ["ほのお", "みず"],
     "baseStats": {
       "hitPoint": 80,

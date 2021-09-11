@@ -1,6 +1,7 @@
 [
   {
     "name": "モクロー",
+    "nameEn": "Brionne",
     "types": ["くさ", "ひこう"],
     "baseStats": {
       "hitPoint": 68,
@@ -50,6 +51,7 @@
   },
   {
     "name": "フクスロー",
+    "nameEn": "Brionne",
     "types": ["くさ", "ひこう"],
     "baseStats": {
       "hitPoint": 78,
@@ -95,6 +97,7 @@
   },
   {
     "name": "ジュナイパー",
+    "nameEn": "Brionne",
     "types": ["くさ", "ゴースト"],
     "baseStats": {
       "hitPoint": 78,
@@ -154,6 +157,7 @@
   },
   {
     "name": "ニャビー",
+    "nameEn": "Brionne",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 45,
@@ -201,6 +205,7 @@
   },
   {
     "name": "ニャヒート",
+    "nameEn": "Brionne",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 65,
@@ -245,6 +250,7 @@
   },
   {
     "name": "ガオガエン",
+    "nameEn": "Brionne",
     "types": ["ほのお", "あく"],
     "baseStats": {
       "hitPoint": 95,
@@ -308,6 +314,7 @@
   },
   {
     "name": "アシマリ",
+    "nameEn": "Brionne",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -357,6 +364,7 @@
   },
   {
     "name": "オシャマリ",
+    "nameEn": "Brionne",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 60,
@@ -403,6 +411,7 @@
   },
   {
     "name": "アシレーヌ",
+    "nameEn": "Brionne",
     "types": ["みず", "フェアリー"],
     "baseStats": {
       "hitPoint": 80,
@@ -455,6 +464,7 @@
   },
   {
     "name": "ツツケラ",
+    "nameEn": "Brionne",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 35,
@@ -484,6 +494,7 @@
   },
   {
     "name": "ケララッパ",
+    "nameEn": "Brionne",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 55,
@@ -514,6 +525,7 @@
   },
   {
     "name": "ドデカバシ",
+    "nameEn": "Brionne",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -544,6 +556,7 @@
   },
   {
     "name": "ヤングース",
+    "nameEn": "Brionne",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 48,
@@ -576,6 +589,7 @@
   },
   {
     "name": "デカグース",
+    "nameEn": "Brionne",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 88,
@@ -614,6 +628,7 @@
   },
   {
     "name": "アゴジムシ",
+    "nameEn": "Brionne",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 47,
@@ -656,6 +671,7 @@
   },
   {
     "name": "デンヂムシ",
+    "nameEn": "Brionne",
     "types": ["むし", "でんき"],
     "baseStats": {
       "hitPoint": 57,
@@ -700,6 +716,7 @@
   },
   {
     "name": "クワガノン",
+    "nameEn": "Brionne",
     "types": ["むし", "でんき"],
     "baseStats": {
       "hitPoint": 77,
@@ -754,6 +771,7 @@
   },
   {
     "name": "マケンカニ",
+    "nameEn": "Brionne",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 47,
@@ -790,6 +808,7 @@
   },
   {
     "name": "ケケンカニ",
+    "nameEn": "Brionne",
     "types": ["かくとう", "こおり"],
     "baseStats": {
       "hitPoint": 97,
@@ -830,6 +849,7 @@
   },
   {
     "name": "オドリドリ",
+    "nameEn": "Brionne",
     "types": ["ほのお", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -861,6 +881,7 @@
   },
   {
     "name": "オドリドリ-1",
+    "nameEn": "Brionne",
     "types": ["でんき", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -892,6 +913,7 @@
   },
   {
     "name": "オドリドリ-2",
+    "nameEn": "Brionne",
     "types": ["エスパー", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -923,6 +945,7 @@
   },
   {
     "name": "オドリドリ-3",
+    "nameEn": "Brionne",
     "types": ["ゴースト", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -954,6 +977,7 @@
   },
   {
     "name": "アブリー",
+    "nameEn": "Brionne",
     "types": ["むし", "フェアリー"],
     "baseStats": {
       "hitPoint": 40,
@@ -1005,6 +1029,7 @@
   },
   {
     "name": "アブリボン",
+    "nameEn": "Brionne",
     "types": ["むし", "フェアリー"],
     "baseStats": {
       "hitPoint": 60,
@@ -1059,6 +1084,7 @@
   },
   {
     "name": "イワンコ",
+    "nameEn": "Brionne",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 45,
@@ -1088,6 +1114,7 @@
   },
   {
     "name": "イワンコ-1",
+    "nameEn": "Brionne",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 45,
@@ -1117,6 +1144,7 @@
   },
   {
     "name": "ルガルガン",
+    "nameEn": "Brionne",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 75,
@@ -1153,6 +1181,7 @@
   },
   {
     "name": "ルガルガン-1",
+    "nameEn": "Brionne",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 85,
@@ -1193,6 +1222,7 @@
   },
   {
     "name": "ルガルガン-2",
+    "nameEn": "Brionne",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 75,
@@ -1227,6 +1257,7 @@
   },
   {
     "name": "ヨワシ",
+    "nameEn": "Brionne",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 45,
@@ -1272,6 +1303,7 @@
   },
   {
     "name": "ヨワシ-1",
+    "nameEn": "Brionne",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 45,
@@ -1317,6 +1349,7 @@
   },
   {
     "name": "ヒドイデ",
+    "nameEn": "Brionne",
     "types": ["どく", "みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -1363,6 +1396,7 @@
   },
   {
     "name": "ドヒドイデ",
+    "nameEn": "Brionne",
     "types": ["どく", "みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -1408,6 +1442,7 @@
   },
   {
     "name": "ドロバンコ",
+    "nameEn": "Brionne",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 70,
@@ -1454,6 +1489,7 @@
   },
   {
     "name": "バンバドロ",
+    "nameEn": "Brionne",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 100,
@@ -1501,6 +1537,7 @@
   },
   {
     "name": "シズクモ",
+    "nameEn": "Brionne",
     "types": ["みず", "むし"],
     "baseStats": {
       "hitPoint": 38,
@@ -1546,6 +1583,7 @@
   },
   {
     "name": "オニシズクモ",
+    "nameEn": "Brionne",
     "types": ["みず", "むし"],
     "baseStats": {
       "hitPoint": 68,
@@ -1591,6 +1629,7 @@
   },
   {
     "name": "カリキリ",
+    "nameEn": "Brionne",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 40,
@@ -1623,6 +1662,7 @@
   },
   {
     "name": "ラランテス",
+    "nameEn": "Brionne",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 70,
@@ -1663,6 +1703,7 @@
   },
   {
     "name": "ネマシュ",
+    "nameEn": "Brionne",
     "types": ["くさ", "フェアリー"],
     "baseStats": {
       "hitPoint": 40,
@@ -1710,6 +1751,7 @@
   },
   {
     "name": "マシェード",
+    "nameEn": "Brionne",
     "types": ["くさ", "フェアリー"],
     "baseStats": {
       "hitPoint": 60,
@@ -1758,6 +1800,7 @@
   },
   {
     "name": "ヤトウモリ",
+    "nameEn": "Brionne",
     "types": ["どく", "ほのお"],
     "baseStats": {
       "hitPoint": 48,
@@ -1807,6 +1850,7 @@
   },
   {
     "name": "エンニュート",
+    "nameEn": "Brionne",
     "types": ["どく", "ほのお"],
     "baseStats": {
       "hitPoint": 68,
@@ -1863,6 +1907,7 @@
   },
   {
     "name": "ヌイコグマ",
+    "nameEn": "Brionne",
     "types": ["ノーマル", "かくとう"],
     "baseStats": {
       "hitPoint": 70,
@@ -1915,6 +1960,7 @@
   },
   {
     "name": "キテルグマ",
+    "nameEn": "Brionne",
     "types": ["ノーマル", "かくとう"],
     "baseStats": {
       "hitPoint": 120,
@@ -1969,6 +2015,7 @@
   },
   {
     "name": "アマカジ",
+    "nameEn": "Brionne",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 42,
@@ -2014,6 +2061,7 @@
   },
   {
     "name": "アママイコ",
+    "nameEn": "Brionne",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 52,
@@ -2061,6 +2109,7 @@
   },
   {
     "name": "アマージョ",
+    "nameEn": "Brionne",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 72,
@@ -2118,6 +2167,7 @@
   },
   {
     "name": "キュワワー",
+    "nameEn": "Brionne",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 51,
@@ -2157,6 +2207,7 @@
   },
   {
     "name": "ヤレユータン",
+    "nameEn": "Brionne",
     "types": ["ノーマル", "エスパー"],
     "baseStats": {
       "hitPoint": 90,
@@ -2216,6 +2267,7 @@
   },
   {
     "name": "ナゲツケサル",
+    "nameEn": "Brionne",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 100,
@@ -2279,6 +2331,7 @@
   },
   {
     "name": "コソクムシ",
+    "nameEn": "Brionne",
     "types": ["むし", "みず"],
     "baseStats": {
       "hitPoint": 25,
@@ -2315,6 +2368,7 @@
   },
   {
     "name": "グソクムシャ",
+    "nameEn": "Brionne",
     "types": ["むし", "みず"],
     "baseStats": {
       "hitPoint": 75,
@@ -2371,6 +2425,7 @@
   },
   {
     "name": "スナバァ",
+    "nameEn": "Brionne",
     "types": ["ゴースト", "じめん"],
     "baseStats": {
       "hitPoint": 55,
@@ -2401,6 +2456,7 @@
   },
   {
     "name": "シロデスナ",
+    "nameEn": "Brionne",
     "types": ["ゴースト", "じめん"],
     "baseStats": {
       "hitPoint": 85,
@@ -2433,6 +2489,7 @@
   },
   {
     "name": "ナマコブシ",
+    "nameEn": "Brionne",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 55,
@@ -2475,6 +2532,7 @@
   },
   {
     "name": "タイプ：ヌル",
+    "nameEn": "Brionne",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 95,
@@ -2522,6 +2580,7 @@
   },
   {
     "name": "シルヴァディ",
+    "nameEn": "Brionne",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 95,
@@ -2581,6 +2640,7 @@
   },
   {
     "name": "シルヴァディ-1",
+    "nameEn": "Brionne",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 95,
@@ -2640,6 +2700,7 @@
   },
   {
     "name": "シルヴァディ-2",
+    "nameEn": "Brionne",
     "types": ["ひこう"],
     "baseStats": {
       "hitPoint": 95,
@@ -2699,6 +2760,7 @@
   },
   {
     "name": "シルヴァディ-3",
+    "nameEn": "Brionne",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 95,
@@ -2758,6 +2820,7 @@
   },
   {
     "name": "シルヴァディ-4",
+    "nameEn": "Brionne",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 95,
@@ -2817,6 +2880,7 @@
   },
   {
     "name": "シルヴァディ-5",
+    "nameEn": "Brionne",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 95,
@@ -2876,6 +2940,7 @@
   },
   {
     "name": "シルヴァディ-6",
+    "nameEn": "Brionne",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 95,
@@ -2935,6 +3000,7 @@
   },
   {
     "name": "シルヴァディ-7",
+    "nameEn": "Brionne",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 95,
@@ -2994,6 +3060,7 @@
   },
   {
     "name": "シルヴァディ-8",
+    "nameEn": "Brionne",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 95,
@@ -3053,6 +3120,7 @@
   },
   {
     "name": "シルヴァディ-9",
+    "nameEn": "Brionne",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 95,
@@ -3112,6 +3180,7 @@
   },
   {
     "name": "シルヴァディ-10",
+    "nameEn": "Brionne",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 95,
@@ -3171,6 +3240,7 @@
   },
   {
     "name": "シルヴァディ-11",
+    "nameEn": "Brionne",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 95,
@@ -3230,6 +3300,7 @@
   },
   {
     "name": "シルヴァディ-12",
+    "nameEn": "Brionne",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 95,
@@ -3289,6 +3360,7 @@
   },
   {
     "name": "シルヴァディ-13",
+    "nameEn": "Brionne",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 95,
@@ -3348,6 +3420,7 @@
   },
   {
     "name": "シルヴァディ-14",
+    "nameEn": "Brionne",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 95,
@@ -3407,6 +3480,7 @@
   },
   {
     "name": "シルヴァディ-15",
+    "nameEn": "Brionne",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 95,
@@ -3466,6 +3540,7 @@
   },
   {
     "name": "シルヴァディ-16",
+    "nameEn": "Brionne",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 95,
@@ -3525,6 +3600,7 @@
   },
   {
     "name": "シルヴァディ-17",
+    "nameEn": "Brionne",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 95,
@@ -3584,6 +3660,7 @@
   },
   {
     "name": "メテノ",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3618,6 +3695,7 @@
   },
   {
     "name": "メテノ-1",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3652,6 +3730,7 @@
   },
   {
     "name": "メテノ-2",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3686,6 +3765,7 @@
   },
   {
     "name": "メテノ-3",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3720,6 +3800,7 @@
   },
   {
     "name": "メテノ-4",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3754,6 +3835,7 @@
   },
   {
     "name": "メテノ-5",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3788,6 +3870,7 @@
   },
   {
     "name": "メテノ-6",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3822,6 +3905,7 @@
   },
   {
     "name": "メテノ-7",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3856,6 +3940,7 @@
   },
   {
     "name": "メテノ-8",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3890,6 +3975,7 @@
   },
   {
     "name": "メテノ-9",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3924,6 +4010,7 @@
   },
   {
     "name": "メテノ-10",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3958,6 +4045,7 @@
   },
   {
     "name": "メテノ-11",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -3992,6 +4080,7 @@
   },
   {
     "name": "メテノ-12",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -4026,6 +4115,7 @@
   },
   {
     "name": "メテノ-13",
+    "nameEn": "Brionne",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -4060,6 +4150,7 @@
   },
   {
     "name": "ネッコアラ",
+    "nameEn": "Brionne",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 65,
@@ -4094,6 +4185,7 @@
   },
   {
     "name": "バクガメス",
+    "nameEn": "Brionne",
     "types": ["ほのお", "ドラゴン"],
     "baseStats": {
       "hitPoint": 60,
@@ -4150,6 +4242,7 @@
   },
   {
     "name": "トゲデマル",
+    "nameEn": "Brionne",
     "types": ["でんき", "はがね"],
     "baseStats": {
       "hitPoint": 65,
@@ -4207,6 +4300,7 @@
   },
   {
     "name": "ミミッキュ",
+    "nameEn": "Brionne",
     "types": ["ゴースト", "フェアリー"],
     "baseStats": {
       "hitPoint": 55,
@@ -4265,6 +4359,7 @@
   },
   {
     "name": "ミミッキュ-1",
+    "nameEn": "Brionne",
     "types": ["ゴースト", "フェアリー"],
     "baseStats": {
       "hitPoint": 55,
@@ -4323,6 +4418,7 @@
   },
   {
     "name": "ハギギシリ",
+    "nameEn": "Brionne",
     "types": ["みず", "エスパー"],
     "baseStats": {
       "hitPoint": 68,
@@ -4358,6 +4454,7 @@
   },
   {
     "name": "ジジーロン",
+    "nameEn": "Brionne",
     "types": ["ノーマル", "ドラゴン"],
     "baseStats": {
       "hitPoint": 78,
@@ -4412,6 +4509,7 @@
   },
   {
     "name": "ダダリン",
+    "nameEn": "Brionne",
     "types": ["ゴースト", "くさ"],
     "baseStats": {
       "hitPoint": 70,
@@ -4468,6 +4566,7 @@
   },
   {
     "name": "ジャラコ",
+    "nameEn": "Brionne",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 45,
@@ -4515,6 +4614,7 @@
   },
   {
     "name": "ジャランゴ",
+    "nameEn": "Brionne",
     "types": ["ドラゴン", "かくとう"],
     "baseStats": {
       "hitPoint": 55,
@@ -4565,6 +4665,7 @@
   },
   {
     "name": "ジャラランガ",
+    "nameEn": "Brionne",
     "types": ["ドラゴン", "かくとう"],
     "baseStats": {
       "hitPoint": 75,
@@ -4627,6 +4728,7 @@
   },
   {
     "name": "カプ・コケコ",
+    "nameEn": "Brionne",
     "types": ["でんき", "フェアリー"],
     "baseStats": {
       "hitPoint": 70,
@@ -4670,6 +4772,7 @@
   },
   {
     "name": "カプ・テテフ",
+    "nameEn": "Brionne",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 70,
@@ -4708,6 +4811,7 @@
   },
   {
     "name": "カプ・ブルル",
+    "nameEn": "Brionne",
     "types": ["くさ", "フェアリー"],
     "baseStats": {
       "hitPoint": 70,
@@ -4752,6 +4856,7 @@
   },
   {
     "name": "カプ・レヒレ",
+    "nameEn": "Brionne",
     "types": ["みず", "フェアリー"],
     "baseStats": {
       "hitPoint": 70,
@@ -4791,6 +4896,7 @@
   },
   {
     "name": "コスモッグ",
+    "nameEn": "Brionne",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 43,
@@ -4806,6 +4912,7 @@
   },
   {
     "name": "コスモウム",
+    "nameEn": "Brionne",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 43,
@@ -4821,6 +4928,7 @@
   },
   {
     "name": "ソルガレオ",
+    "nameEn": "Brionne",
     "types": ["エスパー", "はがね"],
     "baseStats": {
       "hitPoint": 137,
@@ -4875,6 +4983,7 @@
   },
   {
     "name": "ルナアーラ",
+    "nameEn": "Brionne",
     "types": ["エスパー", "ゴースト"],
     "baseStats": {
       "hitPoint": 137,
@@ -4933,6 +5042,7 @@
   },
   {
     "name": "ウツロイド",
+    "nameEn": "Brionne",
     "types": ["いわ", "どく"],
     "baseStats": {
       "hitPoint": 109,
@@ -4966,6 +5076,7 @@
   },
   {
     "name": "マッシブーン",
+    "nameEn": "Brionne",
     "types": ["むし", "かくとう"],
     "baseStats": {
       "hitPoint": 107,
@@ -5003,6 +5114,7 @@
   },
   {
     "name": "フェローチェ",
+    "nameEn": "Brionne",
     "types": ["むし", "かくとう"],
     "baseStats": {
       "hitPoint": 71,
@@ -5037,6 +5149,7 @@
   },
   {
     "name": "デンジュモク",
+    "nameEn": "Brionne",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 83,
@@ -5072,6 +5185,7 @@
   },
   {
     "name": "テッカグヤ",
+    "nameEn": "Brionne",
     "types": ["はがね", "ひこう"],
     "baseStats": {
       "hitPoint": 97,
@@ -5106,6 +5220,7 @@
   },
   {
     "name": "カミツルギ",
+    "nameEn": "Brionne",
     "types": ["くさ", "はがね"],
     "baseStats": {
       "hitPoint": 59,
@@ -5135,6 +5250,7 @@
   },
   {
     "name": "アクジキング",
+    "nameEn": "Brionne",
     "types": ["あく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 223,
@@ -5172,6 +5288,7 @@
   },
   {
     "name": "ネクロズマ",
+    "nameEn": "Brionne",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 97,
@@ -5229,6 +5346,7 @@
   },
   {
     "name": "ネクロズマ-1",
+    "nameEn": "Brionne",
     "types": ["エスパー", "はがね"],
     "baseStats": {
       "hitPoint": 97,
@@ -5286,6 +5404,7 @@
   },
   {
     "name": "ネクロズマ-2",
+    "nameEn": "Brionne",
     "types": ["エスパー", "ゴースト"],
     "baseStats": {
       "hitPoint": 97,
@@ -5343,6 +5462,7 @@
   },
   {
     "name": "ネクロズマ-3",
+    "nameEn": "Brionne",
     "types": ["エスパー", "ドラゴン"],
     "baseStats": {
       "hitPoint": 97,
@@ -5385,6 +5505,7 @@
   },
   {
     "name": "マギアナ",
+    "nameEn": "Brionne",
     "types": ["はがね", "フェアリー"],
     "baseStats": {
       "hitPoint": 80,
@@ -5424,6 +5545,7 @@
   },
   {
     "name": "マギアナ-1",
+    "nameEn": "Brionne",
     "types": ["はがね", "フェアリー"],
     "baseStats": {
       "hitPoint": 80,
@@ -5463,6 +5585,7 @@
   },
   {
     "name": "マーシャドー",
+    "nameEn": "Brionne",
     "types": ["かくとう", "ゴースト"],
     "baseStats": {
       "hitPoint": 90,
@@ -5522,6 +5645,7 @@
   },
   {
     "name": "ベベノム",
+    "nameEn": "Brionne",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 67,
@@ -5547,6 +5671,7 @@
   },
   {
     "name": "アーゴヨン",
+    "nameEn": "Brionne",
     "types": ["どく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 73,
@@ -5587,6 +5712,7 @@
   },
   {
     "name": "ツンデツンデ",
+    "nameEn": "Brionne",
     "types": ["いわ", "はがね"],
     "baseStats": {
       "hitPoint": 61,
@@ -5622,6 +5748,7 @@
   },
   {
     "name": "ズガドーン",
+    "nameEn": "Brionne",
     "types": ["ほのお", "ゴースト"],
     "baseStats": {
       "hitPoint": 53,
@@ -5657,6 +5784,7 @@
   },
   {
     "name": "ゼラオラ",
+    "nameEn": "Brionne",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 88,

@@ -1,6 +1,7 @@
 [
   {
     "name": "ビクティニ",
+    "nameEn": "Pignite",
     "types": ["エスパー", "ほのお"],
     "baseStats": {
       "hitPoint": 100,
@@ -46,6 +47,7 @@
   },
   {
     "name": "ツタージャ",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 45,
@@ -76,6 +78,7 @@
   },
   {
     "name": "ジャノビー",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -106,6 +109,7 @@
   },
   {
     "name": "ジャローダ",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 75,
@@ -139,6 +143,7 @@
   },
   {
     "name": "ポカブ",
+    "nameEn": "Pignite",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 65,
@@ -168,6 +173,7 @@
   },
   {
     "name": "チャオブー",
+    "nameEn": "Pignite",
     "types": ["ほのお", "かくとう"],
     "baseStats": {
       "hitPoint": 90,
@@ -205,6 +211,7 @@
   },
   {
     "name": "エンブオー",
+    "nameEn": "Pignite",
     "types": ["ほのお", "かくとう"],
     "baseStats": {
       "hitPoint": 110,
@@ -244,6 +251,7 @@
   },
   {
     "name": "ミジュマル",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 55,
@@ -281,6 +289,7 @@
   },
   {
     "name": "フタチマル",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 75,
@@ -318,6 +327,7 @@
   },
   {
     "name": "ダイケンキ",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 95,
@@ -358,6 +368,7 @@
   },
   {
     "name": "ミネズミ",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 45,
@@ -390,6 +401,7 @@
   },
   {
     "name": "ミルホッグ",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 60,
@@ -431,6 +443,7 @@
   },
   {
     "name": "ヨーテリー",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 45,
@@ -467,6 +480,7 @@
   },
   {
     "name": "ハーデリア",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 65,
@@ -503,6 +517,7 @@
   },
   {
     "name": "ムーランド",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 85,
@@ -541,6 +556,7 @@
   },
   {
     "name": "チョロネコ",
+    "nameEn": "Pignite",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 41,
@@ -594,6 +610,7 @@
   },
   {
     "name": "レパルダス",
+    "nameEn": "Pignite",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 64,
@@ -644,6 +661,7 @@
   },
   {
     "name": "ヤナップ",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 50,
@@ -681,6 +699,7 @@
   },
   {
     "name": "ヤナッキー",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 75,
@@ -722,6 +741,7 @@
   },
   {
     "name": "バオップ",
+    "nameEn": "Pignite",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 50,
@@ -759,6 +779,7 @@
   },
   {
     "name": "バオッキー",
+    "nameEn": "Pignite",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 75,
@@ -800,6 +821,7 @@
   },
   {
     "name": "ヒヤップ",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -838,6 +860,7 @@
   },
   {
     "name": "ヒヤッキー",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 75,
@@ -880,6 +903,7 @@
   },
   {
     "name": "ムンナ",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 76,
@@ -931,6 +955,7 @@
   },
   {
     "name": "ムシャーナ",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 116,
@@ -983,6 +1008,7 @@
   },
   {
     "name": "マメパト",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 50,
@@ -1029,6 +1055,7 @@
   },
   {
     "name": "ハトーボー",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 62,
@@ -1070,6 +1097,7 @@
   },
   {
     "name": "ケンホロウ",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -1113,6 +1141,7 @@
   },
   {
     "name": "シママ",
+    "nameEn": "Pignite",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 45,
@@ -1141,6 +1170,7 @@
   },
   {
     "name": "ゼブライカ",
+    "nameEn": "Pignite",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 75,
@@ -1171,6 +1201,7 @@
   },
   {
     "name": "ダンゴロ",
+    "nameEn": "Pignite",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 55,
@@ -1214,6 +1245,7 @@
   },
   {
     "name": "ガントル",
+    "nameEn": "Pignite",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 70,
@@ -1254,6 +1286,7 @@
   },
   {
     "name": "ギガイアス",
+    "nameEn": "Pignite",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 85,
@@ -1299,6 +1332,7 @@
   },
   {
     "name": "コロモリ",
+    "nameEn": "Pignite",
     "types": ["エスパー", "ひこう"],
     "baseStats": {
       "hitPoint": 65,
@@ -1356,6 +1390,7 @@
   },
   {
     "name": "ココロモリ",
+    "nameEn": "Pignite",
     "types": ["エスパー", "ひこう"],
     "baseStats": {
       "hitPoint": 67,
@@ -1410,6 +1445,7 @@
   },
   {
     "name": "モグリュー",
+    "nameEn": "Pignite",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 60,
@@ -1456,6 +1492,7 @@
   },
   {
     "name": "ドリュウズ",
+    "nameEn": "Pignite",
     "types": ["じめん", "はがね"],
     "baseStats": {
       "hitPoint": 110,
@@ -1506,6 +1543,7 @@
   },
   {
     "name": "タブンネ",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 103,
@@ -1552,6 +1590,7 @@
   },
   {
     "name": "タブンネ-1",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "フェアリー"],
     "baseStats": {
       "hitPoint": 103,
@@ -1597,6 +1636,7 @@
   },
   {
     "name": "ドッコラー",
+    "nameEn": "Pignite",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 75,
@@ -1657,6 +1697,7 @@
   },
   {
     "name": "ドテッコツ",
+    "nameEn": "Pignite",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 85,
@@ -1711,6 +1752,7 @@
   },
   {
     "name": "ローブシン",
+    "nameEn": "Pignite",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 105,
@@ -1770,6 +1812,7 @@
   },
   {
     "name": "オタマロ",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -1814,6 +1857,7 @@
   },
   {
     "name": "ガマガル",
+    "nameEn": "Pignite",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 75,
@@ -1855,6 +1899,7 @@
   },
   {
     "name": "ガマゲロゲ",
+    "nameEn": "Pignite",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 105,
@@ -1912,6 +1957,7 @@
   },
   {
     "name": "ナゲキ",
+    "nameEn": "Pignite",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 120,
@@ -1967,6 +2013,7 @@
   },
   {
     "name": "ダゲキ",
+    "nameEn": "Pignite",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 75,
@@ -2019,6 +2066,7 @@
   },
   {
     "name": "クルミル",
+    "nameEn": "Pignite",
     "types": ["むし", "くさ"],
     "baseStats": {
       "hitPoint": 45,
@@ -2051,6 +2099,7 @@
   },
   {
     "name": "クルマユ",
+    "nameEn": "Pignite",
     "types": ["むし", "くさ"],
     "baseStats": {
       "hitPoint": 55,
@@ -2083,6 +2132,7 @@
   },
   {
     "name": "ハハコモリ",
+    "nameEn": "Pignite",
     "types": ["むし", "くさ"],
     "baseStats": {
       "hitPoint": 75,
@@ -2123,6 +2173,7 @@
   },
   {
     "name": "フシデ",
+    "nameEn": "Pignite",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 30,
@@ -2152,6 +2203,7 @@
   },
   {
     "name": "ホイーガ",
+    "nameEn": "Pignite",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 40,
@@ -2181,6 +2233,7 @@
   },
   {
     "name": "ペンドラー",
+    "nameEn": "Pignite",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -2220,6 +2273,7 @@
   },
   {
     "name": "モンメン",
+    "nameEn": "Pignite",
     "types": ["くさ", "フェアリー"],
     "baseStats": {
       "hitPoint": 40,
@@ -2270,6 +2324,7 @@
   },
   {
     "name": "エルフーン",
+    "nameEn": "Pignite",
     "types": ["くさ", "フェアリー"],
     "baseStats": {
       "hitPoint": 60,
@@ -2327,6 +2382,7 @@
   },
   {
     "name": "チュリネ",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 45,
@@ -2356,6 +2412,7 @@
   },
   {
     "name": "ドレディア",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 70,
@@ -2390,6 +2447,7 @@
   },
   {
     "name": "バスラオ",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -2442,6 +2500,7 @@
   },
   {
     "name": "バスラオ-1",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -2494,6 +2553,7 @@
   },
   {
     "name": "メグロコ",
+    "nameEn": "Pignite",
     "types": ["じめん", "あく"],
     "baseStats": {
       "hitPoint": 50,
@@ -2531,6 +2591,7 @@
   },
   {
     "name": "ワルビル",
+    "nameEn": "Pignite",
     "types": ["じめん", "あく"],
     "baseStats": {
       "hitPoint": 60,
@@ -2576,6 +2637,7 @@
   },
   {
     "name": "ワルビアル",
+    "nameEn": "Pignite",
     "types": ["じめん", "あく"],
     "baseStats": {
       "hitPoint": 95,
@@ -2624,6 +2686,7 @@
   },
   {
     "name": "ダルマッカ",
+    "nameEn": "Pignite",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 70,
@@ -2679,6 +2742,7 @@
   },
   {
     "name": "ダルマッカ-1",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 70,
@@ -2738,6 +2802,7 @@
   },
   {
     "name": "ヒヒダルマ",
+    "nameEn": "Pignite",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 105,
@@ -2795,6 +2860,7 @@
   },
   {
     "name": "ヒヒダルマ-1",
+    "nameEn": "Pignite",
     "types": ["ほのお", "エスパー"],
     "baseStats": {
       "hitPoint": 105,
@@ -2852,6 +2918,7 @@
   },
   {
     "name": "ヒヒダルマ-2",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 105,
@@ -2908,6 +2975,7 @@
   },
   {
     "name": "ヒヒダルマ-3",
+    "nameEn": "Pignite",
     "types": ["こおり", "ほのお"],
     "baseStats": {
       "hitPoint": 105,
@@ -2964,6 +3032,7 @@
   },
   {
     "name": "マラカッチ",
+    "nameEn": "Pignite",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 75,
@@ -3018,6 +3087,7 @@
   },
   {
     "name": "イシズマイ",
+    "nameEn": "Pignite",
     "types": ["むし", "いわ"],
     "baseStats": {
       "hitPoint": 50,
@@ -3067,6 +3137,7 @@
   },
   {
     "name": "イワパレス",
+    "nameEn": "Pignite",
     "types": ["むし", "いわ"],
     "baseStats": {
       "hitPoint": 70,
@@ -3114,6 +3185,7 @@
   },
   {
     "name": "ズルッグ",
+    "nameEn": "Pignite",
     "types": ["あく", "かくとう"],
     "baseStats": {
       "hitPoint": 50,
@@ -3174,6 +3246,7 @@
   },
   {
     "name": "ズルズキン",
+    "nameEn": "Pignite",
     "types": ["あく", "かくとう"],
     "baseStats": {
       "hitPoint": 65,
@@ -3230,6 +3303,7 @@
   },
   {
     "name": "シンボラー",
+    "nameEn": "Pignite",
     "types": ["エスパー", "ひこう"],
     "baseStats": {
       "hitPoint": 72,
@@ -3287,6 +3361,7 @@
   },
   {
     "name": "デスマス",
+    "nameEn": "Pignite",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 38,
@@ -3333,6 +3408,7 @@
   },
   {
     "name": "デスマス-1",
+    "nameEn": "Pignite",
     "types": ["じめん", "ゴースト"],
     "baseStats": {
       "hitPoint": 38,
@@ -3383,6 +3459,7 @@
   },
   {
     "name": "デスカーン",
+    "nameEn": "Pignite",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 58,
@@ -3436,6 +3513,7 @@
   },
   {
     "name": "プロトーガ",
+    "nameEn": "Pignite",
     "types": ["みず", "いわ"],
     "baseStats": {
       "hitPoint": 54,
@@ -3471,6 +3549,7 @@
   },
   {
     "name": "アバゴーラ",
+    "nameEn": "Pignite",
     "types": ["みず", "いわ"],
     "baseStats": {
       "hitPoint": 74,
@@ -3509,6 +3588,7 @@
   },
   {
     "name": "アーケン",
+    "nameEn": "Pignite",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 55,
@@ -3545,6 +3625,7 @@
   },
   {
     "name": "アーケオス",
+    "nameEn": "Pignite",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -3585,6 +3666,7 @@
   },
   {
     "name": "ヤブクロン",
+    "nameEn": "Pignite",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 50,
@@ -3638,6 +3720,7 @@
   },
   {
     "name": "ダストダス",
+    "nameEn": "Pignite",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 80,
@@ -3695,6 +3778,7 @@
   },
   {
     "name": "ゾロア",
+    "nameEn": "Pignite",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 40,
@@ -3734,6 +3818,7 @@
   },
   {
     "name": "ゾロアーク",
+    "nameEn": "Pignite",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 60,
@@ -3779,6 +3864,7 @@
   },
   {
     "name": "チラーミィ",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 55,
@@ -3829,6 +3915,7 @@
   },
   {
     "name": "チラチーノ",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -3880,6 +3967,7 @@
   },
   {
     "name": "ゴチム",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 45,
@@ -3934,6 +4022,7 @@
   },
   {
     "name": "ゴチミル",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -3983,6 +4072,7 @@
   },
   {
     "name": "ゴチルゼル",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 70,
@@ -4037,6 +4127,7 @@
   },
   {
     "name": "ユニラン",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 45,
@@ -4087,6 +4178,7 @@
   },
   {
     "name": "ダブラン",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 65,
@@ -4134,6 +4226,7 @@
   },
   {
     "name": "ランクルス",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 110,
@@ -4190,6 +4283,7 @@
   },
   {
     "name": "コアルヒー",
+    "nameEn": "Pignite",
     "types": ["みず", "ひこう"],
     "baseStats": {
       "hitPoint": 62,
@@ -4220,6 +4314,7 @@
   },
   {
     "name": "スワンナ",
+    "nameEn": "Pignite",
     "types": ["みず", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -4252,6 +4347,7 @@
   },
   {
     "name": "バニプッチ",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 36,
@@ -4298,6 +4394,7 @@
   },
   {
     "name": "バニリッチ",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 51,
@@ -4338,6 +4435,7 @@
   },
   {
     "name": "バイバニラ",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 71,
@@ -4384,6 +4482,7 @@
   },
   {
     "name": "シキジカ",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -4417,6 +4516,7 @@
   },
   {
     "name": "シキジカ-1",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -4450,6 +4550,7 @@
   },
   {
     "name": "シキジカ-2",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -4483,6 +4584,7 @@
   },
   {
     "name": "シキジカ-3",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -4516,6 +4618,7 @@
   },
   {
     "name": "メブキジカ",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 80,
@@ -4552,6 +4655,7 @@
   },
   {
     "name": "メブキジカ-1",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 80,
@@ -4588,6 +4692,7 @@
   },
   {
     "name": "メブキジカ-2",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 80,
@@ -4624,6 +4729,7 @@
   },
   {
     "name": "メブキジカ-3",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "くさ"],
     "baseStats": {
       "hitPoint": 80,
@@ -4660,6 +4766,7 @@
   },
   {
     "name": "エモンガ",
+    "nameEn": "Pignite",
     "types": ["でんき", "ひこう"],
     "baseStats": {
       "hitPoint": 55,
@@ -4697,6 +4804,7 @@
   },
   {
     "name": "カブルモ",
+    "nameEn": "Pignite",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 50,
@@ -4741,6 +4849,7 @@
   },
   {
     "name": "シュバルゴ",
+    "nameEn": "Pignite",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 70,
@@ -4792,6 +4901,7 @@
   },
   {
     "name": "タマゲタケ",
+    "nameEn": "Pignite",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 69,
@@ -4820,6 +4930,7 @@
   },
   {
     "name": "モロバレル",
+    "nameEn": "Pignite",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 114,
@@ -4853,6 +4964,7 @@
   },
   {
     "name": "プルリル",
+    "nameEn": "Pignite",
     "types": ["みず", "ゴースト"],
     "baseStats": {
       "hitPoint": 55,
@@ -4903,6 +5015,7 @@
   },
   {
     "name": "ブルンゲル",
+    "nameEn": "Pignite",
     "types": ["みず", "ゴースト"],
     "baseStats": {
       "hitPoint": 100,
@@ -4950,6 +5063,7 @@
   },
   {
     "name": "ママンボウ",
+    "nameEn": "Pignite",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 165,
@@ -4982,6 +5096,7 @@
   },
   {
     "name": "バチュル",
+    "nameEn": "Pignite",
     "types": ["むし", "でんき"],
     "baseStats": {
       "hitPoint": 50,
@@ -5033,6 +5148,7 @@
   },
   {
     "name": "デンチュラ",
+    "nameEn": "Pignite",
     "types": ["むし", "でんき"],
     "baseStats": {
       "hitPoint": 70,
@@ -5082,6 +5198,7 @@
   },
   {
     "name": "テッシード",
+    "nameEn": "Pignite",
     "types": ["くさ", "はがね"],
     "baseStats": {
       "hitPoint": 44,
@@ -5129,6 +5246,7 @@
   },
   {
     "name": "ナットレイ",
+    "nameEn": "Pignite",
     "types": ["くさ", "はがね"],
     "baseStats": {
       "hitPoint": 74,
@@ -5178,6 +5296,7 @@
   },
   {
     "name": "ギアル",
+    "nameEn": "Pignite",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 40,
@@ -5217,6 +5336,7 @@
   },
   {
     "name": "ギギアル",
+    "nameEn": "Pignite",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 60,
@@ -5256,6 +5376,7 @@
   },
   {
     "name": "ギギギアル",
+    "nameEn": "Pignite",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 60,
@@ -5300,6 +5421,7 @@
   },
   {
     "name": "シビシラス",
+    "nameEn": "Pignite",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -5315,6 +5437,7 @@
   },
   {
     "name": "シビビール",
+    "nameEn": "Pignite",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 65,
@@ -5345,6 +5468,7 @@
   },
   {
     "name": "シビルドン",
+    "nameEn": "Pignite",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 85,
@@ -5384,6 +5508,7 @@
   },
   {
     "name": "リグレー",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 55,
@@ -5436,6 +5561,7 @@
   },
   {
     "name": "オーベム",
+    "nameEn": "Pignite",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 75,
@@ -5487,6 +5613,7 @@
   },
   {
     "name": "ヒトモシ",
+    "nameEn": "Pignite",
     "types": ["ゴースト", "ほのお"],
     "baseStats": {
       "hitPoint": 50,
@@ -5536,6 +5663,7 @@
   },
   {
     "name": "ランプラー",
+    "nameEn": "Pignite",
     "types": ["ゴースト", "ほのお"],
     "baseStats": {
       "hitPoint": 60,
@@ -5581,6 +5709,7 @@
   },
   {
     "name": "シャンデラ",
+    "nameEn": "Pignite",
     "types": ["ゴースト", "ほのお"],
     "baseStats": {
       "hitPoint": 60,
@@ -5628,6 +5757,7 @@
   },
   {
     "name": "キバゴ",
+    "nameEn": "Pignite",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 46,
@@ -5681,6 +5811,7 @@
   },
   {
     "name": "オノンド",
+    "nameEn": "Pignite",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 66,
@@ -5731,6 +5862,7 @@
   },
   {
     "name": "オノノクス",
+    "nameEn": "Pignite",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 76,
@@ -5788,6 +5920,7 @@
   },
   {
     "name": "クマシュン",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 55,
@@ -5839,6 +5972,7 @@
   },
   {
     "name": "ツンベアー",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 95,
@@ -5899,6 +6033,7 @@
   },
   {
     "name": "フリージオ",
+    "nameEn": "Pignite",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 80,
@@ -5931,6 +6066,7 @@
   },
   {
     "name": "チョボマキ",
+    "nameEn": "Pignite",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 50,
@@ -5973,6 +6109,7 @@
   },
   {
     "name": "アギルダー",
+    "nameEn": "Pignite",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 80,
@@ -6024,6 +6161,7 @@
   },
   {
     "name": "マッギョ",
+    "nameEn": "Pignite",
     "types": ["じめん", "でんき"],
     "baseStats": {
       "hitPoint": 109,
@@ -6079,6 +6217,7 @@
   },
   {
     "name": "マッギョ-1",
+    "nameEn": "Pignite",
     "types": ["じめん", "はがね"],
     "baseStats": {
       "hitPoint": 109,
@@ -6135,6 +6274,7 @@
   },
   {
     "name": "コジョフー",
+    "nameEn": "Pignite",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 45,
@@ -6177,6 +6317,7 @@
   },
   {
     "name": "コジョンド",
+    "nameEn": "Pignite",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 65,
@@ -6223,6 +6364,7 @@
   },
   {
     "name": "クリムガン",
+    "nameEn": "Pignite",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 77,
@@ -6266,6 +6408,7 @@
   },
   {
     "name": "ゴビット",
+    "nameEn": "Pignite",
     "types": ["じめん", "ゴースト"],
     "baseStats": {
       "hitPoint": 59,
@@ -6322,6 +6465,7 @@
   },
   {
     "name": "ゴルーグ",
+    "nameEn": "Pignite",
     "types": ["じめん", "ゴースト"],
     "baseStats": {
       "hitPoint": 89,
@@ -6384,6 +6528,7 @@
   },
   {
     "name": "コマタナ",
+    "nameEn": "Pignite",
     "types": ["あく", "はがね"],
     "baseStats": {
       "hitPoint": 45,
@@ -6443,6 +6588,7 @@
   },
   {
     "name": "キリキザン",
+    "nameEn": "Pignite",
     "types": ["あく", "はがね"],
     "baseStats": {
       "hitPoint": 65,
@@ -6502,6 +6648,7 @@
   },
   {
     "name": "バッフロン",
+    "nameEn": "Pignite",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 95,
@@ -6537,6 +6684,7 @@
   },
   {
     "name": "ワシボン",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -6584,6 +6732,7 @@
   },
   {
     "name": "ウォーグル",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 100,
@@ -6635,6 +6784,7 @@
   },
   {
     "name": "バルチャイ",
+    "nameEn": "Pignite",
     "types": ["あく", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -6687,6 +6837,7 @@
   },
   {
     "name": "バルジーナ",
+    "nameEn": "Pignite",
     "types": ["あく", "ひこう"],
     "baseStats": {
       "hitPoint": 110,
@@ -6741,6 +6892,7 @@
   },
   {
     "name": "クイタラン",
+    "nameEn": "Pignite",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 85,
@@ -6800,6 +6952,7 @@
   },
   {
     "name": "アイアント",
+    "nameEn": "Pignite",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 58,
@@ -6854,6 +7007,7 @@
   },
   {
     "name": "モノズ",
+    "nameEn": "Pignite",
     "types": ["あく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 52,
@@ -6905,6 +7059,7 @@
   },
   {
     "name": "ジヘッド",
+    "nameEn": "Pignite",
     "types": ["あく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 72,
@@ -6955,6 +7110,7 @@
   },
   {
     "name": "サザンドラ",
+    "nameEn": "Pignite",
     "types": ["あく", "ドラゴン"],
     "baseStats": {
       "hitPoint": 92,
@@ -7021,6 +7177,7 @@
   },
   {
     "name": "メラルバ",
+    "nameEn": "Pignite",
     "types": ["むし", "ほのお"],
     "baseStats": {
       "hitPoint": 55,
@@ -7051,6 +7208,7 @@
   },
   {
     "name": "ウルガモス",
+    "nameEn": "Pignite",
     "types": ["むし", "ほのお"],
     "baseStats": {
       "hitPoint": 85,
@@ -7086,6 +7244,7 @@
   },
   {
     "name": "コバルオン",
+    "nameEn": "Pignite",
     "types": ["はがね", "かくとう"],
     "baseStats": {
       "hitPoint": 91,
@@ -7136,6 +7295,7 @@
   },
   {
     "name": "テラキオン",
+    "nameEn": "Pignite",
     "types": ["いわ", "かくとう"],
     "baseStats": {
       "hitPoint": 91,
@@ -7187,6 +7347,7 @@
   },
   {
     "name": "ビリジオン",
+    "nameEn": "Pignite",
     "types": ["くさ", "かくとう"],
     "baseStats": {
       "hitPoint": 91,
@@ -7237,6 +7398,7 @@
   },
   {
     "name": "トルネロス",
+    "nameEn": "Pignite",
     "types": ["ひこう"],
     "baseStats": {
       "hitPoint": 79,
@@ -7276,6 +7438,7 @@
   },
   {
     "name": "トルネロス-1",
+    "nameEn": "Pignite",
     "types": ["ひこう"],
     "baseStats": {
       "hitPoint": 79,
@@ -7315,6 +7478,7 @@
   },
   {
     "name": "ボルトロス",
+    "nameEn": "Pignite",
     "types": ["でんき", "ひこう"],
     "baseStats": {
       "hitPoint": 79,
@@ -7357,6 +7521,7 @@
   },
   {
     "name": "ボルトロス-1",
+    "nameEn": "Pignite",
     "types": ["でんき", "ひこう"],
     "baseStats": {
       "hitPoint": 79,
@@ -7399,6 +7564,7 @@
   },
   {
     "name": "レシラム",
+    "nameEn": "Pignite",
     "types": ["ドラゴン", "ほのお"],
     "baseStats": {
       "hitPoint": 100,
@@ -7457,6 +7623,7 @@
   },
   {
     "name": "ゼクロム",
+    "nameEn": "Pignite",
     "types": ["ドラゴン", "でんき"],
     "baseStats": {
       "hitPoint": 100,
@@ -7514,6 +7681,7 @@
   },
   {
     "name": "ランドロス",
+    "nameEn": "Pignite",
     "types": ["じめん", "ひこう"],
     "baseStats": {
       "hitPoint": 89,
@@ -7555,6 +7723,7 @@
   },
   {
     "name": "ランドロス-1",
+    "nameEn": "Pignite",
     "types": ["じめん", "ひこう"],
     "baseStats": {
       "hitPoint": 89,
@@ -7596,6 +7765,7 @@
   },
   {
     "name": "キュレム",
+    "nameEn": "Pignite",
     "types": ["ドラゴン", "こおり"],
     "baseStats": {
       "hitPoint": 125,
@@ -7654,6 +7824,7 @@
   },
   {
     "name": "キュレム-1",
+    "nameEn": "Pignite",
     "types": ["ドラゴン", "こおり"],
     "baseStats": {
       "hitPoint": 125,
@@ -7713,6 +7884,7 @@
   },
   {
     "name": "キュレム-2",
+    "nameEn": "Pignite",
     "types": ["ドラゴン", "こおり"],
     "baseStats": {
       "hitPoint": 125,
@@ -7772,6 +7944,7 @@
   },
   {
     "name": "ケルディオ",
+    "nameEn": "Pignite",
     "types": ["みず", "かくとう"],
     "baseStats": {
       "hitPoint": 91,
@@ -7823,6 +7996,7 @@
   },
   {
     "name": "ケルディオ-1",
+    "nameEn": "Pignite",
     "types": ["みず", "かくとう"],
     "baseStats": {
       "hitPoint": 91,
@@ -7874,6 +8048,7 @@
   },
   {
     "name": "メロエッタ",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "エスパー"],
     "baseStats": {
       "hitPoint": 100,
@@ -7919,6 +8094,7 @@
   },
   {
     "name": "メロエッタ-1",
+    "nameEn": "Pignite",
     "types": ["ノーマル", "かくとう"],
     "baseStats": {
       "hitPoint": 100,
@@ -7964,6 +8140,7 @@
   },
   {
     "name": "ゲノセクト",
+    "nameEn": "Pignite",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 71,
@@ -8000,6 +8177,7 @@
   },
   {
     "name": "ゲノセクト-1",
+    "nameEn": "Pignite",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 71,
@@ -8036,6 +8214,7 @@
   },
   {
     "name": "ゲノセクト-2",
+    "nameEn": "Pignite",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 71,
@@ -8072,6 +8251,7 @@
   },
   {
     "name": "ゲノセクト-3",
+    "nameEn": "Pignite",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 71,
@@ -8108,6 +8288,7 @@
   },
   {
     "name": "ゲノセクト-4",
+    "nameEn": "Pignite",
     "types": ["むし", "はがね"],
     "baseStats": {
       "hitPoint": 71,

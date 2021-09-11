@@ -1,6 +1,7 @@
 [
   {
     "name": "キモリ",
+    "nameEn": "Sceptile-1",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 40,
@@ -42,6 +43,7 @@
   },
   {
     "name": "ジュプトル",
+    "nameEn": "Sceptile-1",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 50,
@@ -86,6 +88,7 @@
   },
   {
     "name": "ジュカイン",
+    "nameEn": "Sceptile-1",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 70,
@@ -136,6 +139,7 @@
   },
   {
     "name": "ジュカイン-1",
+    "nameEn": "Sceptile-1",
     "types": ["くさ", "ドラゴン"],
     "baseStats": {
       "hitPoint": 70,
@@ -185,6 +189,7 @@
   },
   {
     "name": "アチャモ",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 45,
@@ -219,6 +224,7 @@
   },
   {
     "name": "ワカシャモ",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお", "かくとう"],
     "baseStats": {
       "hitPoint": 60,
@@ -259,6 +265,7 @@
   },
   {
     "name": "バシャーモ",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお", "かくとう"],
     "baseStats": {
       "hitPoint": 80,
@@ -305,6 +312,7 @@
   },
   {
     "name": "バシャーモ-1",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお", "かくとう"],
     "baseStats": {
       "hitPoint": 80,
@@ -350,6 +358,7 @@
   },
   {
     "name": "ミズゴロウ",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -381,6 +390,7 @@
   },
   {
     "name": "ヌマクロー",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 70,
@@ -419,6 +429,7 @@
   },
   {
     "name": "ラグラージ",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 100,
@@ -461,6 +472,7 @@
   },
   {
     "name": "ラグラージ-1",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 100,
@@ -503,6 +515,7 @@
   },
   {
     "name": "ポチエナ",
+    "nameEn": "Sceptile-1",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 35,
@@ -538,6 +551,7 @@
   },
   {
     "name": "グラエナ",
+    "nameEn": "Sceptile-1",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -575,6 +589,7 @@
   },
   {
     "name": "ジグザグマ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 38,
@@ -626,6 +641,7 @@
   },
   {
     "name": "ジグザグマ-1",
+    "nameEn": "Sceptile-1",
     "types": ["あく", "ノーマル"],
     "baseStats": {
       "hitPoint": 38,
@@ -680,6 +696,7 @@
   },
   {
     "name": "マッスグマ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 78,
@@ -736,6 +753,7 @@
   },
   {
     "name": "マッスグマ-1",
+    "nameEn": "Sceptile-1",
     "types": ["あく", "ノーマル"],
     "baseStats": {
       "hitPoint": 78,
@@ -795,6 +813,7 @@
   },
   {
     "name": "ケムッソ",
+    "nameEn": "Sceptile-1",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -810,6 +829,7 @@
   },
   {
     "name": "カラサリス",
+    "nameEn": "Sceptile-1",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 50,
@@ -825,6 +845,7 @@
   },
   {
     "name": "アゲハント",
+    "nameEn": "Sceptile-1",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -859,6 +880,7 @@
   },
   {
     "name": "マユルド",
+    "nameEn": "Sceptile-1",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 50,
@@ -874,6 +896,7 @@
   },
   {
     "name": "ドクケイル",
+    "nameEn": "Sceptile-1",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -907,6 +930,7 @@
   },
   {
     "name": "ハスボー",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "くさ"],
     "baseStats": {
       "hitPoint": 40,
@@ -956,6 +980,7 @@
   },
   {
     "name": "ハスブレロ",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -1013,6 +1038,7 @@
   },
   {
     "name": "ルンパッパ",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "くさ"],
     "baseStats": {
       "hitPoint": 80,
@@ -1073,6 +1099,7 @@
   },
   {
     "name": "タネボー",
+    "nameEn": "Sceptile-1",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 40,
@@ -1124,6 +1151,7 @@
   },
   {
     "name": "コノハナ",
+    "nameEn": "Sceptile-1",
     "types": ["くさ", "あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -1188,6 +1216,7 @@
   },
   {
     "name": "ダーテング",
+    "nameEn": "Sceptile-1",
     "types": ["くさ", "あく"],
     "baseStats": {
       "hitPoint": 90,
@@ -1262,6 +1291,7 @@
   },
   {
     "name": "スバメ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 40,
@@ -1292,6 +1322,7 @@
   },
   {
     "name": "オオスバメ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -1324,6 +1355,7 @@
   },
   {
     "name": "キャモメ",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "ひこう"],
     "baseStats": {
       "hitPoint": 40,
@@ -1374,6 +1406,7 @@
   },
   {
     "name": "ペリッパー",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -1428,6 +1461,7 @@
   },
   {
     "name": "ラルトス",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 28,
@@ -1496,6 +1530,7 @@
   },
   {
     "name": "キルリア",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 38,
@@ -1556,6 +1591,7 @@
   },
   {
     "name": "サーナイト",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 68,
@@ -1626,6 +1662,7 @@
   },
   {
     "name": "サーナイト-1",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 68,
@@ -1695,6 +1732,7 @@
   },
   {
     "name": "アメタマ",
+    "nameEn": "Sceptile-1",
     "types": ["むし", "みず"],
     "baseStats": {
       "hitPoint": 40,
@@ -1724,6 +1762,7 @@
   },
   {
     "name": "アメモース",
+    "nameEn": "Sceptile-1",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -1759,6 +1798,7 @@
   },
   {
     "name": "キノココ",
+    "nameEn": "Sceptile-1",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -1793,6 +1833,7 @@
   },
   {
     "name": "キノガッサ",
+    "nameEn": "Sceptile-1",
     "types": ["くさ", "かくとう"],
     "baseStats": {
       "hitPoint": 60,
@@ -1839,6 +1880,7 @@
   },
   {
     "name": "ナマケロ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 60,
@@ -1877,6 +1919,7 @@
   },
   {
     "name": "ヤルキモノ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 80,
@@ -1917,6 +1960,7 @@
   },
   {
     "name": "ケッキング",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 150,
@@ -1960,6 +2004,7 @@
   },
   {
     "name": "ツチニン",
+    "nameEn": "Sceptile-1",
     "types": ["むし", "じめん"],
     "baseStats": {
       "hitPoint": 31,
@@ -2000,6 +2045,7 @@
   },
   {
     "name": "テッカニン",
+    "nameEn": "Sceptile-1",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 61,
@@ -2052,6 +2098,7 @@
   },
   {
     "name": "ヌケニン",
+    "nameEn": "Sceptile-1",
     "types": ["むし", "ゴースト"],
     "baseStats": {
       "hitPoint": 1,
@@ -2099,6 +2146,7 @@
   },
   {
     "name": "ゴニョニョ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 64,
@@ -2134,6 +2182,7 @@
   },
   {
     "name": "ドゴーム",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 84,
@@ -2174,6 +2223,7 @@
   },
   {
     "name": "バクオング",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 104,
@@ -2221,6 +2271,7 @@
   },
   {
     "name": "マクノシタ",
+    "nameEn": "Sceptile-1",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 72,
@@ -2263,6 +2314,7 @@
   },
   {
     "name": "ハリテヤマ",
+    "nameEn": "Sceptile-1",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 144,
@@ -2310,6 +2362,7 @@
   },
   {
     "name": "ルリリ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル", "フェアリー"],
     "baseStats": {
       "hitPoint": 50,
@@ -2344,6 +2397,7 @@
   },
   {
     "name": "ノズパス",
+    "nameEn": "Sceptile-1",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 30,
@@ -2381,6 +2435,7 @@
   },
   {
     "name": "エネコ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 50,
@@ -2418,6 +2473,7 @@
   },
   {
     "name": "エネコロロ",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 70,
@@ -2458,6 +2514,7 @@
   },
   {
     "name": "ヤミラミ",
+    "nameEn": "Sceptile-1",
     "types": ["あく", "ゴースト"],
     "baseStats": {
       "hitPoint": 50,
@@ -2527,6 +2584,7 @@
   },
   {
     "name": "ヤミラミ-1",
+    "nameEn": "Sceptile-1",
     "types": ["あく", "ゴースト"],
     "baseStats": {
       "hitPoint": 50,
@@ -2597,6 +2655,7 @@
   },
   {
     "name": "クチート",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "フェアリー"],
     "baseStats": {
       "hitPoint": 50,
@@ -2666,6 +2725,7 @@
   },
   {
     "name": "クチート-1",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "フェアリー"],
     "baseStats": {
       "hitPoint": 50,
@@ -2736,6 +2796,7 @@
   },
   {
     "name": "ココドラ",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "いわ"],
     "baseStats": {
       "hitPoint": 50,
@@ -2767,6 +2828,7 @@
   },
   {
     "name": "コドラ",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "いわ"],
     "baseStats": {
       "hitPoint": 60,
@@ -2801,6 +2863,7 @@
   },
   {
     "name": "ボスゴドラ",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "いわ"],
     "baseStats": {
       "hitPoint": 70,
@@ -2853,6 +2916,7 @@
   },
   {
     "name": "ボスゴドラ-1",
+    "nameEn": "Sceptile-1",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 70,
@@ -2906,6 +2970,7 @@
   },
   {
     "name": "アサナン",
+    "nameEn": "Sceptile-1",
     "types": ["かくとう", "エスパー"],
     "baseStats": {
       "hitPoint": 30,
@@ -2950,6 +3015,7 @@
   },
   {
     "name": "チャーレム",
+    "nameEn": "Sceptile-1",
     "types": ["かくとう", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -2996,6 +3062,7 @@
   },
   {
     "name": "チャーレム-1",
+    "nameEn": "Sceptile-1",
     "types": ["かくとう", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -3042,6 +3109,7 @@
   },
   {
     "name": "ラクライ",
+    "nameEn": "Sceptile-1",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 40,
@@ -3090,6 +3158,7 @@
   },
   {
     "name": "ライボルト",
+    "nameEn": "Sceptile-1",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 70,
@@ -3138,6 +3207,7 @@
   },
   {
     "name": "ライボルト-1",
+    "nameEn": "Sceptile-1",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 70,
@@ -3185,6 +3255,7 @@
   },
   {
     "name": "プラスle",
+    "nameEn": "Sceptile-1",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 60,
@@ -3219,6 +3290,7 @@
   },
   {
     "name": "マイナン",
+    "nameEn": "Sceptile-1",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 60,
@@ -3253,6 +3325,7 @@
   },
   {
     "name": "バルビート",
+    "nameEn": "Sceptile-1",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 65,
@@ -3293,6 +3366,7 @@
   },
   {
     "name": "イルミーゼ",
+    "nameEn": "Sceptile-1",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 65,
@@ -3334,6 +3408,7 @@
   },
   {
     "name": "ロゼリア",
+    "nameEn": "Sceptile-1",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 50,
@@ -3386,6 +3461,7 @@
   },
   {
     "name": "ゴクリン",
+    "nameEn": "Sceptile-1",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 70,
@@ -3417,6 +3493,7 @@
   },
   {
     "name": "マルノーム",
+    "nameEn": "Sceptile-1",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 100,
@@ -3451,6 +3528,7 @@
   },
   {
     "name": "キバニア",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 45,
@@ -3489,6 +3567,7 @@
   },
   {
     "name": "サメハダー",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -3531,6 +3610,7 @@
   },
   {
     "name": "サメハダー-1",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -3572,6 +3652,7 @@
   },
   {
     "name": "ホエルコ",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 130,
@@ -3626,6 +3707,7 @@
   },
   {
     "name": "ホエルオー",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 170,
@@ -3675,6 +3757,7 @@
   },
   {
     "name": "ドンメル",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお", "じめん"],
     "baseStats": {
       "hitPoint": 60,
@@ -3706,6 +3789,7 @@
   },
   {
     "name": "バクーダ",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお", "じめん"],
     "baseStats": {
       "hitPoint": 70,
@@ -3742,6 +3826,7 @@
   },
   {
     "name": "バクーダ-1",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお", "じめん"],
     "baseStats": {
       "hitPoint": 70,
@@ -3778,6 +3863,7 @@
   },
   {
     "name": "コータス",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 70,
@@ -3834,6 +3920,7 @@
   },
   {
     "name": "バネブー",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -3866,6 +3953,7 @@
   },
   {
     "name": "ブーピッグ",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -3910,6 +3998,7 @@
   },
   {
     "name": "パッチール",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 60,
@@ -3954,6 +4043,7 @@
   },
   {
     "name": "ナックラー",
+    "nameEn": "Sceptile-1",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 45,
@@ -4004,6 +4094,7 @@
   },
   {
     "name": "ビブラーバ",
+    "nameEn": "Sceptile-1",
     "types": ["じめん", "ドラゴン"],
     "baseStats": {
       "hitPoint": 50,
@@ -4060,6 +4151,7 @@
   },
   {
     "name": "フライゴン",
+    "nameEn": "Sceptile-1",
     "types": ["じめん", "ドラゴン"],
     "baseStats": {
       "hitPoint": 80,
@@ -4127,6 +4219,7 @@
   },
   {
     "name": "サボネア",
+    "nameEn": "Sceptile-1",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 50,
@@ -4164,6 +4257,7 @@
   },
   {
     "name": "ノクタス",
+    "nameEn": "Sceptile-1",
     "types": ["くさ", "あく"],
     "baseStats": {
       "hitPoint": 70,
@@ -4207,6 +4301,7 @@
   },
   {
     "name": "チルット",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 45,
@@ -4239,6 +4334,7 @@
   },
   {
     "name": "チルタリス",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -4277,6 +4373,7 @@
   },
   {
     "name": "チルタリス-1",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "フェアリー"],
     "baseStats": {
       "hitPoint": 75,
@@ -4313,6 +4410,7 @@
   },
   {
     "name": "ザングース",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 73,
@@ -4358,6 +4456,7 @@
   },
   {
     "name": "ハブネーク",
+    "nameEn": "Sceptile-1",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 73,
@@ -4393,6 +4492,7 @@
   },
   {
     "name": "ルナトーン",
+    "nameEn": "Sceptile-1",
     "types": ["いわ", "エスパー"],
     "baseStats": {
       "hitPoint": 90,
@@ -4452,6 +4552,7 @@
   },
   {
     "name": "ソルロック",
+    "nameEn": "Sceptile-1",
     "types": ["いわ", "エスパー"],
     "baseStats": {
       "hitPoint": 90,
@@ -4512,6 +4613,7 @@
   },
   {
     "name": "ドジョッチ",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 50,
@@ -4557,6 +4659,7 @@
   },
   {
     "name": "ナマズン",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "じめん"],
     "baseStats": {
       "hitPoint": 110,
@@ -4608,6 +4711,7 @@
   },
   {
     "name": "ヘイガニ",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 43,
@@ -4662,6 +4766,7 @@
   },
   {
     "name": "シザリガー",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 63,
@@ -4718,6 +4823,7 @@
   },
   {
     "name": "ヤジロン",
+    "nameEn": "Sceptile-1",
     "types": ["じめん", "エスパー"],
     "baseStats": {
       "hitPoint": 40,
@@ -4773,6 +4879,7 @@
   },
   {
     "name": "ネンドール",
+    "nameEn": "Sceptile-1",
     "types": ["じめん", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -4831,6 +4938,7 @@
   },
   {
     "name": "リリーラ",
+    "nameEn": "Sceptile-1",
     "types": ["いわ", "くさ"],
     "baseStats": {
       "hitPoint": 66,
@@ -4863,6 +4971,7 @@
   },
   {
     "name": "ユレイドル",
+    "nameEn": "Sceptile-1",
     "types": ["いわ", "くさ"],
     "baseStats": {
       "hitPoint": 86,
@@ -4900,6 +5009,7 @@
   },
   {
     "name": "アノプス",
+    "nameEn": "Sceptile-1",
     "types": ["いわ", "むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -4934,6 +5044,7 @@
   },
   {
     "name": "アーマルド",
+    "nameEn": "Sceptile-1",
     "types": ["いわ", "むし"],
     "baseStats": {
       "hitPoint": 75,
@@ -4974,6 +5085,7 @@
   },
   {
     "name": "ヒンバス",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 20,
@@ -5015,6 +5127,7 @@
   },
   {
     "name": "ミロカロス",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 95,
@@ -5072,6 +5185,7 @@
   },
   {
     "name": "ポワルン",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 70,
@@ -5107,6 +5221,7 @@
   },
   {
     "name": "ポワルン-1",
+    "nameEn": "Sceptile-1",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 70,
@@ -5142,6 +5257,7 @@
   },
   {
     "name": "ポワルン-2",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -5177,6 +5293,7 @@
   },
   {
     "name": "ポワルン-3",
+    "nameEn": "Sceptile-1",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 70,
@@ -5212,6 +5329,7 @@
   },
   {
     "name": "カクレオン",
+    "nameEn": "Sceptile-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 60,
@@ -5257,6 +5375,7 @@
   },
   {
     "name": "カゲボウズ",
+    "nameEn": "Sceptile-1",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 44,
@@ -5292,6 +5411,7 @@
   },
   {
     "name": "ジュペッタ",
+    "nameEn": "Sceptile-1",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 64,
@@ -5332,6 +5452,7 @@
   },
   {
     "name": "ジュペッタ-1",
+    "nameEn": "Sceptile-1",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 64,
@@ -5372,6 +5493,7 @@
   },
   {
     "name": "ヨマワル",
+    "nameEn": "Sceptile-1",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 20,
@@ -5421,6 +5543,7 @@
   },
   {
     "name": "サマヨール",
+    "nameEn": "Sceptile-1",
     "types": ["ゴースト"],
     "baseStats": {
       "hitPoint": 40,
@@ -5480,6 +5603,7 @@
   },
   {
     "name": "トロピウス",
+    "nameEn": "Sceptile-1",
     "types": ["くさ", "ひこう"],
     "baseStats": {
       "hitPoint": 99,
@@ -5516,6 +5640,7 @@
   },
   {
     "name": "チリーン",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 75,
@@ -5547,6 +5672,7 @@
   },
   {
     "name": "アブソル",
+    "nameEn": "Sceptile-1",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 65,
@@ -5593,6 +5719,7 @@
   },
   {
     "name": "アブソル-1",
+    "nameEn": "Sceptile-1",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 65,
@@ -5638,6 +5765,7 @@
   },
   {
     "name": "ソーナノ",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 95,
@@ -5662,6 +5790,7 @@
   },
   {
     "name": "ユキワラシ",
+    "nameEn": "Sceptile-1",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 50,
@@ -5709,6 +5838,7 @@
   },
   {
     "name": "オニゴーリ",
+    "nameEn": "Sceptile-1",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 80,
@@ -5760,6 +5890,7 @@
   },
   {
     "name": "オニゴーリ-1",
+    "nameEn": "Sceptile-1",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 80,
@@ -5811,6 +5942,7 @@
   },
   {
     "name": "タマザラシ",
+    "nameEn": "Sceptile-1",
     "types": ["こおり", "みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -5842,6 +5974,7 @@
   },
   {
     "name": "トドグラー",
+    "nameEn": "Sceptile-1",
     "types": ["こおり", "みず"],
     "baseStats": {
       "hitPoint": 90,
@@ -5874,6 +6007,7 @@
   },
   {
     "name": "トドゼルガ",
+    "nameEn": "Sceptile-1",
     "types": ["こおり", "みず"],
     "baseStats": {
       "hitPoint": 110,
@@ -5911,6 +6045,7 @@
   },
   {
     "name": "パールル",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 35,
@@ -5939,6 +6074,7 @@
   },
   {
     "name": "ハンテール",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 55,
@@ -5974,6 +6110,7 @@
   },
   {
     "name": "サクラビス",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 55,
@@ -6007,6 +6144,7 @@
   },
   {
     "name": "ジーランス",
+    "nameEn": "Sceptile-1",
     "types": ["みず", "いわ"],
     "baseStats": {
       "hitPoint": 100,
@@ -6046,6 +6184,7 @@
   },
   {
     "name": "ラブカス",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 43,
@@ -6078,6 +6217,7 @@
   },
   {
     "name": "タツベイ",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 45,
@@ -6108,6 +6248,7 @@
   },
   {
     "name": "コモルー",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 65,
@@ -6138,6 +6279,7 @@
   },
   {
     "name": "ボーマンダ",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "ひこう"],
     "baseStats": {
       "hitPoint": 95,
@@ -6178,6 +6320,7 @@
   },
   {
     "name": "ボーマンダ-1",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "ひこう"],
     "baseStats": {
       "hitPoint": 95,
@@ -6215,6 +6358,7 @@
   },
   {
     "name": "ダンバル",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "エスパー"],
     "baseStats": {
       "hitPoint": 40,
@@ -6230,6 +6374,7 @@
   },
   {
     "name": "メタング",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -6268,6 +6413,7 @@
   },
   {
     "name": "メタグロス",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -6309,6 +6455,7 @@
   },
   {
     "name": "メタグロス-1",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -6347,6 +6494,7 @@
   },
   {
     "name": "レジロック",
+    "nameEn": "Sceptile-1",
     "types": ["いわ"],
     "baseStats": {
       "hitPoint": 80,
@@ -6390,6 +6538,7 @@
   },
   {
     "name": "レジアイス",
+    "nameEn": "Sceptile-1",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 80,
@@ -6431,6 +6580,7 @@
   },
   {
     "name": "レジスチル",
+    "nameEn": "Sceptile-1",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 80,
@@ -6472,6 +6622,7 @@
   },
   {
     "name": "ラティアス",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -6520,6 +6671,7 @@
   },
   {
     "name": "ラティアス-1",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -6563,6 +6715,7 @@
   },
   {
     "name": "ラティオス",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -6610,6 +6763,7 @@
   },
   {
     "name": "ラティオス-1",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "エスパー"],
     "baseStats": {
       "hitPoint": 80,
@@ -6652,6 +6806,7 @@
   },
   {
     "name": "カイオーガ",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 100,
@@ -6689,6 +6844,7 @@
   },
   {
     "name": "カイオーガ-1",
+    "nameEn": "Sceptile-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 100,
@@ -6726,6 +6882,7 @@
   },
   {
     "name": "グラードン",
+    "nameEn": "Sceptile-1",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 100,
@@ -6768,6 +6925,7 @@
   },
   {
     "name": "グラードン-1",
+    "nameEn": "Sceptile-1",
     "types": ["じめん", "ほのお"],
     "baseStats": {
       "hitPoint": 100,
@@ -6810,6 +6968,7 @@
   },
   {
     "name": "レックウザ",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "ひこう"],
     "baseStats": {
       "hitPoint": 105,
@@ -6853,6 +7012,7 @@
   },
   {
     "name": "レックウザ-1",
+    "nameEn": "Sceptile-1",
     "types": ["ドラゴン", "ひこう"],
     "baseStats": {
       "hitPoint": 105,
@@ -6895,6 +7055,7 @@
   },
   {
     "name": "ジラーチ",
+    "nameEn": "Sceptile-1",
     "types": ["はがね", "エスパー"],
     "baseStats": {
       "hitPoint": 100,
@@ -6953,6 +7114,7 @@
   },
   {
     "name": "デオキシス",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 50,
@@ -7001,6 +7163,7 @@
   },
   {
     "name": "デオキシス-1",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 50,
@@ -7049,6 +7212,7 @@
   },
   {
     "name": "デオキシス-2",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 50,
@@ -7097,6 +7261,7 @@
   },
   {
     "name": "デオキシス-3",
+    "nameEn": "Sceptile-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 50,
