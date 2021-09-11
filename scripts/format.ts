@@ -1,7 +1,11 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 const fs = require("fs")
 
-for(let i = 1; i <= 8; i++) {
-  const gen: Record<string, unknown>[] = require(`../static/original/pokemon-data.json/jp/gen${i}-jp.json`)
+for (let i = 1; i <= 8; i++) {
+  const gen: Record<
+    string,
+    unknown
+  >[] = require(`../static/original/pokemon-data.json/jp/gen${i}-jp.json`)
 
   const evolutions: {
     name: string
@@ -13,14 +17,16 @@ for(let i = 1; i <= 8; i++) {
     const tms = _pokemon.tms.map((_move: any) => _move[1])
 
     const eggMoves: string[] = _pokemon.egg_moves
-    const findEvolution = evolutions.find(_evolution => _evolution.name === _pokemon.name)
-    if(findEvolution) {
+    const findEvolution = evolutions.find(
+      (_evolution) => _evolution.name === _pokemon.name
+    )
+    if (findEvolution) {
       eggMoves.concat(findEvolution.eggMoves)
     }
 
     const moves = [...new Set([...levelUpMoves, ...tms, ...eggMoves])]
 
-    if(eggMoves.length >= 1 && _pokemon.evolutions.length >= 1) {
+    if (eggMoves.length >= 1 && _pokemon.evolutions.length >= 1) {
       _pokemon.evolutions.forEach((_evolution: any) => {
         const evolution = {
           name: _evolution.species.replace(/-\d/, ""),
@@ -47,5 +53,8 @@ for(let i = 1; i <= 8; i++) {
     }
   })
 
-  fs.writeFileSync(`./static/processed/pokemon/v1/gen${i}.json`, JSON.stringify(formatted))
+  fs.writeFileSync(
+    `./static/processed/pokemon/v1/gen${i}.json`,
+    JSON.stringify(formatted)
+  )
 }
