@@ -1,7 +1,7 @@
 [
   {
     "name": "フシギダネ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Bulbasaur",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 45,
@@ -107,7 +107,7 @@
   },
   {
     "name": "フシギバナ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Venusaur",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 80,
@@ -163,7 +163,7 @@
   },
   {
     "name": "フシギバナ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Venusaur-1",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 80,
@@ -217,7 +217,7 @@
   },
   {
     "name": "ヒトカゲ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Charmander",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 39,
@@ -278,7 +278,7 @@
   },
   {
     "name": "リザード",
-    "nameEn": "Ivysaur",
+    "nameEn": "Charmeleon",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 58,
@@ -331,7 +331,7 @@
   },
   {
     "name": "リザードン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Charizard",
     "types": ["ほのお", "ひこう"],
     "baseStats": {
       "hitPoint": 78,
@@ -396,7 +396,7 @@
   },
   {
     "name": "リザードン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Charizard-1",
     "types": ["ほのお", "ドラゴン"],
     "baseStats": {
       "hitPoint": 78,
@@ -461,7 +461,7 @@
   },
   {
     "name": "リザードン-2",
-    "nameEn": "Ivysaur",
+    "nameEn": "Charizard-2",
     "types": ["ほのお", "ひこう"],
     "baseStats": {
       "hitPoint": 78,
@@ -526,7 +526,7 @@
   },
   {
     "name": "ゼニガメ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Squirtle",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 44,
@@ -587,7 +587,7 @@
   },
   {
     "name": "カメール",
-    "nameEn": "Ivysaur",
+    "nameEn": "Wartortle",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 59,
@@ -638,7 +638,7 @@
   },
   {
     "name": "カメックス",
-    "nameEn": "Ivysaur",
+    "nameEn": "Blastoise",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 79,
@@ -695,7 +695,7 @@
   },
   {
     "name": "カメックス-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Blastoise-1",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 79,
@@ -753,7 +753,7 @@
   },
   {
     "name": "キャタピー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Caterpie",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 45,
@@ -769,7 +769,7 @@
   },
   {
     "name": "トランセル",
-    "nameEn": "Ivysaur",
+    "nameEn": "Metapod",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 50,
@@ -785,7 +785,7 @@
   },
   {
     "name": "バタフリー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Butterfree",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -839,7 +839,7 @@
   },
   {
     "name": "ビードル",
-    "nameEn": "Ivysaur",
+    "nameEn": "Weedle",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 40,
@@ -855,7 +855,7 @@
   },
   {
     "name": "コクーン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Kakuna",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 45,
@@ -871,7 +871,7 @@
   },
   {
     "name": "スピアー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Beedrill",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 65,
@@ -912,7 +912,7 @@
   },
   {
     "name": "スピアー-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Beedrill-1",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 65,
@@ -953,7 +953,7 @@
   },
   {
     "name": "ポッポ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pidgey",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 40,
@@ -983,7 +983,7 @@
   },
   {
     "name": "ピジョン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pidgeotto",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 63,
@@ -1013,7 +1013,7 @@
   },
   {
     "name": "ピジョット",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pidgeot",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 83,
@@ -1045,7 +1045,7 @@
   },
   {
     "name": "ピジョット-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pidgeot-1",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 83,
@@ -1077,7 +1077,7 @@
   },
   {
     "name": "コラッタ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Rattata",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 30,
@@ -1111,7 +1111,7 @@
   },
   {
     "name": "コラッタ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Rattata-1",
     "types": ["あく", "ノーマル"],
     "baseStats": {
       "hitPoint": 30,
@@ -1146,7 +1146,7 @@
   },
   {
     "name": "ラッタ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Raticate",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 55,
@@ -1184,7 +1184,7 @@
   },
   {
     "name": "ラッタ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Raticate-1",
     "types": ["あく", "ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -1224,7 +1224,7 @@
   },
   {
     "name": "オニスズメ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Spearow",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 40,
@@ -1256,7 +1256,7 @@
   },
   {
     "name": "オニドリル",
-    "nameEn": "Ivysaur",
+    "nameEn": "Fearow",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 65,
@@ -1291,7 +1291,7 @@
   },
   {
     "name": "アーボ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Ekans",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 35,
@@ -1328,7 +1328,7 @@
   },
   {
     "name": "アーボック",
-    "nameEn": "Ivysaur",
+    "nameEn": "Arbok",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -1371,7 +1371,7 @@
   },
   {
     "name": "ピカチュウ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1430,7 +1430,7 @@
   },
   {
     "name": "ピカチュウ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-1",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1489,7 +1489,7 @@
   },
   {
     "name": "ピカチュウ-2",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-2",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1548,7 +1548,7 @@
   },
   {
     "name": "ピカチュウ-3",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-3",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1607,7 +1607,7 @@
   },
   {
     "name": "ピカチュウ-4",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-4",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1666,7 +1666,7 @@
   },
   {
     "name": "ピカチュウ-5",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-5",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1725,7 +1725,7 @@
   },
   {
     "name": "ピカチュウ-6",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-6",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1784,7 +1784,7 @@
   },
   {
     "name": "ピカチュウ-7",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-7",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 35,
@@ -1843,7 +1843,7 @@
   },
   {
     "name": "ピカチュウ-8",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pikachu-8",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 45,
@@ -1885,7 +1885,7 @@
   },
   {
     "name": "ライチュウ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Raichu",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 60,
@@ -1950,7 +1950,7 @@
   },
   {
     "name": "ライチュウ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Raichu-1",
     "types": ["でんき", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -2015,7 +2015,7 @@
   },
   {
     "name": "サンド",
-    "nameEn": "Ivysaur",
+    "nameEn": "Sandshrew",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 50,
@@ -2053,7 +2053,7 @@
   },
   {
     "name": "サンド-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Sandshrew-1",
     "types": ["こおり", "はがね"],
     "baseStats": {
       "hitPoint": 50,
@@ -2090,7 +2090,7 @@
   },
   {
     "name": "サンドパン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Sandslash",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 75,
@@ -2131,7 +2131,7 @@
   },
   {
     "name": "サンドパン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Sandslash-1",
     "types": ["こおり", "はがね"],
     "baseStats": {
       "hitPoint": 75,
@@ -2172,7 +2172,7 @@
   },
   {
     "name": "ニドラン♀",
-    "nameEn": "Ivysaur",
+    "nameEn": "Nidoran♀",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 55,
@@ -2204,7 +2204,7 @@
   },
   {
     "name": "ニドリーナ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Nidorina",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 70,
@@ -2237,7 +2237,7 @@
   },
   {
     "name": "ニドクイン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Nidoqueen",
     "types": ["どく", "じめん"],
     "baseStats": {
       "hitPoint": 90,
@@ -2291,7 +2291,7 @@
   },
   {
     "name": "ニドラン♂",
-    "nameEn": "Ivysaur",
+    "nameEn": "Nidoran♂",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 46,
@@ -2323,7 +2323,7 @@
   },
   {
     "name": "ニドリーノ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Nidorino",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 61,
@@ -2356,7 +2356,7 @@
   },
   {
     "name": "ニドキング",
-    "nameEn": "Ivysaur",
+    "nameEn": "Nidoking",
     "types": ["どく", "じめん"],
     "baseStats": {
       "hitPoint": 81,
@@ -2410,7 +2410,7 @@
   },
   {
     "name": "ピッピ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Clefairy",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 70,
@@ -2482,7 +2482,7 @@
   },
   {
     "name": "ピクシー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Clefable",
     "types": ["フェアリー"],
     "baseStats": {
       "hitPoint": 95,
@@ -2556,7 +2556,7 @@
   },
   {
     "name": "ロコン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Vulpix",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 38,
@@ -2611,7 +2611,7 @@
   },
   {
     "name": "ロコン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Vulpix-1",
     "types": ["こおり"],
     "baseStats": {
       "hitPoint": 38,
@@ -2669,7 +2669,7 @@
   },
   {
     "name": "キュウコン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Ninetales",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 73,
@@ -2722,7 +2722,7 @@
   },
   {
     "name": "キュウコン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Ninetales-1",
     "types": ["こおり", "フェアリー"],
     "baseStats": {
       "hitPoint": 73,
@@ -2782,7 +2782,7 @@
   },
   {
     "name": "プリン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Jigglypuff",
     "types": ["ノーマル", "フェアリー"],
     "baseStats": {
       "hitPoint": 115,
@@ -2831,7 +2831,7 @@
   },
   {
     "name": "プクリン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Wigglytuff",
     "types": ["ノーマル", "フェアリー"],
     "baseStats": {
       "hitPoint": 140,
@@ -2883,7 +2883,7 @@
   },
   {
     "name": "ズバット",
-    "nameEn": "Ivysaur",
+    "nameEn": "Zubat",
     "types": ["どく", "ひこう"],
     "baseStats": {
       "hitPoint": 40,
@@ -2919,7 +2919,7 @@
   },
   {
     "name": "ゴルバット",
-    "nameEn": "Ivysaur",
+    "nameEn": "Golbat",
     "types": ["どく", "ひこう"],
     "baseStats": {
       "hitPoint": 75,
@@ -2958,7 +2958,7 @@
   },
   {
     "name": "ナゾノクサ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Oddish",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 45,
@@ -3010,7 +3010,7 @@
   },
   {
     "name": "クサイハナ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Gloom",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -3054,7 +3054,7 @@
   },
   {
     "name": "ラフレシア",
-    "nameEn": "Ivysaur",
+    "nameEn": "Vileplume",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 75,
@@ -3103,7 +3103,7 @@
   },
   {
     "name": "パラス",
-    "nameEn": "Ivysaur",
+    "nameEn": "Paras",
     "types": ["むし", "くさ"],
     "baseStats": {
       "hitPoint": 35,
@@ -3139,7 +3139,7 @@
   },
   {
     "name": "パラセクト",
-    "nameEn": "Ivysaur",
+    "nameEn": "Parasect",
     "types": ["むし", "くさ"],
     "baseStats": {
       "hitPoint": 60,
@@ -3177,7 +3177,7 @@
   },
   {
     "name": "コンパン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Venonat",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -3206,7 +3206,7 @@
   },
   {
     "name": "モルフォン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Venomoth",
     "types": ["むし", "どく"],
     "baseStats": {
       "hitPoint": 70,
@@ -3239,7 +3239,7 @@
   },
   {
     "name": "ディグダ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Diglett",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 10,
@@ -3289,7 +3289,7 @@
   },
   {
     "name": "ディグダ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Diglett-1",
     "types": ["じめん", "はがね"],
     "baseStats": {
       "hitPoint": 10,
@@ -3341,7 +3341,7 @@
   },
   {
     "name": "ダグトリオ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Dugtrio",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 35,
@@ -3391,7 +3391,7 @@
   },
   {
     "name": "ダグトリオ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Dugtrio-1",
     "types": ["じめん", "はがね"],
     "baseStats": {
       "hitPoint": 35,
@@ -3441,7 +3441,7 @@
   },
   {
     "name": "ニャース",
-    "nameEn": "Ivysaur",
+    "nameEn": "Meowth",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 40,
@@ -3494,7 +3494,7 @@
   },
   {
     "name": "ニャース-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Meowth-1",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 40,
@@ -3547,7 +3547,7 @@
   },
   {
     "name": "ニャース-2",
-    "nameEn": "Ivysaur",
+    "nameEn": "Meowth-2",
     "types": ["はがね"],
     "baseStats": {
       "hitPoint": 50,
@@ -3598,7 +3598,7 @@
   },
   {
     "name": "ペルシアン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Persian",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 65,
@@ -3649,7 +3649,7 @@
   },
   {
     "name": "ペルシアン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Persian-1",
     "types": ["あく"],
     "baseStats": {
       "hitPoint": 65,
@@ -3704,7 +3704,7 @@
   },
   {
     "name": "コダック",
-    "nameEn": "Ivysaur",
+    "nameEn": "Psyduck",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 50,
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "ゴルダック",
-    "nameEn": "Ivysaur",
+    "nameEn": "Golduck",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 80,
@@ -3789,7 +3789,7 @@
   },
   {
     "name": "マンキー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Mankey",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 40,
@@ -3840,7 +3840,7 @@
   },
   {
     "name": "オコリザル",
-    "nameEn": "Ivysaur",
+    "nameEn": "Primeape",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 65,
@@ -3893,7 +3893,7 @@
   },
   {
     "name": "ガーディ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Growlithe",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 55,
@@ -3945,7 +3945,7 @@
   },
   {
     "name": "ウインディ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Arcanine",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 90,
@@ -4000,7 +4000,7 @@
   },
   {
     "name": "ニョロモ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Poliwag",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 40,
@@ -4033,7 +4033,7 @@
   },
   {
     "name": "ニョロゾ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Poliwhirl",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 65,
@@ -4071,7 +4071,7 @@
   },
   {
     "name": "ニョロボン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Poliwrath",
     "types": ["みず", "かくとう"],
     "baseStats": {
       "hitPoint": 90,
@@ -4116,7 +4116,7 @@
   },
   {
     "name": "ケーシィ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Abra",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 25,
@@ -4160,7 +4160,7 @@
   },
   {
     "name": "ユンゲラー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Kadabra",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 40,
@@ -4205,7 +4205,7 @@
   },
   {
     "name": "フーディン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Alakazam",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 55,
@@ -4253,7 +4253,7 @@
   },
   {
     "name": "フーディン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Alakazam-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 55,
@@ -4301,7 +4301,7 @@
   },
   {
     "name": "ワンリキー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Machop",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 70,
@@ -4362,7 +4362,7 @@
   },
   {
     "name": "ゴーリキー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Machoke",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 80,
@@ -4419,7 +4419,7 @@
   },
   {
     "name": "カイリキー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Machamp",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 90,
@@ -4482,7 +4482,7 @@
   },
   {
     "name": "マダツボミ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Bellsprout",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 50,
@@ -4514,7 +4514,7 @@
   },
   {
     "name": "ウツドン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Weepinbell",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 65,
@@ -4547,7 +4547,7 @@
   },
   {
     "name": "ウツボット",
-    "nameEn": "Ivysaur",
+    "nameEn": "Victreebel",
     "types": ["くさ", "どく"],
     "baseStats": {
       "hitPoint": 80,
@@ -4583,7 +4583,7 @@
   },
   {
     "name": "メノクラゲ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Tentacool",
     "types": ["みず", "どく"],
     "baseStats": {
       "hitPoint": 40,
@@ -4621,7 +4621,7 @@
   },
   {
     "name": "ドククラゲ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Tentacruel",
     "types": ["みず", "どく"],
     "baseStats": {
       "hitPoint": 80,
@@ -4661,7 +4661,7 @@
   },
   {
     "name": "イシツブテ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Geodude",
     "types": ["いわ", "じめん"],
     "baseStats": {
       "hitPoint": 40,
@@ -4699,7 +4699,7 @@
   },
   {
     "name": "イシツブテ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Geodude-1",
     "types": ["いわ", "でんき"],
     "baseStats": {
       "hitPoint": 40,
@@ -4740,7 +4740,7 @@
   },
   {
     "name": "ゴローン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Graveler",
     "types": ["いわ", "じめん"],
     "baseStats": {
       "hitPoint": 55,
@@ -4779,7 +4779,7 @@
   },
   {
     "name": "ゴローン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Graveler-1",
     "types": ["いわ", "でんき"],
     "baseStats": {
       "hitPoint": 55,
@@ -4822,7 +4822,7 @@
   },
   {
     "name": "ゴローニャ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Golem",
     "types": ["いわ", "じめん"],
     "baseStats": {
       "hitPoint": 80,
@@ -4864,7 +4864,7 @@
   },
   {
     "name": "ゴローニャ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Golem-1",
     "types": ["いわ", "でんき"],
     "baseStats": {
       "hitPoint": 80,
@@ -4910,7 +4910,7 @@
   },
   {
     "name": "ポニータ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Ponyta",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 50,
@@ -4960,7 +4960,7 @@
   },
   {
     "name": "ポニータ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Ponyta-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 50,
@@ -5007,7 +5007,7 @@
   },
   {
     "name": "ギャロップ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Rapidash",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 65,
@@ -5058,7 +5058,7 @@
   },
   {
     "name": "ギャロップ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Rapidash-1",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -5111,7 +5111,7 @@
   },
   {
     "name": "ヤドン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Slowpoke",
     "types": ["みず", "エスパー"],
     "baseStats": {
       "hitPoint": 90,
@@ -5154,7 +5154,7 @@
   },
   {
     "name": "ヤドン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Slowpoke-1",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 90,
@@ -5197,7 +5197,7 @@
   },
   {
     "name": "ヤドラン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Slowbro",
     "types": ["みず", "エスパー"],
     "baseStats": {
       "hitPoint": 95,
@@ -5250,7 +5250,7 @@
   },
   {
     "name": "ヤドラン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Slowbro-1",
     "types": ["みず", "エスパー"],
     "baseStats": {
       "hitPoint": 95,
@@ -5266,7 +5266,7 @@
   },
   {
     "name": "コイル",
-    "nameEn": "Ivysaur",
+    "nameEn": "Magnemite",
     "types": ["でんき", "はがね"],
     "baseStats": {
       "hitPoint": 25,
@@ -5297,7 +5297,7 @@
   },
   {
     "name": "じしゃくon",
-    "nameEn": "Ivysaur",
+    "nameEn": "Magneton",
     "types": ["でんき", "はがね"],
     "baseStats": {
       "hitPoint": 50,
@@ -5331,7 +5331,7 @@
   },
   {
     "name": "カモネギ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Farfetch’d",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 52,
@@ -5394,7 +5394,7 @@
   },
   {
     "name": "カモネギ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Farfetch’d-1",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 52,
@@ -5450,7 +5450,7 @@
   },
   {
     "name": "ドードー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Doduo",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 35,
@@ -5478,7 +5478,7 @@
   },
   {
     "name": "ドードリオ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Dodrio",
     "types": ["ノーマル", "ひこう"],
     "baseStats": {
       "hitPoint": 60,
@@ -5511,7 +5511,7 @@
   },
   {
     "name": "パウワウ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Seel",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 65,
@@ -5547,7 +5547,7 @@
   },
   {
     "name": "ジュゴン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Dewgong",
     "types": ["みず", "こおり"],
     "baseStats": {
       "hitPoint": 90,
@@ -5586,7 +5586,7 @@
   },
   {
     "name": "ベトベター",
-    "nameEn": "Ivysaur",
+    "nameEn": "Grimer",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 80,
@@ -5630,7 +5630,7 @@
   },
   {
     "name": "ベトベター-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Grimer-1",
     "types": ["どく", "あく"],
     "baseStats": {
       "hitPoint": 80,
@@ -5675,7 +5675,7 @@
   },
   {
     "name": "ベトベトン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Muk",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 105,
@@ -5723,7 +5723,7 @@
   },
   {
     "name": "ベトベトン-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Muk-1",
     "types": ["どく", "あく"],
     "baseStats": {
       "hitPoint": 105,
@@ -5772,7 +5772,7 @@
   },
   {
     "name": "シェルダー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Shellder",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 30,
@@ -5825,7 +5825,7 @@
   },
   {
     "name": "パルシェン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Cloyster",
     "types": ["みず", "こおり"],
     "baseStats": {
       "hitPoint": 50,
@@ -5883,7 +5883,7 @@
   },
   {
     "name": "ゴース",
-    "nameEn": "Ivysaur",
+    "nameEn": "Gastly",
     "types": ["ゴースト", "どく"],
     "baseStats": {
       "hitPoint": 30,
@@ -5943,7 +5943,7 @@
   },
   {
     "name": "ゴースト",
-    "nameEn": "Ivysaur",
+    "nameEn": "Haunter",
     "types": ["ゴースト", "どく"],
     "baseStats": {
       "hitPoint": 45,
@@ -5997,7 +5997,7 @@
   },
   {
     "name": "ゲンガー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Gengar",
     "types": ["ゴースト", "どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -6061,7 +6061,7 @@
   },
   {
     "name": "ゲンガー-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Gengar-1",
     "types": ["ゴースト", "どく"],
     "baseStats": {
       "hitPoint": 60,
@@ -6126,7 +6126,7 @@
   },
   {
     "name": "イワーク",
-    "nameEn": "Ivysaur",
+    "nameEn": "Onix",
     "types": ["いわ", "じめん"],
     "baseStats": {
       "hitPoint": 35,
@@ -6184,7 +6184,7 @@
   },
   {
     "name": "スリープ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Drowzee",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -6231,7 +6231,7 @@
   },
   {
     "name": "スリーパー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Hypno",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 85,
@@ -6280,7 +6280,7 @@
   },
   {
     "name": "クラブ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Krabby",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 30,
@@ -6334,7 +6334,7 @@
   },
   {
     "name": "キングラー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Kingler",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 55,
@@ -6389,7 +6389,7 @@
   },
   {
     "name": "ビリリダマ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Voltorb",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 40,
@@ -6420,7 +6420,7 @@
   },
   {
     "name": "マルマイン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Electrode",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 60,
@@ -6453,7 +6453,7 @@
   },
   {
     "name": "タマタマ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Exeggcute",
     "types": ["くさ", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -6487,7 +6487,7 @@
   },
   {
     "name": "ナッシー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Exeggutor",
     "types": ["くさ", "エスパー"],
     "baseStats": {
       "hitPoint": 95,
@@ -6527,7 +6527,7 @@
   },
   {
     "name": "ナッシー-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Exeggutor-1",
     "types": ["くさ", "ドラゴン"],
     "baseStats": {
       "hitPoint": 95,
@@ -6569,7 +6569,7 @@
   },
   {
     "name": "カラカラ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Cubone",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 50,
@@ -6611,7 +6611,7 @@
   },
   {
     "name": "ガラガラ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Marowak",
     "types": ["じめん"],
     "baseStats": {
       "hitPoint": 60,
@@ -6656,7 +6656,7 @@
   },
   {
     "name": "ガラガラ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Marowak-1",
     "types": ["ほのお", "ゴースト"],
     "baseStats": {
       "hitPoint": 60,
@@ -6706,7 +6706,7 @@
   },
   {
     "name": "サワムラー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Hitmonlee",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 50,
@@ -6759,7 +6759,7 @@
   },
   {
     "name": "エビワラー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Hitmonchan",
     "types": ["かくとう"],
     "baseStats": {
       "hitPoint": 50,
@@ -6815,7 +6815,7 @@
   },
   {
     "name": "ベロリンガ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Lickitung",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 90,
@@ -6863,7 +6863,7 @@
   },
   {
     "name": "ドガース",
-    "nameEn": "Ivysaur",
+    "nameEn": "Koffing",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 40,
@@ -6916,7 +6916,7 @@
   },
   {
     "name": "マタドガス",
-    "nameEn": "Ivysaur",
+    "nameEn": "Weezing",
     "types": ["どく"],
     "baseStats": {
       "hitPoint": 65,
@@ -6965,7 +6965,7 @@
   },
   {
     "name": "マタドガス-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Weezing-1",
     "types": ["どく", "フェアリー"],
     "baseStats": {
       "hitPoint": 65,
@@ -7022,7 +7022,7 @@
   },
   {
     "name": "サイホーン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Rhyhorn",
     "types": ["じめん", "いわ"],
     "baseStats": {
       "hitPoint": 80,
@@ -7081,7 +7081,7 @@
   },
   {
     "name": "サイドン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Rhydon",
     "types": ["じめん", "いわ"],
     "baseStats": {
       "hitPoint": 105,
@@ -7150,7 +7150,7 @@
   },
   {
     "name": "ラッキー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Chansey",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 250,
@@ -7199,7 +7199,7 @@
   },
   {
     "name": "モンジャラ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Tangela",
     "types": ["くさ"],
     "baseStats": {
       "hitPoint": 65,
@@ -7232,7 +7232,7 @@
   },
   {
     "name": "ガルーラ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Kangaskhan",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 105,
@@ -7284,7 +7284,7 @@
   },
   {
     "name": "ガルーラ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Kangaskhan-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 105,
@@ -7337,7 +7337,7 @@
   },
   {
     "name": "タッツー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Horsea",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 30,
@@ -7368,7 +7368,7 @@
   },
   {
     "name": "シードラ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Seadra",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 55,
@@ -7401,7 +7401,7 @@
   },
   {
     "name": "トサキント",
-    "nameEn": "Ivysaur",
+    "nameEn": "Goldeen",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 45,
@@ -7450,7 +7450,7 @@
   },
   {
     "name": "アズマオウ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Seaking",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 80,
@@ -7496,7 +7496,7 @@
   },
   {
     "name": "ヒトデマン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Staryu",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 30,
@@ -7528,7 +7528,7 @@
   },
   {
     "name": "スターミー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Starmie",
     "types": ["みず", "エスパー"],
     "baseStats": {
       "hitPoint": 60,
@@ -7566,7 +7566,7 @@
   },
   {
     "name": "バリヤード",
-    "nameEn": "Ivysaur",
+    "nameEn": "Mr. Mime",
     "types": ["エスパー", "フェアリー"],
     "baseStats": {
       "hitPoint": 40,
@@ -7640,7 +7640,7 @@
   },
   {
     "name": "バリヤード-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Mr. Mime-1",
     "types": ["こおり", "エスパー"],
     "baseStats": {
       "hitPoint": 50,
@@ -7719,7 +7719,7 @@
   },
   {
     "name": "ストライク",
-    "nameEn": "Ivysaur",
+    "nameEn": "Scyther",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 70,
@@ -7760,7 +7760,7 @@
   },
   {
     "name": "ルージュラ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Jynx",
     "types": ["こおり", "エスパー"],
     "baseStats": {
       "hitPoint": 65,
@@ -7809,7 +7809,7 @@
   },
   {
     "name": "エレブー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Electabuzz",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 65,
@@ -7851,7 +7851,7 @@
   },
   {
     "name": "ブーバー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Magmar",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 65,
@@ -7890,7 +7890,7 @@
   },
   {
     "name": "カイロス",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pinsir",
     "types": ["むし"],
     "baseStats": {
       "hitPoint": 65,
@@ -7928,7 +7928,7 @@
   },
   {
     "name": "カイロス-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Pinsir-1",
     "types": ["むし", "ひこう"],
     "baseStats": {
       "hitPoint": 65,
@@ -7967,7 +7967,7 @@
   },
   {
     "name": "ケンタロス",
-    "nameEn": "Ivysaur",
+    "nameEn": "Tauros",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 75,
@@ -8009,7 +8009,7 @@
   },
   {
     "name": "コイキング",
-    "nameEn": "Ivysaur",
+    "nameEn": "Magikarp",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 20,
@@ -8025,7 +8025,7 @@
   },
   {
     "name": "ギャラドス",
-    "nameEn": "Ivysaur",
+    "nameEn": "Gyarados",
     "types": ["みず", "ひこう"],
     "baseStats": {
       "hitPoint": 95,
@@ -8078,7 +8078,7 @@
   },
   {
     "name": "ギャラドス-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Gyarados-1",
     "types": ["みず", "あく"],
     "baseStats": {
       "hitPoint": 95,
@@ -8131,7 +8131,7 @@
   },
   {
     "name": "ラプラス",
-    "nameEn": "Ivysaur",
+    "nameEn": "Lapras",
     "types": ["みず", "こおり"],
     "baseStats": {
       "hitPoint": 130,
@@ -8189,7 +8189,7 @@
   },
   {
     "name": "メタモン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Ditto",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 48,
@@ -8205,7 +8205,7 @@
   },
   {
     "name": "イーブイ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Eevee",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 55,
@@ -8259,7 +8259,7 @@
   },
   {
     "name": "イーブイ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Eevee-1",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 65,
@@ -8313,7 +8313,7 @@
   },
   {
     "name": "シャワーズ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Vaporeon",
     "types": ["みず"],
     "baseStats": {
       "hitPoint": 130,
@@ -8374,7 +8374,7 @@
   },
   {
     "name": "サンダース",
-    "nameEn": "Ivysaur",
+    "nameEn": "Jolteon",
     "types": ["でんき"],
     "baseStats": {
       "hitPoint": 65,
@@ -8432,7 +8432,7 @@
   },
   {
     "name": "ブースター",
-    "nameEn": "Ivysaur",
+    "nameEn": "Flareon",
     "types": ["ほのお"],
     "baseStats": {
       "hitPoint": 65,
@@ -8489,7 +8489,7 @@
   },
   {
     "name": "ポリゴン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Porygon",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 65,
@@ -8527,7 +8527,7 @@
   },
   {
     "name": "オムナイト",
-    "nameEn": "Ivysaur",
+    "nameEn": "Omanyte",
     "types": ["いわ", "みず"],
     "baseStats": {
       "hitPoint": 35,
@@ -8561,7 +8561,7 @@
   },
   {
     "name": "オムスター",
-    "nameEn": "Ivysaur",
+    "nameEn": "Omastar",
     "types": ["いわ", "みず"],
     "baseStats": {
       "hitPoint": 70,
@@ -8599,7 +8599,7 @@
   },
   {
     "name": "カブト",
-    "nameEn": "Ivysaur",
+    "nameEn": "Kabuto",
     "types": ["いわ", "みず"],
     "baseStats": {
       "hitPoint": 30,
@@ -8636,7 +8636,7 @@
   },
   {
     "name": "カブトps",
-    "nameEn": "Ivysaur",
+    "nameEn": "Kabutops",
     "types": ["いわ", "みず"],
     "baseStats": {
       "hitPoint": 60,
@@ -8681,7 +8681,7 @@
   },
   {
     "name": "プテラ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Aerodactyl",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -8724,7 +8724,7 @@
   },
   {
     "name": "プテラ-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Aerodactyl-1",
     "types": ["いわ", "ひこう"],
     "baseStats": {
       "hitPoint": 80,
@@ -8766,7 +8766,7 @@
   },
   {
     "name": "カビゴン",
-    "nameEn": "Ivysaur",
+    "nameEn": "Snorlax",
     "types": ["ノーマル"],
     "baseStats": {
       "hitPoint": 160,
@@ -8840,7 +8840,7 @@
   },
   {
     "name": "フリーザー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Articuno",
     "types": ["こおり", "ひこう"],
     "baseStats": {
       "hitPoint": 90,
@@ -8878,7 +8878,7 @@
   },
   {
     "name": "サンダー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Zapdos",
     "types": ["でんき", "ひこう"],
     "baseStats": {
       "hitPoint": 90,
@@ -8916,7 +8916,7 @@
   },
   {
     "name": "ファイヤー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Moltres",
     "types": ["ほのお", "ひこう"],
     "baseStats": {
       "hitPoint": 90,
@@ -8954,7 +8954,7 @@
   },
   {
     "name": "ミニリュウ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Dratini",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 41,
@@ -8991,7 +8991,7 @@
   },
   {
     "name": "ハクリュー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Dragonair",
     "types": ["ドラゴン"],
     "baseStats": {
       "hitPoint": 61,
@@ -9028,7 +9028,7 @@
   },
   {
     "name": "カイリュー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Dragonite",
     "types": ["ドラゴン", "ひこう"],
     "baseStats": {
       "hitPoint": 91,
@@ -9080,7 +9080,7 @@
   },
   {
     "name": "ミュウツー",
-    "nameEn": "Ivysaur",
+    "nameEn": "Mewtwo",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 106,
@@ -9153,7 +9153,7 @@
   },
   {
     "name": "ミュウツー-1",
-    "nameEn": "Ivysaur",
+    "nameEn": "Mewtwo-1",
     "types": ["エスパー", "かくとう"],
     "baseStats": {
       "hitPoint": 106,
@@ -9226,7 +9226,7 @@
   },
   {
     "name": "ミュウツー-2",
-    "nameEn": "Ivysaur",
+    "nameEn": "Mewtwo-2",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 106,
@@ -9299,7 +9299,7 @@
   },
   {
     "name": "ミュウ",
-    "nameEn": "Ivysaur",
+    "nameEn": "Mew",
     "types": ["エスパー"],
     "baseStats": {
       "hitPoint": 100,

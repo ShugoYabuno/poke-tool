@@ -15,7 +15,7 @@ for (let i = 1; i <= 8; i++) {
     name: string
     eggMoves: string[]
   }[] = []
-  const formatted = genJp.map((_pokemon: any) => {
+  const formatted = genJp.map((_pokemon: any, index: number) => {
     const abilities = [...new Set(_pokemon.abilities)]
     const levelUpMoves = _pokemon.level_up_moves.map((_move: any) => _move[1])
     const tms = _pokemon.tms.map((_move: any) => _move[1])
@@ -42,7 +42,7 @@ for (let i = 1; i <= 8; i++) {
 
     return {
       name: _pokemon.name,
-      nameEn: genEn[i].name,
+      nameEn: genEn[index].name,
       types: _pokemon.types,
       baseStats: {
         hitPoint: _pokemon.base_stats[0],
