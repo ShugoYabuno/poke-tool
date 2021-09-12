@@ -3,6 +3,7 @@
     "name": "フシギダネ",
     "nameEn": "Bulbasaur",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Bulbasaur.png",
     "baseStats": {
       "hitPoint": 45,
       "attack": 49,
@@ -59,6 +60,7 @@
     "name": "フシギソウ",
     "nameEn": "Ivysaur",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Ivysaur.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 62,
@@ -109,6 +111,7 @@
     "name": "フシギバナ",
     "nameEn": "Venusaur",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Venusaur.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 82,
@@ -165,6 +168,7 @@
     "name": "フシギバナ-1",
     "nameEn": "Venusaur-1",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 80,
       "attack": 100,
@@ -219,6 +223,7 @@
     "name": "ヒトカゲ",
     "nameEn": "Charmander",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Charmander.png",
     "baseStats": {
       "hitPoint": 39,
       "attack": 52,
@@ -280,6 +285,7 @@
     "name": "リザード",
     "nameEn": "Charmeleon",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Charmeleon.png",
     "baseStats": {
       "hitPoint": 58,
       "attack": 64,
@@ -333,6 +339,7 @@
     "name": "リザードン",
     "nameEn": "Charizard",
     "types": ["ほのお", "ひこう"],
+    "image": "/images/pokemons/Charizard.png",
     "baseStats": {
       "hitPoint": 78,
       "attack": 84,
@@ -398,6 +405,7 @@
     "name": "リザードン-1",
     "nameEn": "Charizard-1",
     "types": ["ほのお", "ドラゴン"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 78,
       "attack": 130,
@@ -463,6 +471,7 @@
     "name": "リザードン-2",
     "nameEn": "Charizard-2",
     "types": ["ほのお", "ひこう"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 78,
       "attack": 104,
@@ -528,6 +537,7 @@
     "name": "ゼニガメ",
     "nameEn": "Squirtle",
     "types": ["みず"],
+    "image": "/images/pokemons/Squirtle.png",
     "baseStats": {
       "hitPoint": 44,
       "attack": 48,
@@ -589,6 +599,7 @@
     "name": "カメール",
     "nameEn": "Wartortle",
     "types": ["みず"],
+    "image": "/images/pokemons/Wartortle.png",
     "baseStats": {
       "hitPoint": 59,
       "attack": 63,
@@ -640,6 +651,7 @@
     "name": "カメックス",
     "nameEn": "Blastoise",
     "types": ["みず"],
+    "image": "/images/pokemons/Blastoise.png",
     "baseStats": {
       "hitPoint": 79,
       "attack": 83,
@@ -697,6 +709,7 @@
     "name": "カメックス-1",
     "nameEn": "Blastoise-1",
     "types": ["みず"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 79,
       "attack": 103,
@@ -755,6 +768,7 @@
     "name": "キャタピー",
     "nameEn": "Caterpie",
     "types": ["むし"],
+    "image": "/images/pokemons/Caterpie.png",
     "baseStats": {
       "hitPoint": 45,
       "attack": 30,
@@ -771,6 +785,7 @@
     "name": "トランセル",
     "nameEn": "Metapod",
     "types": ["むし"],
+    "image": "/images/pokemons/Metapod.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 20,
@@ -787,6 +802,7 @@
     "name": "バタフリー",
     "nameEn": "Butterfree",
     "types": ["むし", "ひこう"],
+    "image": "/images/pokemons/Butterfree.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 45,
@@ -841,6 +857,7 @@
     "name": "ビードル",
     "nameEn": "Weedle",
     "types": ["むし", "どく"],
+    "image": "/images/pokemons/Weedle.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 35,
@@ -857,6 +874,7 @@
     "name": "コクーン",
     "nameEn": "Kakuna",
     "types": ["むし", "どく"],
+    "image": "/images/pokemons/Kakuna.png",
     "baseStats": {
       "hitPoint": 45,
       "attack": 25,
@@ -873,6 +891,7 @@
     "name": "スピアー",
     "nameEn": "Beedrill",
     "types": ["むし", "どく"],
+    "image": "/images/pokemons/Beedrill.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 90,
@@ -914,6 +933,7 @@
     "name": "スピアー-1",
     "nameEn": "Beedrill-1",
     "types": ["むし", "どく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 65,
       "attack": 150,
@@ -955,6 +975,7 @@
     "name": "ポッポ",
     "nameEn": "Pidgey",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/Pidgey.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 45,
@@ -985,6 +1006,7 @@
     "name": "ピジョン",
     "nameEn": "Pidgeotto",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/Pidgeotto.png",
     "baseStats": {
       "hitPoint": 63,
       "attack": 60,
@@ -1015,6 +1037,7 @@
     "name": "ピジョット",
     "nameEn": "Pidgeot",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/Pidgeot.png",
     "baseStats": {
       "hitPoint": 83,
       "attack": 80,
@@ -1047,6 +1070,7 @@
     "name": "ピジョット-1",
     "nameEn": "Pidgeot-1",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 83,
       "attack": 80,
@@ -1079,6 +1103,7 @@
     "name": "コラッタ",
     "nameEn": "Rattata",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Rattata.png",
     "baseStats": {
       "hitPoint": 30,
       "attack": 56,
@@ -1113,6 +1138,7 @@
     "name": "コラッタ-1",
     "nameEn": "Rattata-1",
     "types": ["あく", "ノーマル"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 30,
       "attack": 56,
@@ -1148,6 +1174,7 @@
     "name": "ラッタ",
     "nameEn": "Raticate",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Raticate.png",
     "baseStats": {
       "hitPoint": 55,
       "attack": 81,
@@ -1186,6 +1213,7 @@
     "name": "ラッタ-1",
     "nameEn": "Raticate-1",
     "types": ["あく", "ノーマル"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 75,
       "attack": 71,
@@ -1226,6 +1254,7 @@
     "name": "オニスズメ",
     "nameEn": "Spearow",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/Spearow.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 60,
@@ -1258,6 +1287,7 @@
     "name": "オニドリル",
     "nameEn": "Fearow",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/Fearow.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 90,
@@ -1293,6 +1323,7 @@
     "name": "アーボ",
     "nameEn": "Ekans",
     "types": ["どく"],
+    "image": "/images/pokemons/Ekans.png",
     "baseStats": {
       "hitPoint": 35,
       "attack": 60,
@@ -1330,6 +1361,7 @@
     "name": "アーボック",
     "nameEn": "Arbok",
     "types": ["どく"],
+    "image": "/images/pokemons/Arbok.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 95,
@@ -1373,6 +1405,7 @@
     "name": "ピカチュウ",
     "nameEn": "Pikachu",
     "types": ["でんき"],
+    "image": "/images/pokemons/Pikachu.png",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1432,6 +1465,7 @@
     "name": "ピカチュウ-1",
     "nameEn": "Pikachu-1",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1491,6 +1525,7 @@
     "name": "ピカチュウ-2",
     "nameEn": "Pikachu-2",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1550,6 +1585,7 @@
     "name": "ピカチュウ-3",
     "nameEn": "Pikachu-3",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1609,6 +1645,7 @@
     "name": "ピカチュウ-4",
     "nameEn": "Pikachu-4",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1668,6 +1705,7 @@
     "name": "ピカチュウ-5",
     "nameEn": "Pikachu-5",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1727,6 +1765,7 @@
     "name": "ピカチュウ-6",
     "nameEn": "Pikachu-6",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1786,6 +1825,7 @@
     "name": "ピカチュウ-7",
     "nameEn": "Pikachu-7",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 55,
@@ -1845,6 +1885,7 @@
     "name": "ピカチュウ-8",
     "nameEn": "Pikachu-8",
     "types": ["でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 45,
       "attack": 80,
@@ -1887,6 +1928,7 @@
     "name": "ライチュウ",
     "nameEn": "Raichu",
     "types": ["でんき"],
+    "image": "/images/pokemons/Raichu.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 90,
@@ -1952,6 +1994,7 @@
     "name": "ライチュウ-1",
     "nameEn": "Raichu-1",
     "types": ["でんき", "エスパー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 60,
       "attack": 85,
@@ -2017,6 +2060,7 @@
     "name": "サンド",
     "nameEn": "Sandshrew",
     "types": ["じめん"],
+    "image": "/images/pokemons/Sandshrew.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 75,
@@ -2055,6 +2099,7 @@
     "name": "サンド-1",
     "nameEn": "Sandshrew-1",
     "types": ["こおり", "はがね"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 50,
       "attack": 75,
@@ -2092,6 +2137,7 @@
     "name": "サンドパン",
     "nameEn": "Sandslash",
     "types": ["じめん"],
+    "image": "/images/pokemons/Sandslash.png",
     "baseStats": {
       "hitPoint": 75,
       "attack": 100,
@@ -2133,6 +2179,7 @@
     "name": "サンドパン-1",
     "nameEn": "Sandslash-1",
     "types": ["こおり", "はがね"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 75,
       "attack": 100,
@@ -2174,6 +2221,7 @@
     "name": "ニドラン♀",
     "nameEn": "Nidoran♀",
     "types": ["どく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 55,
       "attack": 47,
@@ -2206,6 +2254,7 @@
     "name": "ニドリーナ",
     "nameEn": "Nidorina",
     "types": ["どく"],
+    "image": "/images/pokemons/Nidorina.png",
     "baseStats": {
       "hitPoint": 70,
       "attack": 62,
@@ -2239,6 +2288,7 @@
     "name": "ニドクイン",
     "nameEn": "Nidoqueen",
     "types": ["どく", "じめん"],
+    "image": "/images/pokemons/Nidoqueen.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 92,
@@ -2293,6 +2343,7 @@
     "name": "ニドラン♂",
     "nameEn": "Nidoran♂",
     "types": ["どく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 46,
       "attack": 57,
@@ -2325,6 +2376,7 @@
     "name": "ニドリーノ",
     "nameEn": "Nidorino",
     "types": ["どく"],
+    "image": "/images/pokemons/Nidorino.png",
     "baseStats": {
       "hitPoint": 61,
       "attack": 72,
@@ -2358,6 +2410,7 @@
     "name": "ニドキング",
     "nameEn": "Nidoking",
     "types": ["どく", "じめん"],
+    "image": "/images/pokemons/Nidoking.png",
     "baseStats": {
       "hitPoint": 81,
       "attack": 102,
@@ -2412,6 +2465,7 @@
     "name": "ピッピ",
     "nameEn": "Clefairy",
     "types": ["フェアリー"],
+    "image": "/images/pokemons/Clefairy.png",
     "baseStats": {
       "hitPoint": 70,
       "attack": 45,
@@ -2484,6 +2538,7 @@
     "name": "ピクシー",
     "nameEn": "Clefable",
     "types": ["フェアリー"],
+    "image": "/images/pokemons/Clefable.png",
     "baseStats": {
       "hitPoint": 95,
       "attack": 70,
@@ -2558,6 +2613,7 @@
     "name": "ロコン",
     "nameEn": "Vulpix",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Vulpix.png",
     "baseStats": {
       "hitPoint": 38,
       "attack": 41,
@@ -2613,6 +2669,7 @@
     "name": "ロコン-1",
     "nameEn": "Vulpix-1",
     "types": ["こおり"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 38,
       "attack": 41,
@@ -2671,6 +2728,7 @@
     "name": "キュウコン",
     "nameEn": "Ninetales",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Ninetales.png",
     "baseStats": {
       "hitPoint": 73,
       "attack": 76,
@@ -2724,6 +2782,7 @@
     "name": "キュウコン-1",
     "nameEn": "Ninetales-1",
     "types": ["こおり", "フェアリー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 73,
       "attack": 67,
@@ -2784,6 +2843,7 @@
     "name": "プリン",
     "nameEn": "Jigglypuff",
     "types": ["ノーマル", "フェアリー"],
+    "image": "/images/pokemons/Jigglypuff.png",
     "baseStats": {
       "hitPoint": 115,
       "attack": 45,
@@ -2833,6 +2893,7 @@
     "name": "プクリン",
     "nameEn": "Wigglytuff",
     "types": ["ノーマル", "フェアリー"],
+    "image": "/images/pokemons/Wigglytuff.png",
     "baseStats": {
       "hitPoint": 140,
       "attack": 70,
@@ -2885,6 +2946,7 @@
     "name": "ズバット",
     "nameEn": "Zubat",
     "types": ["どく", "ひこう"],
+    "image": "/images/pokemons/Zubat.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 45,
@@ -2921,6 +2983,7 @@
     "name": "ゴルバット",
     "nameEn": "Golbat",
     "types": ["どく", "ひこう"],
+    "image": "/images/pokemons/Golbat.png",
     "baseStats": {
       "hitPoint": 75,
       "attack": 80,
@@ -2960,6 +3023,7 @@
     "name": "ナゾノクサ",
     "nameEn": "Oddish",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Oddish.png",
     "baseStats": {
       "hitPoint": 45,
       "attack": 50,
@@ -3012,6 +3076,7 @@
     "name": "クサイハナ",
     "nameEn": "Gloom",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Gloom.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 65,
@@ -3056,6 +3121,7 @@
     "name": "ラフレシア",
     "nameEn": "Vileplume",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Vileplume.png",
     "baseStats": {
       "hitPoint": 75,
       "attack": 80,
@@ -3105,6 +3171,7 @@
     "name": "パラス",
     "nameEn": "Paras",
     "types": ["むし", "くさ"],
+    "image": "/images/pokemons/Paras.png",
     "baseStats": {
       "hitPoint": 35,
       "attack": 70,
@@ -3141,6 +3208,7 @@
     "name": "パラセクト",
     "nameEn": "Parasect",
     "types": ["むし", "くさ"],
+    "image": "/images/pokemons/Parasect.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 95,
@@ -3179,6 +3247,7 @@
     "name": "コンパン",
     "nameEn": "Venonat",
     "types": ["むし", "どく"],
+    "image": "/images/pokemons/Venonat.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 55,
@@ -3208,6 +3277,7 @@
     "name": "モルフォン",
     "nameEn": "Venomoth",
     "types": ["むし", "どく"],
+    "image": "/images/pokemons/Venomoth.png",
     "baseStats": {
       "hitPoint": 70,
       "attack": 65,
@@ -3241,6 +3311,7 @@
     "name": "ディグダ",
     "nameEn": "Diglett",
     "types": ["じめん"],
+    "image": "/images/pokemons/Diglett.png",
     "baseStats": {
       "hitPoint": 10,
       "attack": 55,
@@ -3291,6 +3362,7 @@
     "name": "ディグダ-1",
     "nameEn": "Diglett-1",
     "types": ["じめん", "はがね"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 10,
       "attack": 55,
@@ -3343,6 +3415,7 @@
     "name": "ダグトリオ",
     "nameEn": "Dugtrio",
     "types": ["じめん"],
+    "image": "/images/pokemons/Dugtrio.png",
     "baseStats": {
       "hitPoint": 35,
       "attack": 100,
@@ -3393,6 +3466,7 @@
     "name": "ダグトリオ-1",
     "nameEn": "Dugtrio-1",
     "types": ["じめん", "はがね"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 35,
       "attack": 100,
@@ -3443,6 +3517,7 @@
     "name": "ニャース",
     "nameEn": "Meowth",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Meowth.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 45,
@@ -3496,6 +3571,7 @@
     "name": "ニャース-1",
     "nameEn": "Meowth-1",
     "types": ["あく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 40,
       "attack": 35,
@@ -3549,6 +3625,7 @@
     "name": "ニャース-2",
     "nameEn": "Meowth-2",
     "types": ["はがね"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 50,
       "attack": 65,
@@ -3600,6 +3677,7 @@
     "name": "ペルシアン",
     "nameEn": "Persian",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Persian.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 70,
@@ -3651,6 +3729,7 @@
     "name": "ペルシアン-1",
     "nameEn": "Persian-1",
     "types": ["あく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 65,
       "attack": 60,
@@ -3706,6 +3785,7 @@
     "name": "コダック",
     "nameEn": "Psyduck",
     "types": ["みず"],
+    "image": "/images/pokemons/Psyduck.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 52,
@@ -3747,6 +3827,7 @@
     "name": "ゴルダック",
     "nameEn": "Golduck",
     "types": ["みず"],
+    "image": "/images/pokemons/Golduck.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 82,
@@ -3791,6 +3872,7 @@
     "name": "マンキー",
     "nameEn": "Mankey",
     "types": ["かくとう"],
+    "image": "/images/pokemons/Mankey.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 80,
@@ -3842,6 +3924,7 @@
     "name": "オコリザル",
     "nameEn": "Primeape",
     "types": ["かくとう"],
+    "image": "/images/pokemons/Primeape.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 105,
@@ -3895,6 +3978,7 @@
     "name": "ガーディ",
     "nameEn": "Growlithe",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Growlithe.png",
     "baseStats": {
       "hitPoint": 55,
       "attack": 70,
@@ -3947,6 +4031,7 @@
     "name": "ウインディ",
     "nameEn": "Arcanine",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Arcanine.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 110,
@@ -4002,6 +4087,7 @@
     "name": "ニョロモ",
     "nameEn": "Poliwag",
     "types": ["みず"],
+    "image": "/images/pokemons/Poliwag.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 50,
@@ -4035,6 +4121,7 @@
     "name": "ニョロゾ",
     "nameEn": "Poliwhirl",
     "types": ["みず"],
+    "image": "/images/pokemons/Poliwhirl.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 65,
@@ -4073,6 +4160,7 @@
     "name": "ニョロボン",
     "nameEn": "Poliwrath",
     "types": ["みず", "かくとう"],
+    "image": "/images/pokemons/Poliwrath.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 95,
@@ -4118,6 +4206,7 @@
     "name": "ケーシィ",
     "nameEn": "Abra",
     "types": ["エスパー"],
+    "image": "/images/pokemons/Abra.png",
     "baseStats": {
       "hitPoint": 25,
       "attack": 20,
@@ -4162,6 +4251,7 @@
     "name": "ユンゲラー",
     "nameEn": "Kadabra",
     "types": ["エスパー"],
+    "image": "/images/pokemons/Kadabra.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 35,
@@ -4207,6 +4297,7 @@
     "name": "フーディン",
     "nameEn": "Alakazam",
     "types": ["エスパー"],
+    "image": "/images/pokemons/Alakazam.png",
     "baseStats": {
       "hitPoint": 55,
       "attack": 50,
@@ -4255,6 +4346,7 @@
     "name": "フーディン-1",
     "nameEn": "Alakazam-1",
     "types": ["エスパー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 55,
       "attack": 50,
@@ -4303,6 +4395,7 @@
     "name": "ワンリキー",
     "nameEn": "Machop",
     "types": ["かくとう"],
+    "image": "/images/pokemons/Machop.png",
     "baseStats": {
       "hitPoint": 70,
       "attack": 80,
@@ -4364,6 +4457,7 @@
     "name": "ゴーリキー",
     "nameEn": "Machoke",
     "types": ["かくとう"],
+    "image": "/images/pokemons/Machoke.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 100,
@@ -4421,6 +4515,7 @@
     "name": "カイリキー",
     "nameEn": "Machamp",
     "types": ["かくとう"],
+    "image": "/images/pokemons/Machamp.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 130,
@@ -4484,6 +4579,7 @@
     "name": "マダツボミ",
     "nameEn": "Bellsprout",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Bellsprout.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 75,
@@ -4516,6 +4612,7 @@
     "name": "ウツドン",
     "nameEn": "Weepinbell",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Weepinbell.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 90,
@@ -4549,6 +4646,7 @@
     "name": "ウツボット",
     "nameEn": "Victreebel",
     "types": ["くさ", "どく"],
+    "image": "/images/pokemons/Victreebel.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 105,
@@ -4585,6 +4683,7 @@
     "name": "メノクラゲ",
     "nameEn": "Tentacool",
     "types": ["みず", "どく"],
+    "image": "/images/pokemons/Tentacool.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 40,
@@ -4623,6 +4722,7 @@
     "name": "ドククラゲ",
     "nameEn": "Tentacruel",
     "types": ["みず", "どく"],
+    "image": "/images/pokemons/Tentacruel.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 70,
@@ -4663,6 +4763,7 @@
     "name": "イシツブテ",
     "nameEn": "Geodude",
     "types": ["いわ", "じめん"],
+    "image": "/images/pokemons/Geodude.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 80,
@@ -4701,6 +4802,7 @@
     "name": "イシツブテ-1",
     "nameEn": "Geodude-1",
     "types": ["いわ", "でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 40,
       "attack": 80,
@@ -4742,6 +4844,7 @@
     "name": "ゴローン",
     "nameEn": "Graveler",
     "types": ["いわ", "じめん"],
+    "image": "/images/pokemons/Graveler.png",
     "baseStats": {
       "hitPoint": 55,
       "attack": 95,
@@ -4781,6 +4884,7 @@
     "name": "ゴローン-1",
     "nameEn": "Graveler-1",
     "types": ["いわ", "でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 55,
       "attack": 95,
@@ -4824,6 +4928,7 @@
     "name": "ゴローニャ",
     "nameEn": "Golem",
     "types": ["いわ", "じめん"],
+    "image": "/images/pokemons/Golem.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 120,
@@ -4866,6 +4971,7 @@
     "name": "ゴローニャ-1",
     "nameEn": "Golem-1",
     "types": ["いわ", "でんき"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 80,
       "attack": 120,
@@ -4912,6 +5018,7 @@
     "name": "ポニータ",
     "nameEn": "Ponyta",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Ponyta.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 85,
@@ -4962,6 +5069,7 @@
     "name": "ポニータ-1",
     "nameEn": "Ponyta-1",
     "types": ["エスパー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 50,
       "attack": 85,
@@ -5009,6 +5117,7 @@
     "name": "ギャロップ",
     "nameEn": "Rapidash",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Rapidash.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 100,
@@ -5060,6 +5169,7 @@
     "name": "ギャロップ-1",
     "nameEn": "Rapidash-1",
     "types": ["エスパー", "フェアリー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 65,
       "attack": 100,
@@ -5113,6 +5223,7 @@
     "name": "ヤドン",
     "nameEn": "Slowpoke",
     "types": ["みず", "エスパー"],
+    "image": "/images/pokemons/Slowpoke.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 65,
@@ -5156,6 +5267,7 @@
     "name": "ヤドン-1",
     "nameEn": "Slowpoke-1",
     "types": ["エスパー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 90,
       "attack": 65,
@@ -5199,6 +5311,7 @@
     "name": "ヤドラン",
     "nameEn": "Slowbro",
     "types": ["みず", "エスパー"],
+    "image": "/images/pokemons/Slowbro.png",
     "baseStats": {
       "hitPoint": 95,
       "attack": 75,
@@ -5252,6 +5365,7 @@
     "name": "ヤドラン-1",
     "nameEn": "Slowbro-1",
     "types": ["みず", "エスパー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 95,
       "attack": 75,
@@ -5268,6 +5382,7 @@
     "name": "コイル",
     "nameEn": "Magnemite",
     "types": ["でんき", "はがね"],
+    "image": "/images/pokemons/Magnemite.png",
     "baseStats": {
       "hitPoint": 25,
       "attack": 35,
@@ -5299,6 +5414,7 @@
     "name": "じしゃくon",
     "nameEn": "Magneton",
     "types": ["でんき", "はがね"],
+    "image": "/images/pokemons/Magneton.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 60,
@@ -5333,6 +5449,7 @@
     "name": "カモネギ",
     "nameEn": "Farfetch’d",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 52,
       "attack": 90,
@@ -5396,6 +5513,7 @@
     "name": "カモネギ-1",
     "nameEn": "Farfetch’d-1",
     "types": ["かくとう"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 52,
       "attack": 95,
@@ -5452,6 +5570,7 @@
     "name": "ドードー",
     "nameEn": "Doduo",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/Doduo.png",
     "baseStats": {
       "hitPoint": 35,
       "attack": 85,
@@ -5480,6 +5599,7 @@
     "name": "ドードリオ",
     "nameEn": "Dodrio",
     "types": ["ノーマル", "ひこう"],
+    "image": "/images/pokemons/Dodrio.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 110,
@@ -5513,6 +5633,7 @@
     "name": "パウワウ",
     "nameEn": "Seel",
     "types": ["みず"],
+    "image": "/images/pokemons/Seel.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 45,
@@ -5549,6 +5670,7 @@
     "name": "ジュゴン",
     "nameEn": "Dewgong",
     "types": ["みず", "こおり"],
+    "image": "/images/pokemons/Dewgong.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 70,
@@ -5588,6 +5710,7 @@
     "name": "ベトベター",
     "nameEn": "Grimer",
     "types": ["どく"],
+    "image": "/images/pokemons/Grimer.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 80,
@@ -5632,6 +5755,7 @@
     "name": "ベトベター-1",
     "nameEn": "Grimer-1",
     "types": ["どく", "あく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 80,
       "attack": 80,
@@ -5677,6 +5801,7 @@
     "name": "ベトベトン",
     "nameEn": "Muk",
     "types": ["どく"],
+    "image": "/images/pokemons/Muk.png",
     "baseStats": {
       "hitPoint": 105,
       "attack": 105,
@@ -5725,6 +5850,7 @@
     "name": "ベトベトン-1",
     "nameEn": "Muk-1",
     "types": ["どく", "あく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 105,
       "attack": 105,
@@ -5774,6 +5900,7 @@
     "name": "シェルダー",
     "nameEn": "Shellder",
     "types": ["みず"],
+    "image": "/images/pokemons/Shellder.png",
     "baseStats": {
       "hitPoint": 30,
       "attack": 65,
@@ -5827,6 +5954,7 @@
     "name": "パルシェン",
     "nameEn": "Cloyster",
     "types": ["みず", "こおり"],
+    "image": "/images/pokemons/Cloyster.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 95,
@@ -5885,6 +6013,7 @@
     "name": "ゴース",
     "nameEn": "Gastly",
     "types": ["ゴースト", "どく"],
+    "image": "/images/pokemons/Gastly.png",
     "baseStats": {
       "hitPoint": 30,
       "attack": 35,
@@ -5945,6 +6074,7 @@
     "name": "ゴースト",
     "nameEn": "Haunter",
     "types": ["ゴースト", "どく"],
+    "image": "/images/pokemons/Haunter.png",
     "baseStats": {
       "hitPoint": 45,
       "attack": 50,
@@ -5999,6 +6129,7 @@
     "name": "ゲンガー",
     "nameEn": "Gengar",
     "types": ["ゴースト", "どく"],
+    "image": "/images/pokemons/Gengar.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 65,
@@ -6063,6 +6194,7 @@
     "name": "ゲンガー-1",
     "nameEn": "Gengar-1",
     "types": ["ゴースト", "どく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 60,
       "attack": 65,
@@ -6128,6 +6260,7 @@
     "name": "イワーク",
     "nameEn": "Onix",
     "types": ["いわ", "じめん"],
+    "image": "/images/pokemons/Onix.png",
     "baseStats": {
       "hitPoint": 35,
       "attack": 45,
@@ -6186,6 +6319,7 @@
     "name": "スリープ",
     "nameEn": "Drowzee",
     "types": ["エスパー"],
+    "image": "/images/pokemons/Drowzee.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 48,
@@ -6233,6 +6367,7 @@
     "name": "スリーパー",
     "nameEn": "Hypno",
     "types": ["エスパー"],
+    "image": "/images/pokemons/Hypno.png",
     "baseStats": {
       "hitPoint": 85,
       "attack": 73,
@@ -6282,6 +6417,7 @@
     "name": "クラブ",
     "nameEn": "Krabby",
     "types": ["みず"],
+    "image": "/images/pokemons/Krabby.png",
     "baseStats": {
       "hitPoint": 30,
       "attack": 105,
@@ -6336,6 +6472,7 @@
     "name": "キングラー",
     "nameEn": "Kingler",
     "types": ["みず"],
+    "image": "/images/pokemons/Kingler.png",
     "baseStats": {
       "hitPoint": 55,
       "attack": 130,
@@ -6391,6 +6528,7 @@
     "name": "ビリリダマ",
     "nameEn": "Voltorb",
     "types": ["でんき"],
+    "image": "/images/pokemons/Voltorb.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 30,
@@ -6422,6 +6560,7 @@
     "name": "マルマイン",
     "nameEn": "Electrode",
     "types": ["でんき"],
+    "image": "/images/pokemons/Electrode.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 50,
@@ -6455,6 +6594,7 @@
     "name": "タマタマ",
     "nameEn": "Exeggcute",
     "types": ["くさ", "エスパー"],
+    "image": "/images/pokemons/Exeggcute.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 40,
@@ -6489,6 +6629,7 @@
     "name": "ナッシー",
     "nameEn": "Exeggutor",
     "types": ["くさ", "エスパー"],
+    "image": "/images/pokemons/Exeggutor.png",
     "baseStats": {
       "hitPoint": 95,
       "attack": 95,
@@ -6529,6 +6670,7 @@
     "name": "ナッシー-1",
     "nameEn": "Exeggutor-1",
     "types": ["くさ", "ドラゴン"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 95,
       "attack": 105,
@@ -6571,6 +6713,7 @@
     "name": "カラカラ",
     "nameEn": "Cubone",
     "types": ["じめん"],
+    "image": "/images/pokemons/Cubone.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 50,
@@ -6613,6 +6756,7 @@
     "name": "ガラガラ",
     "nameEn": "Marowak",
     "types": ["じめん"],
+    "image": "/images/pokemons/Marowak.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 80,
@@ -6658,6 +6802,7 @@
     "name": "ガラガラ-1",
     "nameEn": "Marowak-1",
     "types": ["ほのお", "ゴースト"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 60,
       "attack": 80,
@@ -6708,6 +6853,7 @@
     "name": "サワムラー",
     "nameEn": "Hitmonlee",
     "types": ["かくとう"],
+    "image": "/images/pokemons/Hitmonlee.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 120,
@@ -6761,6 +6907,7 @@
     "name": "エビワラー",
     "nameEn": "Hitmonchan",
     "types": ["かくとう"],
+    "image": "/images/pokemons/Hitmonchan.png",
     "baseStats": {
       "hitPoint": 50,
       "attack": 105,
@@ -6817,6 +6964,7 @@
     "name": "ベロリンガ",
     "nameEn": "Lickitung",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Lickitung.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 55,
@@ -6865,6 +7013,7 @@
     "name": "ドガース",
     "nameEn": "Koffing",
     "types": ["どく"],
+    "image": "/images/pokemons/Koffing.png",
     "baseStats": {
       "hitPoint": 40,
       "attack": 65,
@@ -6918,6 +7067,7 @@
     "name": "マタドガス",
     "nameEn": "Weezing",
     "types": ["どく"],
+    "image": "/images/pokemons/Weezing.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 90,
@@ -6967,6 +7117,7 @@
     "name": "マタドガス-1",
     "nameEn": "Weezing-1",
     "types": ["どく", "フェアリー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 65,
       "attack": 90,
@@ -7024,6 +7175,7 @@
     "name": "サイホーン",
     "nameEn": "Rhyhorn",
     "types": ["じめん", "いわ"],
+    "image": "/images/pokemons/Rhyhorn.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 85,
@@ -7083,6 +7235,7 @@
     "name": "サイドン",
     "nameEn": "Rhydon",
     "types": ["じめん", "いわ"],
+    "image": "/images/pokemons/Rhydon.png",
     "baseStats": {
       "hitPoint": 105,
       "attack": 130,
@@ -7152,6 +7305,7 @@
     "name": "ラッキー",
     "nameEn": "Chansey",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Chansey.png",
     "baseStats": {
       "hitPoint": 250,
       "attack": 5,
@@ -7201,6 +7355,7 @@
     "name": "モンジャラ",
     "nameEn": "Tangela",
     "types": ["くさ"],
+    "image": "/images/pokemons/Tangela.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 55,
@@ -7234,6 +7389,7 @@
     "name": "ガルーラ",
     "nameEn": "Kangaskhan",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Kangaskhan.png",
     "baseStats": {
       "hitPoint": 105,
       "attack": 95,
@@ -7286,6 +7442,7 @@
     "name": "ガルーラ-1",
     "nameEn": "Kangaskhan-1",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 105,
       "attack": 125,
@@ -7339,6 +7496,7 @@
     "name": "タッツー",
     "nameEn": "Horsea",
     "types": ["みず"],
+    "image": "/images/pokemons/Horsea.png",
     "baseStats": {
       "hitPoint": 30,
       "attack": 40,
@@ -7370,6 +7528,7 @@
     "name": "シードラ",
     "nameEn": "Seadra",
     "types": ["みず"],
+    "image": "/images/pokemons/Seadra.png",
     "baseStats": {
       "hitPoint": 55,
       "attack": 65,
@@ -7403,6 +7562,7 @@
     "name": "トサキント",
     "nameEn": "Goldeen",
     "types": ["みず"],
+    "image": "/images/pokemons/Goldeen.png",
     "baseStats": {
       "hitPoint": 45,
       "attack": 67,
@@ -7452,6 +7612,7 @@
     "name": "アズマオウ",
     "nameEn": "Seaking",
     "types": ["みず"],
+    "image": "/images/pokemons/Seaking.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 92,
@@ -7498,6 +7659,7 @@
     "name": "ヒトデマン",
     "nameEn": "Staryu",
     "types": ["みず"],
+    "image": "/images/pokemons/Staryu.png",
     "baseStats": {
       "hitPoint": 30,
       "attack": 45,
@@ -7530,6 +7692,7 @@
     "name": "スターミー",
     "nameEn": "Starmie",
     "types": ["みず", "エスパー"],
+    "image": "/images/pokemons/Starmie.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 75,
@@ -7568,6 +7731,7 @@
     "name": "バリヤード",
     "nameEn": "Mr. Mime",
     "types": ["エスパー", "フェアリー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 40,
       "attack": 45,
@@ -7642,6 +7806,7 @@
     "name": "バリヤード-1",
     "nameEn": "Mr. Mime-1",
     "types": ["こおり", "エスパー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 50,
       "attack": 65,
@@ -7721,6 +7886,7 @@
     "name": "ストライク",
     "nameEn": "Scyther",
     "types": ["むし", "ひこう"],
+    "image": "/images/pokemons/Scyther.png",
     "baseStats": {
       "hitPoint": 70,
       "attack": 110,
@@ -7762,6 +7928,7 @@
     "name": "ルージュラ",
     "nameEn": "Jynx",
     "types": ["こおり", "エスパー"],
+    "image": "/images/pokemons/Jynx.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 50,
@@ -7811,6 +7978,7 @@
     "name": "エレブー",
     "nameEn": "Electabuzz",
     "types": ["でんき"],
+    "image": "/images/pokemons/Electabuzz.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 83,
@@ -7853,6 +8021,7 @@
     "name": "ブーバー",
     "nameEn": "Magmar",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Magmar.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 95,
@@ -7892,6 +8061,7 @@
     "name": "カイロス",
     "nameEn": "Pinsir",
     "types": ["むし"],
+    "image": "/images/pokemons/Pinsir.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 125,
@@ -7930,6 +8100,7 @@
     "name": "カイロス-1",
     "nameEn": "Pinsir-1",
     "types": ["むし", "ひこう"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 65,
       "attack": 155,
@@ -7969,6 +8140,7 @@
     "name": "ケンタロス",
     "nameEn": "Tauros",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Tauros.png",
     "baseStats": {
       "hitPoint": 75,
       "attack": 100,
@@ -8011,6 +8183,7 @@
     "name": "コイキング",
     "nameEn": "Magikarp",
     "types": ["みず"],
+    "image": "/images/pokemons/Magikarp.png",
     "baseStats": {
       "hitPoint": 20,
       "attack": 10,
@@ -8027,6 +8200,7 @@
     "name": "ギャラドス",
     "nameEn": "Gyarados",
     "types": ["みず", "ひこう"],
+    "image": "/images/pokemons/Gyarados.png",
     "baseStats": {
       "hitPoint": 95,
       "attack": 125,
@@ -8080,6 +8254,7 @@
     "name": "ギャラドス-1",
     "nameEn": "Gyarados-1",
     "types": ["みず", "あく"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 95,
       "attack": 155,
@@ -8133,6 +8308,7 @@
     "name": "ラプラス",
     "nameEn": "Lapras",
     "types": ["みず", "こおり"],
+    "image": "/images/pokemons/Lapras.png",
     "baseStats": {
       "hitPoint": 130,
       "attack": 85,
@@ -8191,6 +8367,7 @@
     "name": "メタモン",
     "nameEn": "Ditto",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Ditto.png",
     "baseStats": {
       "hitPoint": 48,
       "attack": 48,
@@ -8207,6 +8384,7 @@
     "name": "イーブイ",
     "nameEn": "Eevee",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Eevee.png",
     "baseStats": {
       "hitPoint": 55,
       "attack": 55,
@@ -8261,6 +8439,7 @@
     "name": "イーブイ-1",
     "nameEn": "Eevee-1",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 65,
       "attack": 75,
@@ -8315,6 +8494,7 @@
     "name": "シャワーズ",
     "nameEn": "Vaporeon",
     "types": ["みず"],
+    "image": "/images/pokemons/Vaporeon.png",
     "baseStats": {
       "hitPoint": 130,
       "attack": 65,
@@ -8376,6 +8556,7 @@
     "name": "サンダース",
     "nameEn": "Jolteon",
     "types": ["でんき"],
+    "image": "/images/pokemons/Jolteon.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 65,
@@ -8434,6 +8615,7 @@
     "name": "ブースター",
     "nameEn": "Flareon",
     "types": ["ほのお"],
+    "image": "/images/pokemons/Flareon.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 130,
@@ -8491,6 +8673,7 @@
     "name": "ポリゴン",
     "nameEn": "Porygon",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Porygon.png",
     "baseStats": {
       "hitPoint": 65,
       "attack": 60,
@@ -8529,6 +8712,7 @@
     "name": "オムナイト",
     "nameEn": "Omanyte",
     "types": ["いわ", "みず"],
+    "image": "/images/pokemons/Omanyte.png",
     "baseStats": {
       "hitPoint": 35,
       "attack": 40,
@@ -8563,6 +8747,7 @@
     "name": "オムスター",
     "nameEn": "Omastar",
     "types": ["いわ", "みず"],
+    "image": "/images/pokemons/Omastar.png",
     "baseStats": {
       "hitPoint": 70,
       "attack": 60,
@@ -8601,6 +8786,7 @@
     "name": "カブト",
     "nameEn": "Kabuto",
     "types": ["いわ", "みず"],
+    "image": "/images/pokemons/Kabuto.png",
     "baseStats": {
       "hitPoint": 30,
       "attack": 80,
@@ -8638,6 +8824,7 @@
     "name": "カブトps",
     "nameEn": "Kabutops",
     "types": ["いわ", "みず"],
+    "image": "/images/pokemons/Kabutops.png",
     "baseStats": {
       "hitPoint": 60,
       "attack": 115,
@@ -8683,6 +8870,7 @@
     "name": "プテラ",
     "nameEn": "Aerodactyl",
     "types": ["いわ", "ひこう"],
+    "image": "/images/pokemons/Aerodactyl.png",
     "baseStats": {
       "hitPoint": 80,
       "attack": 105,
@@ -8726,6 +8914,7 @@
     "name": "プテラ-1",
     "nameEn": "Aerodactyl-1",
     "types": ["いわ", "ひこう"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 80,
       "attack": 135,
@@ -8768,6 +8957,7 @@
     "name": "カビゴン",
     "nameEn": "Snorlax",
     "types": ["ノーマル"],
+    "image": "/images/pokemons/Snorlax.png",
     "baseStats": {
       "hitPoint": 160,
       "attack": 110,
@@ -8842,6 +9032,7 @@
     "name": "フリーザー",
     "nameEn": "Articuno",
     "types": ["こおり", "ひこう"],
+    "image": "/images/pokemons/Articuno.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 85,
@@ -8880,6 +9071,7 @@
     "name": "サンダー",
     "nameEn": "Zapdos",
     "types": ["でんき", "ひこう"],
+    "image": "/images/pokemons/Zapdos.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 90,
@@ -8918,6 +9110,7 @@
     "name": "ファイヤー",
     "nameEn": "Moltres",
     "types": ["ほのお", "ひこう"],
+    "image": "/images/pokemons/Moltres.png",
     "baseStats": {
       "hitPoint": 90,
       "attack": 100,
@@ -8956,6 +9149,7 @@
     "name": "ミニリュウ",
     "nameEn": "Dratini",
     "types": ["ドラゴン"],
+    "image": "/images/pokemons/Dratini.png",
     "baseStats": {
       "hitPoint": 41,
       "attack": 64,
@@ -8993,6 +9187,7 @@
     "name": "ハクリュー",
     "nameEn": "Dragonair",
     "types": ["ドラゴン"],
+    "image": "/images/pokemons/Dragonair.png",
     "baseStats": {
       "hitPoint": 61,
       "attack": 84,
@@ -9030,6 +9225,7 @@
     "name": "カイリュー",
     "nameEn": "Dragonite",
     "types": ["ドラゴン", "ひこう"],
+    "image": "/images/pokemons/Dragonite.png",
     "baseStats": {
       "hitPoint": 91,
       "attack": 134,
@@ -9082,6 +9278,7 @@
     "name": "ミュウツー",
     "nameEn": "Mewtwo",
     "types": ["エスパー"],
+    "image": "/images/pokemons/Mewtwo.png",
     "baseStats": {
       "hitPoint": 106,
       "attack": 110,
@@ -9155,6 +9352,7 @@
     "name": "ミュウツー-1",
     "nameEn": "Mewtwo-1",
     "types": ["エスパー", "かくとう"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 106,
       "attack": 190,
@@ -9228,6 +9426,7 @@
     "name": "ミュウツー-2",
     "nameEn": "Mewtwo-2",
     "types": ["エスパー"],
+    "image": "/images/pokemons/",
     "baseStats": {
       "hitPoint": 106,
       "attack": 150,
@@ -9301,6 +9500,7 @@
     "name": "ミュウ",
     "nameEn": "Mew",
     "types": ["エスパー"],
+    "image": "/images/pokemons/Mew.png",
     "baseStats": {
       "hitPoint": 100,
       "attack": 100,
