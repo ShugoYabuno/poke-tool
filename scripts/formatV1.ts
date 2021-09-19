@@ -15,6 +15,7 @@ const getPokemonImagePaths = (): Promise<string[]> => {
 
 const format = async () => {
   const images = await getPokemonImagePaths()
+  const pokemons: Record<string, unknown>[] = []
 
   for (let i = 1; i <= 8; i++) {
     const genJp: Record<
@@ -30,7 +31,7 @@ const format = async () => {
       name: string
       eggMoves: string[]
     }[] = []
-    const formatted = genJp.map((_pokemon: any, index: number) => {
+    genJp.forEach((_pokemon: any, index: number) => {
       const abilities = [...new Set(_pokemon.abilities)]
       const levelUpMoves = _pokemon.level_up_moves.map((_move: any) => _move[1])
       const tms = _pokemon.tms.map((_move: any) => _move[1])
@@ -57,9 +58,9 @@ const format = async () => {
 
       const nameEn = genEn[index].name
       const png = images.find((_image) => _image === `${nameEn}.png`) || ""
-      const filePath = `/images/pokemons/${png}`
+      const filePath = png ? `/images/pokemons/${png}` : ""
 
-      return {
+      pokemons.push({
         name: _pokemon.name,
         nameEn,
         types: _pokemon.types,
@@ -75,14 +76,14 @@ const format = async () => {
         },
         abilities,
         moves
-      }
+      })
     })
-
-    fs.writeFileSync(
-      `./static/processed/pokemon/v1/gen${i}.json`,
-      JSON.stringify(formatted)
-    )
   }
+
+  fs.writeFileSync(
+    `./static/processed/pokemon/v1.json`,
+    JSON.stringify(pokemons)
+  )
 }
 
 format()
