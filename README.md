@@ -1,4 +1,4 @@
-# nuxt_firebase_starter
+# poke-toolbase_starter
 
 ## Build Setup
 

@@ -1,0 +1,51 @@
+.container {
+  max-width: 1200px;
+  min-height: 100vh;
+  margin: 0 auto;
+  // text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+
+  ._item {
+    .container {
+      min-height: 100vh;
+      margin: 0 auto;
+      // text-align: center;
+    }
+
+    .list {
+      display: flex;
+      flex-wrap: wrap;
+
+      ._item {
+        width: 50%;
+      }
+    }
+
+    .pokemon-list {
+      width: 50%;
+      ._pokemon {
+        padding: 1rem;
+      }
+    }
+
+    width: 50%;
+  }
+}
+
+.pokemon-list {
+  width: 50%;
+
+  .pokemon-name-form {
+    width: 12rem;
+  }
+}
+
+.pokemon-form {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}

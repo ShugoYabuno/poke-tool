@@ -3,7 +3,7 @@ import { NuxtConfig } from "@nuxt/types"
 const nuxtConfig: NuxtConfig = {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "nuxt_firebase_starter",
+    title: "poke-toolbase_starter",
     htmlAttrs: {
       lang: "en"
     },
